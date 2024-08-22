@@ -1,0 +1,28 @@
+Doggos to Reducer1: 0 ms
+Message Passing: 9 ms
+MAX Message Passing: 9 ms
+Messages Cost: 1000 bytes
+TOTAL Messages Cost: 1000 bytes
+Mapper1- Total Tweets Processed: 9 TP: 8 ms TFIDF: 2 ms Reducer1 K-means: 118 ms Total: 128 ms
+
+Doggos to Reducer1: 0 ms
+Message Passing: 10 ms
+MAX Message Passing: 10 ms
+Messages Cost: 1010 bytes
+TOTAL Messages Cost: 1010 bytes
+Mapper1- Total Tweets Processed: 9 TP: 4 ms TFIDF: 0 ms Reducer1 K-means: 40 ms Total: 44 ms
+
+Doggos to Reducer1: 0 ms
+Message Passing: 12 ms
+MAX Message Passing: 12 ms
+Messages Cost: 1010 bytes
+TOTAL Messages Cost: 1010 bytes
+Mapper1- Total Tweets Processed: 9 TP: 7 ms TFIDF: 1 ms Reducer1 K-means: 47 ms Total: 55 ms
+
+Doggos to Reducer1: 0 ms
+Message Passing: 12 ms
+MAX Message Passing: 12 ms
+Messages Cost: 1010 bytes
+TOTAL Messages Cost: 1010 bytes
+Mapper1- Total Tweets Processed: 9 TP: 3 ms TFIDF: 0 ms Reducer1 K-means: 41 ms Total: 44 ms
+

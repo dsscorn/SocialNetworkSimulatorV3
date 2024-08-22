@@ -1,0 +1,21 @@
+[Cluster: 1]
+[Centroid:  dogs fluffy leash love park pet treats walk]
+[Points: 3
+userName: doglover1, dogs pet walk leash
+userName: Doggos, pet love dogs treats
+userName: doglover2, pet dogs park fluffy
+]
+[Cluster: 1]
+[Centroid:  cinema comedy family fun hereditary horror incredible love movie night theatre walk]
+[Points: 3
+userName: MoviesGuy, love fun movie walk cinema theatre
+userName: movielover1, horror hereditary night movie
+userName: movielover2, family comedy movie incredible
+]
+[Cluster: 1]
+[Centroid:  cinema comedy family fun hereditary horror incredible love movie night theatre walk]
+[Points: 3
+userName: MoviesGuy, love fun movie walk cinema theatre
+userName: movielover2, family comedy movie incredible
+userName: movielover1, horror hereditary night movie
+]

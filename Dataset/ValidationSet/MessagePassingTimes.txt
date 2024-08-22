@@ -1,0 +1,8 @@
+totalMessagePassingCost: 1000 bytes Nodes: 1
+maxMessagePassingTime: 9 ms Nodes: 1
+totalMessagePassingCost: 1010 bytes Nodes: 1
+maxMessagePassingTime: 10 ms Nodes: 1
+totalMessagePassingCost: 1010 bytes Nodes: 1
+maxMessagePassingTime: 12 ms Nodes: 1
+totalMessagePassingCost: 1010 bytes Nodes: 1
+maxMessagePassingTime: 12 ms Nodes: 1
