@@ -1,0 +1,4 @@
+TorontoStar	5.01E-05	0.20249
+only1nabil	1.04E-05	0.15899
+AcadieSon	6.34E-06	0.15491
+AndreasKalo	3.24E-06	0.16084

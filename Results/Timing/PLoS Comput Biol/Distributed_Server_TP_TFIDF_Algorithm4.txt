@@ -1,0 +1,12 @@
+CosSim=TP+TFIDF+CosSim	Recommender-ServiceAgent1	188	619595200	28799400	30825600	
+CosSim=TP+TFIDF+CosSim	Recommender-ServiceAgent2	187	675100900	32386600	37813700	
+CosSim=TP+TFIDF+CosSim	Recommender-ServiceAgent4	187	598171600	33603500	35951000	
+CosSim=TP+TFIDF+CosSim	Recommender-ServiceAgent3	187	677561700	25933400	36539800	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent4	187	598599000	31088200	6420010700	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	188	617112400	26149800	6787875000	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent3	187	574603400	31940600	7542249200	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent2	187	696101800	35714800	7849906200	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	197	734573500	45804200	7214448000	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent3	196	902158500	40848900	7277147000	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent2	196	930799400	42102600	7345032500	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent4	196	763601700	47163200	7763026900	

@@ -1,0 +1,4 @@
+CatsRuleNews	4.46E-07	0.16022
+TheCatTweeting	3.77E-06	0.15432
+sweetiepiecat	0.00486	0.4424
+ElDiabloZoe	3.48E-08	0.2405

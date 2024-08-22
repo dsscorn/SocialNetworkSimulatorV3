@@ -1,0 +1,3 @@
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	260	457907300	6621800	180120600	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	260	431881600	4583700	161903000	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	18816	6427654300	58390800	3662997700	

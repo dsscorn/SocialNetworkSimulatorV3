@@ -1,0 +1,14 @@
+"screen_name": "sophia64931388"
+"id": 1144445380576317442
+"created_at": "2019-06-27 23:20:16"
+"lang": "null"
+"location": ""
+"time_zone": "null"
+"url": "null"
+"favourites_count": 0
+"followers_count": 0
+"followerIDs": ["friends_count": 18
+"friendIDs": [409486555, 813286, 44409004, 2495199115, 17919972, 44670915, 818839458, 36483808, 2893511188, 2218886514, 79293791, 1059771830, 34507480, 39261061, 176429522, 3072209228, 807095, 85603854]
+"statuses_count": 1
+"date_followed": "2019-06-26"
+"obtained_tweets": 1

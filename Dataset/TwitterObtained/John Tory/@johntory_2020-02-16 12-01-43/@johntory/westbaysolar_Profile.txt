@@ -1,0 +1,14 @@
+"screen_name": "westbaysolar"
+"id": 1227419682229145600
+"created_at": "2020-02-11 21:31:26"
+"lang": "null"
+"location": ""
+"time_zone": "null"
+"url": "null"
+"favourites_count": 0
+"followers_count": 0
+"followerIDs": ["friends_count": 1
+"friendIDs": [89760824]
+"statuses_count": 3
+"date_followed": "2020-02-15"
+"obtained_tweets": 3

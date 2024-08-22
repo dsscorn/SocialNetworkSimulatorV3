@@ -1,0 +1,14 @@
+"screen_name": "Susanvivian10"
+"id": 1228985595822821376
+"created_at": "2020-02-16 05:13:32"
+"lang": "null"
+"location": ""
+"time_zone": "null"
+"url": "null"
+"favourites_count": 0
+"followers_count": 0
+"followerIDs": ["friends_count": 6
+"friendIDs": [2226739236, 19407025, 89760824, 14904437, 5558312, 118756393]
+"statuses_count": 1
+"date_followed": "2020-02-15"
+"obtained_tweets": 1

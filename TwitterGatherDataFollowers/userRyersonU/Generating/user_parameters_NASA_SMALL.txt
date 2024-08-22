@@ -1,0 +1,4 @@
+NASA	0.00317	0.70236
+si_pritch	5.39E-08	0.21108
+ycleensrrc	2.15E-08	0.28987
+dianacarey47	1.07E-07	0.18671

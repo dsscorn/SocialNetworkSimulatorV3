@@ -1,0 +1,143 @@
+@relation tweets
+
+@attribute Text string
+@attribute result {RyersonU, TheCatTweeting}
+
+@data
+'746106542873677824	2016-06-23 18:23:56	92842008	HRBlockCanada	children automatically qualify additional creditsbenefits',RyersonU
+'746106128048623617	2016-06-23 18:22:17	92842008	HRBlockCanada	vous avez des enfants vous pouvez avoir droit automatiquement des avantages additionnels',RyersonU 
+'746075978775072768	2016-06-23 16:22:29	92842008	HRBlockCanada	socialextremely hr block blee', RyersonU
+'745991565718364161	2016-06-23 10:47:03	92842008	HRBlockCanada	hardeep hr block canada blee',RyersonU
+'745248552943747072	2016-06-21 09:34:35	92842008	HRBlockCanada	audimidtown hr block blee',RyersonU
+'745235854071894017	2016-06-21 08:44:08	92842008	HRBlockCanada	siempreconbnt hr block blee',RyersonU
+'744873024168419328	2016-06-20 08:42:22	92842008	HRBlockCanada	nyfapyvicypo hr block canada blee',RyersonU
+'744872659050074112	2016-06-20 08:40:55	92842008	HRBlockCanada	akribeiauk hr block canada blee',RyersonU
+'743511519237898240	2016-06-16 14:32:14	92842008	HRBlockCanada	jhonalondon answers tax questions blee',RyersonU
+'743424050165350400	2016-06-16 08:44:40	92842008	HRBlockCanada	hicham hr block canada blee',RyersonU
+'743423947904028672	2016-06-16 08:44:15	92842008	HRBlockCanada	beatsbylegion hr block canada blee',RyersonU
+'743423739472154625	2016-06-16 08:43:26	92842008	HRBlockCanada	vladshark hr block canada blee',RyersonU
+'743423439499853826	2016-06-16 08:42:14	92842008	HRBlockCanada	mrcinternation hr block canada blee',
+'743423405668577280	2016-06-16 08:42:06	92842008	HRBlockCanada	briannapaulos hr block canada blee',RyersonU
+'743063162635722753	2016-06-15 08:50:38	92842008	HRBlockCanada	pennyfarthing hr block canada blee',RyersonU
+'743062994033205248	2016-06-15 08:49:57	92842008	HRBlockCanada	maagiimarlaa hr block canada blee',RyersonU
+'743062805587197952	2016-06-15 08:49:12	92842008	HRBlockCanada	lizetteppf hr block canada blee',RyersonU
+'743062763539308546	2016-06-15 08:49:02	92842008	HRBlockCanada	lacostsaid hr block canada blee',RyersonU
+'743061649976745984	2016-06-15 08:44:37	92842008	HRBlockCanada	volunteerguides hr block canada blee',RyersonU
+'743061608662867972	2016-06-15 08:44:27	92842008	HRBlockCanada	hr block canada blee',RyersonU
+'743061348771368960	2016-06-15 08:43:25	92842008	HRBlockCanada	popcanradio hr block canada blee,'RyersonU
+'743061242957422592	2016-06-15 08:43:00	92842008	HRBlockCanada	canuckfanboy hr block canada blee',RyersonU
+'742828490404298752	2016-06-14 17:18:07	92842008	HRBlockCanada	offshorecorptal follow sara',RyersonU
+'742745500630188032	2016-06-14 11:48:21	92842008	HRBlockCanada	thedville havnt contacted escalate issue hope contacted shortly plz sara',RyersonU
+'742338121430339585	2016-06-13 08:49:34	92842008	HRBlockCanada	ufoartist hr block canada blee',RyersonU
+'742338049586036736	2016-06-13 08:49:17	92842008	HRBlockCanada	trendhunter hr block canada blee',RyersonU
+'741352766459629568	2016-06-10 15:34:07	92842008	HRBlockCanada	nous pouvons vous aider voyez comment',RyersonU
+'741346374147399680	2016-06-10 15:08:43	92842008	HRBlockCanada	worldcompassion hr block canada blee',RyersonU
+'741277838880411648	2016-06-10 10:36:23	92842008	HRBlockCanada	spartachris reach provide assistance situation margaret',RyersonU
+'741249351880704001	2016-06-10 08:43:11	92842008	HRBlockCanada	dirilis hr block canada blee',RyersonU
+'741019959099162624	2016-06-09 17:31:40	92842008	HRBlockCanada	confused tax filing obligations check tips success',RyersonU
+'740967444106350592	2016-06-09 14:02:59	92842008	HRBlockCanada	bluearbutus hr block canada blee'RyersonU
+'740896981061500929	2016-06-09 09:23:00	92842008	HRBlockCanada	gallagherauthor hr block canada blee',RyersonU
+'740666041022353408	2016-06-08 18:05:19	92842008	HRBlockCanada	enzobuona follow sara',RyersonU
+'740564351015215104	2016-06-08 11:21:14	92842008	HRBlockCanada	ductiem hr block canada blee',RyersonU
+'740529232648900608	2016-06-08 09:01:42	92842008	HRBlockCanada	canuckfanboy hear pm file looked difference',RyersonU
+'740281555654828032	2016-06-07 16:37:31	92842008	HRBlockCanada	thedville contacted contacted member mgmt team eow blee',RyersonU
+'740165406795653120	2016-06-07 08:55:59	92842008	HRBlockCanada	gornaljuliann hr block canada blee',RyersonU
+'739816451112980480	2016-06-06 09:49:21	92842008	HRBlockCanada	anujitghosh hr block canada blee',RyersonU
+'739816324319313920	2016-06-06 09:48:51	92842008	HRBlockCanada	syedwaleedali hr block canada blee',RyersonU
+'739816245298638849	2016-06-06 09:48:32	92842008	HRBlockCanada	alexandriaradde hr block canada blee',RyersonU
+'739816063857131521	2016-06-06 09:47:49	92842008	HRBlockCanada	kesv hr block canada blee',RyersonU
+'739815869140901888	2016-06-06 09:47:02	92842008	HRBlockCanada	freed hr block canada blee',RyersonU
+'738470190543818752	2016-06-02 16:39:48	92842008	HRBlockCanada	tabebaworoj us help blee',RyersonU
+'738351594903863297	2016-06-02 08:48:32	92842008	HRBlockCanada	lradionetwork great day blee',RyersonU
+'738351337587376129	2016-06-02 08:47:31	92842008	HRBlockCanada	chocobii hr block canada blee',RyersonU
+'737993608058396672	2016-06-01 09:06:02	92842008	HRBlockCanada	sandpalerts hope great day blee',RyersonU
+'737716657183920128	2016-05-31 14:45:31	92842008	HRBlockCanada	dukeempatheia duke hope great day blee',RyersonU
+'737626959421833216	2016-05-31 08:49:06	92842008	HRBlockCanada	cvsllc great day blee',RyersonU
+'737375228150550528	2016-05-30 16:08:48	92842008	HRBlockCanada	tanyafortune hope great day blee',RyersonU
+'737297850694934529	2016-05-30 11:01:20	92842008	HRBlockCanada	paola follow sara',RyersonU
+'736240951543222272	2016-05-27 13:01:36	92842008	HRBlockCanada	thedville office researching issue hear asap daniel',RyersonU
+'736207049768374272	2016-05-27 10:46:53	92842008	HRBlockCanada	realmikechan mike pls dm assistance sorting issue contact info removed request',RyersonU
+'736198536321060865	2016-05-27 10:13:03	92842008	HRBlockCanada	pattipaccagnan offices open taxes office locator',RyersonU
+'736197258757197825	2016-05-27 10:07:59	92842008	HRBlockCanada	lnco office locator offices open file taxes',RyersonU
+'735940908978307072	2016-05-26 17:09:20	92842008	HRBlockCanada	stefanmelnyk offices open file taxes office locator',RyersonU
+'735924214096498688	2016-05-26 16:03:00	92842008	HRBlockCanada	realmikechan mike dm daniel',RyersonU
+'735916377236725760	2016-05-26 15:31:51	92842008	HRBlockCanada	realmikechan mike help dm details daniel',RyersonU
+'735836332233240576	2016-05-26 10:13:47	92842008	HRBlockCanada	realmikechan mike info refund pls phone cra weblink info',RyersonU
+'735834697847046146	2016-05-26 10:07:17	92842008	HRBlockCanada	james info filing outofcountry daniel',RyersonU
+'735586461169397762	2016-05-25 17:40:53	92842008	HRBlockCanada	ericlowley eric bad experience services help dm details daniel',RyersonU
+'735545427571924992	2016-05-25 14:57:50	92842008	HRBlockCanada	riversbenddev open file taxes office locator',RyersonU
+'735506800615661568	2016-05-25 12:24:20	92842008	HRBlockCanada	channel media daniel',RyersonU
+'735474347385737217	2016-05-25 10:15:23	92842008	HRBlockCanada	workingwomantv offices open file taxes find office',RyersonU
+'735118262745305090	2016-05-24 10:40:26	92842008	HRBlockCanada	bonadrone info services small business daniel',RyersonU
+'735117300316000256	2016-05-24 10:36:36	92842008	HRBlockCanada	womenofcanadaeh check free diy software daniel',RyersonU
+'735116293586751489	2016-05-24 10:32:36	92842008	HRBlockCanada	saratharakan link info services small business daniel',RyersonU
+'735115905793949696	2016-05-24 10:31:04	92842008	HRBlockCanada	jareviewsala check out free diy software daniel',RyersonU
+'735115211917627392	2016-05-24 10:28:18	92842008	HRBlockCanada	rebduckfintech link free diy software daniel',RyersonU
+'735114779006619648	2016-05-24 10:26:35	92842008	HRBlockCanada	naomiahmad check free diy software daniel',RyersonU
+'735114290034704384	2016-05-24 10:24:39	92842008	HRBlockCanada	vaughan link free diy software daniel',RyersonU
+'735113771287384065	2016-05-24 10:22:35	92842008	HRBlockCanada	evoetarta bonjour merci de nous suivre daniel',RyersonU
+'735113395561730048	2016-05-24 10:21:05	92842008	HRBlockCanada	kristieredford check free diy software daniel',RyersonU
+'735112978987634690	2016-05-24 10:19:26	92842008	HRBlockCanada	riddell check free diy software daniel',RyersonU
+'735112589751914496	2016-05-24 10:17:53	92842008	HRBlockCanada	lucialukacova check free diy software daniel',RyersonU
+'735111518627500032	2016-05-24 10:13:38	92842008	HRBlockCanada	realoneluvcali check free diy software daniel',RyersonU
+'733679269482795009	2016-05-20 11:22:23	92842008	HRBlockCanada	ayansharma follow sara',RyersonU
+'733679210510856192	2016-05-20 11:22:09	92842008	HRBlockCanada	feedyourbrain follow great day sara',RyersonU
+'733322381880500224	2016-05-19 11:44:14	92842008	HRBlockCanada	carrot main difference wdownload software computer computer crashes will reinstall daniel',RyersonU
+'733321345107365888	2016-05-19 11:40:07	92842008	HRBlockCanada	joblijobnow bojour merci de nous suivre daniel',RyersonU
+'733041786650664960	2016-05-18 17:09:15	92842008	HRBlockCanada	small business owner tips help file june',RyersonU
+'733041686167748608	2016-05-18 17:08:51	92842008	HRBlockCanada	vous avez une petite entreprise quelques conseils pour vous aider avant le juin',RyersonU
+'732983860732911616	2016-05-18 13:19:05	92842008	HRBlockCanada	mailroofhq check free diy software daniel',RyersonU
+'732969002712993793	2016-05-18 12:20:02	92842008	HRBlockCanada	zhjiwani zeeshan will help you pls dm details daniel',RyersonU
+'732939882536914944	2016-05-18 10:24:20	92842008	HRBlockCanada	buydeal bojour merci de nous suivre daniel',RyersonU
+'732938921097744384	2016-05-18 10:20:30	92842008	HRBlockCanada	diligenthq check free diy software daniel',RyersonU
+'732938329629569025	2016-05-18 10:18:09	92842008	HRBlockCanada	rcslsj check free diy software daniel',RyersonU
+'732647198874316800	2016-05-17 15:01:18	92842008	HRBlockCanada	hoovercandy letting daniel',RyersonU
+'732644403345383424	2016-05-17 14:50:12	92842008	HRBlockCanada	weblion check free diy software daniel',RyersonU
+'732644062948253697	2016-05-17 14:48:51	92842008	HRBlockCanada	hoovercandy dm details issue full office location filed daniel',RyersonU
+'732632011903373313	2016-05-17 14:00:57	92842008	HRBlockCanada	candlelighters check free diy software daniel',RyersonU
+'732624106625998848	2016-05-17 13:29:33	92842008	HRBlockCanada	careeredgeorg check free diy software daniel',RyersonU
+'732602889588379649	2016-05-17 12:05:14	92842008	HRBlockCanada	angelovskidarko hello darko check free diy software daniel',RyersonU
+'732582532969979907	2016-05-17 10:44:21	92842008	HRBlockCanada	bankjobbing check free diy software daniel',RyersonU
+'732581439435202562	2016-05-17 10:40:00	92842008	HRBlockCanada	andrearobin check services small business daniel',RyersonU
+'732581017110749184	2016-05-17 10:38:19	92842008	HRBlockCanada	tonydemarin check free diy software daniel',RyersonU
+'732580636507021313	2016-05-17 10:36:49	92842008	HRBlockCanada	djdannylunga check free diy software daniel',RyersonU
+'732580010200989696	2016-05-17 10:34:19	92842008	HRBlockCanada	faunikaventure check free diy software daniel',RyersonU
+'732579598261575680	2016-05-17 10:32:41	92842008	HRBlockCanada	byronrastrullo byron check out free diy software daniel',RyersonU
+'732577127434833920	2016-05-17 10:22:52	92842008	HRBlockCanada	distilleryto check out free diy software daniel',RyersonU
+'732334616887992320	2016-05-16 18:19:13	92842008	HRBlockCanada	frankmcveety understand wanted reach feedback considered time sara',RyersonU
+'732332572298989569	2016-05-16 18:11:05	92842008	HRBlockCanada	gracepap follow sara',RyersonU
+'732293952561242113	2016-05-16 15:37:38	92842008	HRBlockCanada	theresaeasterby frankmcveety guys send email donations red cross fort macmurray fires spam sara',RyersonU
+'732284618217562112	2016-05-16 15:00:32	92842008	HRBlockCanada	delao great day sara',RyersonU
+'732284546444496901	2016-05-16 15:00:15	92842008	HRBlockCanada	alysayya follow help answer questions sara',RyersonU
+'732284378525663233	2016-05-16 14:59:35	92842008	HRBlockCanada	nekonezume great monday sara',RyersonU
+'732284243712212992	2016-05-16 14:59:03	92842008	HRBlockCanada	stumblelina supporting breakfastmatters campaign sara',RyersonU
+'732284013772079104	2016-05-16 14:58:08	92842008	HRBlockCanada	shrewdkitty follow sara',RyersonU
+'732283935095328768	2016-05-16 14:57:49	92842008	HRBlockCanada	downtobiznow follow help small business taxes sara',RyersonU
+'732283649085706240	2016-05-16 14:56:41	92842008	HRBlockCanada	hopesaigo great day sara',RyersonU
+'732283233858002944	2016-05-16 14:55:02	92842008	HRBlockCanada	josephwiththom follow sara',RyersonU
+'732283084855377920	2016-05-16 14:54:27	92842008	HRBlockCanada	karhagel us help sara',RyersonU
+'732282976361426945	2016-05-16 14:54:01	92842008	HRBlockCanada	mummamia us questions sara',RyersonU
+'732282522101383168	2016-05-16 14:52:13	92842008	HRBlockCanada	rriaki follow sara',RyersonU
+'732282450689155072	2016-05-16 14:51:56	92842008	HRBlockCanada	babysavers follow sara',RyersonU
+'732282220019363840	2016-05-16 14:51:01	92842008	HRBlockCanada	newcdns follow help navigate taxes canadians help sara',RyersonU
+'732282031380561921	2016-05-16 14:50:16	92842008	HRBlockCanada	drbrynnwinegard us help sara',RyersonU
+'732278705758851073	2016-05-16 14:37:03	92842008	HRBlockCanada	hoovercandy hear contacted pm details happy sara',RyersonU
+'731235787388387328	2016-05-13 17:32:52	92842008	HRBlockCanada	fundeasier check free diy software daniel',RyersonU
+'731205246169423873	2016-05-13 15:31:30	92842008	HRBlockCanada	youtravel ursula team phoning left message daniel',RyersonU
+'731156797851983872	2016-05-13 12:18:59	92842008	HRBlockCanada	percentinc check free diy software daniel',RyersonU
+'731156434365353984	2016-05-13 12:17:32	92842008	HRBlockCanada	mariademelo check free diy software daniel',RyersonU
+'731155928083353601	2016-05-13 12:15:32	92842008	HRBlockCanada	aboutcandidates check free diy software daniel',RyersonU
+'731131211188297729	2016-05-13 10:37:19	92842008	HRBlockCanada	raceforkidssj check free diy software daniel',RyersonU
+'731124592442540032	2016-05-13 10:11:01	92842008	HRBlockCanada	patsant check free diy software daniel',RyersonU
+'730855506902810624	2016-05-12 16:21:46	92842008	HRBlockCanada	kirkchisholm kirk check free diy software daniel',RyersonU
+'730807976437506048	2016-05-12 13:12:53	92842008	HRBlockCanada	pibusiness check free diy software daniel',RyersonU
+'730765133287292928	2016-05-12 10:22:39	92842008	HRBlockCanada	thedville wait dm business days respond escalated issue regional director',RyersonU
+'730761017651658752	2016-05-12 10:06:18	92842008	HRBlockCanada	buydeal check free diy software daniel',TheCatTweeting
+'730760516549779459	2016-05-12 10:04:18	92842008	HRBlockCanada	qogelovi link free diy software daniel',TheCatTweeting
+'730398323824336897	2016-05-11 10:05:05	92842008	HRBlockCanada	drahtphotos check services small business daniel',TheCatTweeting
+'730397150136274944	2016-05-11 10:00:25	92842008	HRBlockCanada	aimeeesimpson aimee link free diy software daniel',TheCatTweeting
+'730143378449567745	2016-05-10 17:12:01	92842008	HRBlockCanada	sexypartyanimal dm questions providing answers daniel',TheCatTweeting
+'730141335148072960	2016-05-10 17:03:54	92842008	HRBlockCanada	sexypartyanimal wait higher call volume moment help',TheCatTweeting
+'730086952939171845	2016-05-10 13:27:48	92842008	HRBlockCanada	sereneaccount check services small business daniel',TheCatTweeting
+'730070554040893440	2016-05-10 12:22:38	92842008	HRBlockCanada	siblingsosl feedback will definitely consider advice improving products services daniel',TheCatTweeting
+'730036963722465282	2016-05-10 10:09:10	92842008	HRBlockCanada	modernmama check services small business daniel',TheCatTweeting

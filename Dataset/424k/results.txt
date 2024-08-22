@@ -1,0 +1,15 @@
+1 node accuracy   ----->   %31.14   MLP
+2 nodes accuracy      ----> %35.29  MLP
+
+
+
+
+1 node accuracy with 94k -----> 27.5%
+
+2 node accuracy with 94K  ----> %24.5
+
+
+4 node accuracy with 94k -----> %34.75
+
+
+8 node accuracy with 94k  ---->
