@@ -1,0 +1,5 @@
+RyersonU to Reducer1: 42132 ms
+Messages Cost: 2463102 bytes
+TOTAL Messages Cost: 2463102 bytes
+Mapper1- Total Tweets Processed: 14359 TP: 2618 ms TFIDF: 16 ms Reducer1 K-means: 4688 ms Total: 7323 ms
+
