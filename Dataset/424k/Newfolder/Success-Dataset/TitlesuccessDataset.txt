@@ -1,0 +1,585 @@
+Sci Rep	30679679	2001-12-17	PMC6345744	zjufx4fo	Characterization of a novel species of adenovirus from Japanese microbat and role of CXADR as its entry factor
+Sci Rep	24938428	2002-05-01	PMC4061542	ymceytj3	Analysis of interactions between SNARE proteins using imaging ellipsometer coupled with microfluidic array
+Nat Commun	29109438	2001-07-16	PMC5673889	wzj2glte	VSIG4 inhibits proinflammatory macrophage activation by reprogramming mitochondrial pyruvate metabolism
+PLoS One	26555701	2002-07-01	PMC4640514	2sfqsfm1	A Simulation Study Comparing Epidemic Dynamics on Exponential Random Graph and Edge-Triangle Configuration Type Contact Network Models
+mSphere	29925671	2002-12-01	PMC6010623	i0zym7iq	Bacterial RecA Protein Promotes Adenoviral Recombination during In Vitro Infection
+BMJ Open	31575570	2003-01-13	PMC6773297	xqhn0vbp	Using population-wide administrative and laboratory data to estimate type- and subtype-specific influenza vaccine effectiveness: a surveillance protocol
+Viruses	25803100	2003-04-28	PMC4379574	gi6uaa83	Both ERK1 and ERK2 Are Required for Enterovirus 71 (EV71) Efficient Replication
+PLoS Pathog	27855206	2003-08-01	PMC5113993	0m32ecnu	Zika (PRVABC59) Infection Is Associated with T cell Infiltration and Neurodegeneration in CNS of Immunocompetent Neonatal C57Bl/6 Mice
+BMJ Open Respir Res	32079606	2003-06-27	PMC7047475	le0ogx1s	Effect of acute respiratory infections in infancy on pulmonary function test at 3 years of age: a prospective birth cohort study
+PLoS Comput Biol	30557340	2003-10-01	PMC6312344	3oxzzxnd	A graph-based evidence synthesis approach to detecting outbreak clusters: An application to dog rabies
+Comput Struct Biotechnol J	26862374	2003-09-12	PMC4706605	fy4w7xz8	Self-assembling protein nanoparticles in the design of vaccines
+Current Opinion in Chemical Biology	23265976	2003-09-10	PMC3634885	0qaoam29	Siderocalins: Siderophore binding proteins evolved for primary pathogen host defense
+PLoS One	27196110	2003-09-21	PMC4873262	qj4dh6rg	Coinfections of the Respiratory Tract: Viral Competition for Resources
+PLoS Pathog	18421380	2003-09-20	PMC2277462	1wswi7us	Transmission Pathways of Foot-and-Mouth Disease Virus in the United Kingdom in 2007
+Veterinary Parasitology	22455725	2003-11-17	PMC3387522	yy96yeu9	Antibody fusions reduce onset of experimental Cryptosporidium parvum infection in calves
+Mitochondrion	20206303	2003-11-11	PMC2874622	5o38ihe0	The role of mitochondria in the mammalian antiviral defense system
+Sci Rep	27212633	2003-11-20	PMC4876326	1ul8owic	Respiratory Syncytial Virus whole-genome sequencing identifies convergent evolution of sequence duplication in the C-terminus of the G gene
+Cell Death Discov	31531231	2003-12-22	PMC6733876	5s6acr7m	Dominant role of splenic marginal zone lipid rafts in the classical complement pathway against S. pneumoniae
+Adv Sci (Weinh)	28932658	2000-09-01	PMC5604396	6lvn10f4	The Process of Wrapping Virus Revealed by a Force Tracing Technique and Simulations
+Front Microbiol	32082263	2003-12-12	PMC7002362	tvxpckxo	Vaccines and Therapeutics Against Hantaviruses
+J Vet Intern Med	27296565	2000-08-01	PMC5089651	mcuixluu	Prevalence and Clinicopathological Features of Triaditis in a Prospective Case Series of Symptomatic and Asymptomatic Cats
+Beilstein J Org Chem	22238541	2004-01-28	PMC3252867	ri5v6u4x	"Marilones A–C, phthalides from the sponge-derived fungus Stachylidium sp."
+Virology	19853271	2004-01-28	PMC2787736	kuybfc1y	A new mouse-adapted strain of SARS-CoV as a lethal model for evaluating antiviral agents in vitro and in vivo
+Immunity	28636958	2004-01-26	PMC5662000	ng4rrdte	Protective and Pathological Immunity during Central Nervous System Infections
+mBio	23362319	2004-01-02	PMC3560527	1769ovyk	Quantifying Pathogen Surveillance Using Temporal Genomic Data
+PLoS One	29621258	2004-01-02	PMC5886402	tixxm78q	DIVA metabolomics: Differentiating vaccination status following viral challenge using metabolomic profiles
+PLoS Med	20454570	2004-05-07	PMC2864302	pwsvhitd	Anatomy of the Epidemiological Literature on the 2003 SARS Outbreaks in Hong Kong and Toronto: A Time-Stratified Review
+J Vet Intern Med	27859745	2004-05-25	PMC5115183	wt8zfqk0	Prevalence of Enteropathogens in Dogs Attending 3 Regional Dog Parks in Northern California
+Sci Rep	29162867	2004-06-06	PMC5698466	5gsbtfag	Broad-spectrum antiviral agents: secreted phospholipase A(2) targets viral envelope lipid bilayers derived from the endoplasmic reticulum membrane
+Eur Biophys J	21181143	2004-06-28	PMC3070074	fpj5urao	"Peptide model helices in lipid membranes: insertion, positioning, and lipid response on aggregation studied by X-ray scattering"
+Translational Research	20801416	2004-02-19	PMC4201367	wutnzzhg	Stem cells and cell therapy approaches in lung biology and diseases
+J Virol	24155369	2004-07-14	PMC3911697	lwla5ugt	Powerful Sequence Similarity Search Methods and In-Depth Manual Analyses Can Identify Remote Homologs in Many Apparently “Orphan” Viral Proteins
+Parasit Vectors	27677574	2004-02-06	PMC5039805	8zwsi4nk	The hookworm Ancylostoma ceylanicum intestinal transcriptome provides a platform for selecting drug and vaccine candidates
+BMJ Open	22116089	2004-08-27	PMC3225591	t20z4mtt	Clinical instructors' perception of a faculty development programme promoting postgraduate year-1 (PGY(1)) residents' ACGME six core competencies: a 2-year study
+Virology	10814583	2004-09-06	PMC3987775	0gmtnkbh	Characterization of Murine Coronavirus Neutralization Epitopes with Phage-Displayed Peptides
+J Vet Med Sci	27840394	2004-09-09	PMC5326940	rrhh2alf	Characterization of canine coronavirus spread among domestic dogs in Vietnam
+American Journal of Infection Control	18786461	2004-08-06	PMC3375028	sgmk96vr	SHEA/APIC Guideline: Infection prevention and control in the long-term care facility
+Protein Cell	25944045	2004-08-26	PMC4491048	1ke7i2wr	"Intranasal and oral vaccination with protein-based antigens: advantages, challenges and formulation strategies"
+Sci Rep	24445954	2004-10-25	PMC3896911	v95fzp8n	Characterizing and controlling the inflammatory network during influenza A virus infection
+BMJ Open	24441057	2004-11-08	PMC3902515	52vixim5	Calculating the burden of disease of avian-origin H7N9 infections in China
+Journal of the American Medical Informatics Association	18096908	2004-11-01	PMC2274789	47ema2dq	HealthMap: Global Infectious Disease Monitoring through Automated Classification and Visualization of Internet Media Reports
+Vaccine	22465748	2004-11-15	PMC3579574	jzj8q25c	A virus-like particle vaccine platform elicits heightened and hastened local lung mucosal antibody production after a single dose
+Virology	21377708	2004-11-17	PMC3072468	qg0fsliy	Activation of protein kinase R is required for induction of stress granules by respiratory syncytial virus but dispensable for viral replication
+Eur J Immunol	23280567	2004-12-28	PMC3655610	p7um7o87	Conditional ligands for Asian HLA variants facilitate the definition of CD8(+) T-cell responses in acute and chronic viral diseases
+Toxins (Basel)	27128943	2004-12-19	PMC4885039	xvi5miqw	A Scorpion Defensin BmKDfsin4 Inhibits Hepatitis B Virus Replication in Vitro
+Sci Rep	29712969	2005-01-04	PMC5928194	1i36lsj2	Nucleolar-nucleoplasmic shuttling of TARG1 and its control by DNA damage-induced poly-ADP-ribosylation and by nucleolar transcription
+Current Opinion in Virology	27039875	2005-01-03	PMC4902778	4k8f7ou1	Vaccinology in the third millennium: scientific and social challenges
+Emerg Infect Dis	27869592	2005-01-08	PMC5189130	mtmgur1u	Assessing the Epidemic Potential of RNA and DNA Viruses
+Mol Ther Nucleic Acids	23187455	2005-01-04	PMC3511674	gdsfkw1b	Lentiviral Vector Gene Transfer to Porcine Airways
+Bioorganic & Medicinal Chemistry Letters	24125888	2005-01-11	PMC3863581	0s6ort9f	"Design, synthesis, and bioevaluation of viral 3C and 3C-like protease inhibitors"
+Journal of Theoretical Biology	30711456	2005-01-25	PMC6408326	zl5lgcog	Sub- or supercritical transmissibilities in a finite disease outbreak: Symmetry in outbreak properties of a disease conditioned on extinction
+Sci Rep	30700747	2005-01-14	PMC6353886	2su7oqbz	Association between viral seasonality and meteorological factors
+Plant Pathol J	31632225	2005-01-13	PMC6788414	yba7mdtb	siRNAs Derived from Cymbidium Mosaic Virus and Odontoglossum Ringspot Virus Down-modulated the Expression Levels of Endogenous Genes in Phalaenopsis equestris
+Journal of Neuroscience Methods	28495370	2005-01-18	PMC5545894	ic4d9dhk	An optimized method for enumerating CNS derived memory B cells during viral-induced inflammation
+J Ginseng Res	27746682	2005-01-20	PMC5052424	jh9e85c0	"Ginseng, the natural effectual antiviral: Protective effects of Korean Red Ginseng against viral infection"
+PLoS One	20221426	2005-01-19	PMC2832691	7vi6skvh	Binding of Herpes Simplex Virus Type-1 Virions Leads to the Induction of Intracellular Signalling in the Absence of Virus Entry
+Am J Trop Med Hyg	31889507	2005-02-10	PMC7008346	efrv5nvf	Prevalence of Group A Streptococcus in Primary Care Patients and the Utility of C-Reactive Protein and Clinical Scores for Its Identification in Thailand
+Emerg Infect Dis	26584223	2005-02-01	PMC4672428	xtg0e142	"Asymptomatic MERS-CoV Infection in Humans Possibly Linked to Infected Dromedaries Imported from Oman to United Arab Emirates, May 2015"
+Sci Rep	27403891	2005-02-18	PMC4941725	bbvxu8op	Host protective ASP-based vaccine against the parasitic nematode Ostertagia ostertagi triggers NK cell activation and mixed IgG1-IgG2 response
+mBio	28351919	2005-02-10	PMC5371412	e6e5nvn9	Contribution of the Purinergic Receptor P2X7 to Development of Lung Immunopathology during Influenza Virus Infection
+Viruses	31022887	2005-02-22	PMC6521319	lgcmamfb	Determining the Replication Kinetics and Cellular Tropism of Influenza D Virus on Primary Well-Differentiated Human Airway Epithelial Cells
+Emerg Microbes Infect	27826140	2005-02-22	PMC5148018	4u2re1cu	Characterization of anti-MERS-CoV antibodies against various recombinant structural antigens of MERS-CoV in an imported case in China
+PLoS One	17878940	2004-07-29	PMC1975678	e62cfqt7	Prediction of RNA Pseudoknots Using Heuristic Modeling with Mapping and Sequential Folding
+PLoS Genet	21079681	2005-02-22	PMC2973822	04cuk2cn	Human-Specific Evolution and Adaptation Led to Major Qualitative Differences in the Variable Receptors of Human and Chimpanzee Natural Killer Cells
+Biophysical Journal	17142288	2005-02-21	PMC1783898	mvxz7lx7	Reversible Unfolding of the Severe Acute Respiratory Syndrome Coronavirus Main Protease in Guanidinium Chloride
+Cell Host & Microbe	26867174	2005-02-23	PMC4755325	m9rg6d3w	The cGAS-STING Defense Pathway and Its Counteraction by Viruses
+Cell Rep	31116986	2005-03-02	PMC6533203	89xnnvuv	The Chimpanzee SIV Envelope Trimer: Structure and Deployment as an HIV Vaccine Template
+J Clin Med	31614650	2005-03-01	PMC6832244	zowp10ts	Polyphenol-Rich Extracts from Toona sinensis Bark and Fruit Ameliorate Free Fatty Acid-Induced Lipogenesis through AMPK and LC3 Pathways
+Virus Research	26474526	2004-08-31	PMC4744491	i4pmux28	lncRNA-mediated regulation of the interferon response
+Int J Nurs Sci	31406720	2004-10-14	PMC6626070	jw1lxwyd	Prevalence and related factors of post-traumatic stress disorder among medical staff members exposed to H7N9 patients
+PLoS Pathog	21811408	2005-01-13	PMC3141057	xiv9vxdp	Global mRNA Degradation during Lytic Gammaherpesvirus Infection Contributes to Establishment of Viral Latency
+Molecules	26712735	2005-03-14	PMC6272915	mcfmxqp2	Asteltoxins with Antiviral Activities from the Marine Sponge-Derived Fungus Aspergillus sp. SCSIO XWS02F40
+EBioMedicine	29033372	2005-03-30	PMC5652284	snqdma0s	"Chloroquine, a FDA-approved Drug, Prevents Zika Virus Infection and its Associated Congenital Microcephaly in Mice"
+Korean J Crit Care Med	31723641	2005-04-07	PMC6786727	402ls2aq	Rapid Response Systems Reduce In-Hospital Cardiopulmonary Arrest: A Pilot Study and Motivation for a Nationwide Survey
+Virus Research	17451829	2005-04-26	PMC2384224	4mnaicki	SARS-CoV replication and pathogenesis in an in vitro model of the human conducting airway epithelium
+Emerg Microbes Infect	28634353	2005-04-04	PMC5584481	ztkjm79p	Coronavirus HKU15 in respiratory tract of pigs and first discovery of coronavirus quasispecies in 5′-untranslated region
+Nat Commun	27587337	2005-04-15	PMC5025834	0fitbwuv	Influenza B virus non-structural protein 1 counteracts ISG15 antiviral activity by sequestering ISGylated viral proteins
+Virology	29199039	2005-04-08	PMC5871557	oad4l4fa	The coronavirus nucleocapsid protein is ADP-ribosylated
+Bioorganic & Medicinal Chemistry Letters	26048809	2005-04-09	PMC4466200	6vcts4w3	"Design, synthesis and evaluation of a series of acyclic fleximer nucleoside analogues with anti-coronavirus activity"
+Curr Ther Res Clin Exp	30093925	2005-05-17	PMC6076373	a22s8xyz	Investigating Tick-borne Flaviviral-like Particles as a Delivery System for Gene Therapy
+Proc Natl Acad Sci U S A	30914461	2005-04-25	PMC6462090	azkamnpa	Crystal structure and activity-based labeling reveal the mechanisms for linkage-specific substrate recognition by deubiquitinase USP9X
+J Vet Med Sci	30918136	2005-05-31	PMC6541838	r8j6lhoc	Development of a fluorescent loop-mediated isothermal amplification assay for rapid and simple diagnosis of bovine leukemia virus infection
+BMC Genomics	27595578	2005-04-07	PMC5011931	0svscbpu	"Viral deep sequencing needs an adaptive approach: IRMA, the iterative refinement meta-assembler"
+Trends in Molecular Medicine	27179743	2005-03-24	PMC5414840	9ijlj4so	The Dual Complexity of PTX3 in Health and Disease: A Balancing Act?
+Current Opinion in Chemical Biology	30339987	2005-06-14	PMC6382524	0brhn8oc	Location is everything: protein translocations as a viral infection strategy
+Journal of Virological Methods	18620761	2005-06-02	PMC2678951	0x1jhya6	A rapid point of care immunoswab assay for SARS-CoV detection
+Sci Rep	30341336	2005-05-10	PMC6195505	tv1fx7sy	Deep sequencing of primary human lung epithelial cells challenged with H5N1 influenza virus reveals a proviral role for CEACAM1
+Biophysical Journal	19254548	2005-05-16	PMC2717332	ckby80vf	Thermostability of the N-Terminal RNA-Binding Domain of the SARS-CoV Nucleocapsid Protein: Experiments and Numerical Simulations
+PLoS One	25423343	2005-05-28	PMC4244136	jz61fxpn	Comparison of Contact Patterns Relevant for Transmission of Respiratory Pathogens in Thailand and the Netherlands Using Respondent-Driven Sampling
+BMC Infect Dis	25928122	2005-05-11	PMC4419503	ln8ddyuj	Clinical evaluation of commercial nucleic acid amplification tests in patients with suspected sepsis
+Pathogens	29064408	2005-07-01	PMC5750577	y0wf456f	"Avian Group D Rotaviruses: Structure, Epidemiology, Diagnosis, and Perspectives on Future Research Challenges"
+Front Genet	31312212	2005-07-01	PMC6614441	x8zdlml2	Natural Killer Cell Receptor Genes in Camels: Another Mammalian Model
+BMJ Open	24710133	2005-06-20	PMC3987727	e1iaiwc6	Determinants Of Oral corticosteroid Responsiveness in Wheezing Asthmatic Youth (DOORWAY): protocol for a prospective multicentre cohort study of children with acute moderate-to-severe asthma exacerbations
+Antiviral Research	30342822	1998-04-15	PMC6240502	sfue9fdb	"Protease inhibitors broadly effective against feline, ferret and mink coronaviruses"
+Nat Commun	31924756	1999-10-15	PMC6954302	o360an6f	"Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV"
+The Veterinary Journal	20716490	2005-01-27	PMC2988874	fooovon8	Feline models of viral pathogenesis: Opportunity knocks
+Emerg Microbes Infect	26038450	2005-05-26	PMC3880875	pyam9yn3	Silent geographical spread of the H7N9 virus by online knowledge analysis of the live bird trade with a distributed focused crawler
+Vaccine	24560617	2005-06-01	PMC4194189	zc491h8v	Intranasal vaccination with recombinant receptor-binding domain of MERS-CoV spike protein induces much stronger local mucosal immune responses than subcutaneous immunization: Implication for designing novel mucosal MERS vaccines
+Diagnostic Microbiology and Infectious Disease	24657170	2005-07-26	PMC4557781	ff7dg890	A case-control study evaluating RT-PCR/ESI-MS technology compared to direct fluorescent antibody and xTAG RVP PCR
+J Clin Microbiol	29593057	2005-07-29	PMC5971546	7ots8npg	Multicenter Evaluation of BioFire FilmArray Respiratory Panel 2 for Detection of Viruses and Bacteria in Nasopharyngeal Swab Samples
+Nucleic Acids Res	25217582	2005-07-26	PMC4231732	whoydkd5	RAN translation and frameshifting as translational challenges at simple repeats of human neurodegenerative disorders
+Cell Host & Microbe	18474355	2005-06-20	PMC2998762	covwyddp	HIV-1 Assembly: Viral Glycoproteins Segregate Quantally to Lipid Rafts that Associate Individually with HIV-1 Capsids and Virions
+One Health	28616482	2005-06-29	PMC5441323	3ylcev0n	A brief historical overview of emerging infectious disease response in China and the need for a One Health approach in future responses
+Risk Manag Healthc Policy	32104115	2005-08-23	PMC7008581	eqiokrub	Syndromic Surveillance System for MERS-CoV as New Early Warning and Identification Approach
+Cell Host & Microbe	26211836	2005-08-17	PMC4538998	9k55f9o6	Viral Nucleases Induce an mRNA Degradation-Transcription Feedback Loop in Mammalian Cells
+J Adv Res	30046482	2005-09-23	PMC6057238	az4a70b0	A systematic review on silver nanoparticles-induced cytotoxicity: Physicochemical properties and perspectives
+Analytical Biochemistry	27105777	2005-09-06	PMC4877217	2vlvz5o9	A dual protease approach for expression and affinity purification of recombinant proteins
+Antiviral Research	25499125	2005-08-09	PMC4289655	jlhykfbf	Anti-cytomegalovirus activity of the anthraquinone atanyl blue PRL
+PLoS One	23613733	2005-09-09	PMC3629200	cl9gpt9w	Identification of Hepatotropic Viruses from Plasma Using Deep Sequencing: A Next Generation Diagnostic Tool
+Sci Rep	24872257	2005-09-02	PMC4037715	ndnze5o4	Asymmetrically interacting spreading dynamics on complex layered networks
+mSystems	28217745	2005-08-03	PMC5309335	176djnf5	The Baltic Sea Virome: Diversity and Transcriptional Activity of DNA and RNA Viruses
+Sci Adv	31692968	2005-08-11	PMC6821460	ltp7iv1z	More than efficacy revealed by single-cell analysis of antiviral therapeutics
+Emerg Infect Dis	26689887	2005-08-03	PMC4696718	qzm9wgde	"Surveillance for Coronaviruses in Bats, Lebanon and Egypt, 2013–2015"
+Pediatr Res	31288247	2005-08-24	PMC6851467	qm5a5c4b	A method of processing nasopharyngeal swabs to enable multiple testing
+Emerg Infect Dis	31855530	2005-08-22	PMC6924889	dgnddq80	"Diabetes Mellitus, Hypertension, and Death among 32 Patients with MERS-CoV Infection, Saudi Arabia"
+PLoS Pathog	25954804	2005-08-25	PMC4425567	ofx0hvvs	Natural Killer Cell Sensing of Infected Cells Compensates for MyD88 Deficiency but Not IFN-I Activity in Resistance to Mouse Cytomegalovirus
+Sci Rep	30792490	2005-08-30	PMC6384910	kqithgfo	Octa-repeat domain of the mammalian prion protein mRNA forms stable A-helical hairpin structure rather than G-quadruplexes
+PLoS One	30973897	2005-09-21	PMC6459477	5dx3lscp	Inhibitors of signal peptide peptidase and subtilisin/kexin-isozyme 1 inhibit Ebola virus glycoprotein-driven cell entry by interfering with activity and cellular localization of endosomal cathepsins
+Theranostics	29556361	2004-04-22	PMC5858505	pqzwk6rj	Targeting regenerative exosomes to myocardial infarction using cardiac homing peptide
+NPJ Genom Med	29263840	2004-07-27	PMC5677986	ej795nks	Myeloablation-associated deletion of ORF4 in a human coronavirus 229E infection
+PLoS One	22815706	2005-08-22	PMC3397973	xv0esvos	Evaluation of Four Different Systems for Extraction of RNA from Stool Suspensions Using MS-2 Coliphage as an Exogenous Control for RT-PCR Inhibition
+PLoS Pathog	20463816	2005-02-02	PMC2865531	9mzs5dl4	Infidelity of SARS-CoV Nsp14-Exonuclease Mutant Virus Replication Is Revealed by Complete Genome Sequencing
+Virology	25463599	2005-08-22	PMC4581848	mxyxwkhx	Primate lentiviruses are differentially inhibited by interferon-induced transmembrane proteins
+Veterinary Microbiology	18606506	2005-09-19	PMC2588466	k4en9ksd	Differential role for low pH and cathepsin-mediated cleavage of the viral spike protein during entry of serotype II feline coronaviruses
+J Vet Intern Med	31254308	2005-09-21	PMC6639469	ovpgw054	Plasma and tissue angiotensin‐converting enzyme 2 activity and plasma equilibrium concentrations of angiotensin peptides in dogs with heart disease
+ACS Appl Mater Interfaces	26393943	2005-10-11	PMC4613868	bb27z7h0	Origin of Long-Term Storage Stability and Nitric Oxide Release Behavior of CarboSil Polymer Doped with S-Nitroso-N-acetyl-d-penicillamine
+Sci Rep	30808983	2005-10-20	PMC6391537	t40ybhgb	Alignment-free similarity analysis for protein sequences based on fuzzy integral
+One Health	28616495	2005-01-13	PMC5454182	fghu8ouc	Zoos and public health: A partnership on the One Health frontier
+Gastroenterology	24508599	2005-04-18	PMC4009354	fkigak9x	Kingdom-Agnostic Metagenomics and the Importance of Complete Characterization of Enteric Microbial Communities
+Sci Rep	29030631	2005-04-27	PMC5640602	wzun1vvq	Viscosity is an important factor of resistance to alcohol-based disinfectants by pathogens present in mucus
+Clin Transl Med	32078069	2005-06-22	PMC7033263	o088rxb5	"2019 novel coronavirus of pneumonia in Wuhan, China: emerging attack and management strategies"
+Viruses	31947873	2005-05-11	PMC7019897	wy07nao0	A Chimeric Sudan Virus-Like Particle Vaccine Candidate Produced by a Recombinant Baculovirus System Induces Specific Immune Responses in Mice and Horses
+World Allergy Organization Journal	23268440	2005-10-18	PMC3488903	i948aq4b	"History of the World Allergy Organization: Two Decades Leading to World Leadership, 1990-2010"
+Current Opinion in Structural Biology	21917445	2005-11-07	PMC3189341	g2f151oc	Viruses and sialic acids: rules of engagement
+PLoS One	23894316	2005-09-20	PMC3722195	zwbc7nnn	Experimental Cross-Species Infection of Common Marmosets by Titi Monkey Adenovirus
+Virology	27771560	2005-11-22	PMC5221479	bhlnwu69	In vitro exposure system for study of aerosolized influenza virus
+BMC Syst Biol	27663205	2005-06-28	PMC5035469	luzi6tfw	The effect of inhibition of PP1 and TNFα signaling on pathogenesis of SARS coronavirus
+Vaccine	19428903	2005-10-31	PMC2747378	4azsywuu	"In vivo biodistribution of a highly attenuated recombinant vesicular stomatitis virus expressing HIV-1 Gag following intramuscular, intranasal, or intravenous inoculation"
+Virus Evol	28458916	2005-12-09	PMC5399923	vblgotjn	Transmission patterns and evolution of respiratory syncytial virus in a community outbreak identified by genomic analysis
+PLoS Comput Biol	24762851	2004-10-01	PMC3998883	aa31oqf6	Bayesian Analysis for Inference of an Emerging Epidemic: Citrus Canker in Urban Landscapes
+J Biomed Biotechnol	22536019	2005-01-01	PMC3318896	ipllfog3	Lack of Association between CLEC5A Gene Single-Nucleotide Polymorphisms and Kawasaki Disease in Taiwanese Children
+Nucleic Acids Res	15659574	2005-12-20	PMC548373	rxbcuseq	"A molecular beacon, bead-based assay for the detection of nucleic acids by flow cytometry"
+PLoS One	23990974	2005-11-17	PMC3753329	1r65yam5	Get the News Out Loudly and Quickly: The Influence of the Media on Limiting Emerging Infectious Disease Outbreaks
+The American Journal of Pathology	17255322	2005-12-03	PMC1851867	jid2pfhz	Molecular Pathology in the Lungs of Severe Acute Respiratory Syndrome Patients
+Journal of Magnetic Resonance	19819173	2005-12-20	PMC2794128	u70p2q58	Dynamics of SARS-coronavirus HR2 domain in the prefusion and transition states
+Eur J Immunol	30365177	2005-11-11	PMC6396086	vv03koi8	IFITM proteins drive type 2 T helper cell differentiation and exacerbate allergic airway inflammation
+Risk Anal	30925211	2006-01-03	PMC6850612	bfmng0fq	"A Multicompartment SIS Stochastic Model with Zonal Ventilation for the Spread of Nosocomial Infections: Detection, Outbreak Management, and Infection Control"
+Trends in Plant Science	19836291	2006-01-03	PMC2787751	do5c85ad	Plant-made vaccine antigens and biopharmaceuticals
+Virology	19394063	2006-01-13	PMC2705899	dhkd7omo	The origin and global emergence of adamantane resistant A/H3N2 influenza viruses
+Vaccine	20189484	2006-01-17	PMC3428038	ueuz99pl	Immunization of cattle with recombinant Newcastle disease virus expressing bovine herpesvirus-1 (BHV-1) glycoprotein D induces mucosal and serum antibody responses and provides partial protection against BHV-1
+Antiviral Research	19616030	2003-10-01	PMC3909712	oa4lzkru	Targeted delivery of anti-coxsackievirus siRNAs using ligand-conjugated packaging RNAs
+Genomics Proteomics Bioinformatics	23395178	2006-01-24	PMC3968920	vw8xjo9t	Interactome Mapping: Using Protein Microarray Technology to Reconstruct Diverse Protein Networks
+Vaccine	24681229	2006-01-10	PMC4080630	bnnl700a	Antigen sparing and enhanced protection using a novel rOv-ASP-1 adjuvant in aqueous formulation with influenza vaccines
+J Biomed Sci	24898546	2006-01-10	PMC4051379	h640qddv	Structural and functional characterization of MERS coronavirus papain-like protease
+Proc Natl Acad Sci U S A	29891677	2006-01-18	PMC6042130	er3mnkyf	Differentiated human airway organoids to assess infectivity of emerging influenza virus
+J Cell Biol	30504247	2006-01-10	PMC6363457	m71xkuo9	BAR scaffolds drive membrane fission by crowding disordered domains
+Nucleic Acids Res	16155181	2006-02-09	PMC1201327	gwd8qin6	The influence of locked nucleic acid residues on the thermodynamic properties of 2′-O-methyl RNA/RNA heteroduplexes
+Clinical & Translational Immunology	32099652	2006-02-24	PMC7030942	3datxv8j	Frontiers in antiviral therapy and immunotherapy
+Arch Virol	18523839	2006-02-25	PMC2441536	6z7rt5dd	Early transcriptional response in the jejunum of germ-free piglets after oral infection with virulent rotavirus
+Emerg Infect Dis	27089550	2006-01-30	PMC4861521	rsycde29	"Outbreak of Middle East Respiratory Syndrome at Tertiary Care Hospital, Jeddah, Saudi Arabia, 2014"
+Trends in Molecular Medicine	27989642	2006-02-01	PMC5836316	v0na73zt	MicroRNA Regulation of RNA Virus Replication and Pathogenesis
+Antiviral Research	19375457	2006-02-19	PMC3457704	kt9ja8nc	Applications of high-throughput genomics to antiviral research: Evasion of antiviral responses and activation of inflammation during fulminant RNA virus infection
+Microbes and Infection	25456101	2006-01-30	PMC4308519	p8b3ini4	Development of human neutralizing monoclonal antibodies for prevention and therapy of MERS-CoV infections
+BMC Genomics	29178824	2006-03-02	PMC5702118	5m4lcl0k	Transcriptome analysis of avian reovirus-mediated changes in gene expression of normal chicken fibroblast DF-1 cells
+Emerg Infect Dis	31961308	2006-03-02	PMC6986825	vip4jtlv	"Human Norovirus Infection in Dogs, Thailand"
+Emerg Infect Dis	23876365	2006-02-15	PMC3739536	2tpy5jva	The New Global Health
+PLoS Pathog	22359508	2006-03-20	PMC3280988	stgj6olw	A Co-Opted DEAD-Box RNA Helicase Enhances Tombusvirus Plus-Strand Synthesis
+BMC Evol Biol	15222897	2006-04-18	PMC446188	jseyjnqg	Moderate mutation rate in the SARS coronavirus genome and its implications
+mSphere	28251184	2006-04-18	PMC5322348	u7lz3spe	Epitope Addition and Ablation via Manipulation of a Dengue Virus Serotype 1 Infectious Clone
+Emerg Infect Dis	28858604	2006-04-14	PMC5708240	3a1qde41	"Spread of Canine Influenza A(H3N2) Virus, United States"
+Int J Nurs Sci	31406890	2006-03-29	PMC6608674	7ecliy9q	Sources and symptoms of stress among nurses in the first Chinese anti-Ebola medical team during the Sierra Leone aid mission: A qualitative study
+PLoS One	30356240	2006-03-23	PMC6200216	krzhxu1p	Identification of a novel nidovirus as a potential cause of large scale mortalities in the endangered Bellinger River snapping turtle (Myuchelys georgesi)
+The American Journal of Pathology	16816374	2006-05-02	PMC1698761	kzhj0efp	Pathogenic Role for Virus-Specific CD4 T Cells in Mice with Coronavirus-Induced Acute Encephalitis
+BMC Syst Biol	23895213	2006-04-05	PMC3750405	cpc8i54y	Specific mutations in H5N1 mainly impact the magnitude and velocity of the host response in mice
+Veterinary Microbiology	25979841	2006-04-20	PMC4464496	58czem0j	High prevalence and diversity of bovine astroviruses in the faeces of healthy and diarrhoeic calves in South West Scotland
+Mol Ther Methods Clin Dev	28480308	2006-04-03	PMC5415322	3xjnpkqp	Toward Personalized Gene Therapy: Characterizing the Host Genetic Control of Lentiviral-Vector-Mediated Hepatic Gene Delivery
+Nucleic Acids Res	23275571	2006-05-16	PMC3575852	na7z92i8	RNA dimerization plays a role in ribosomal frameshifting of the SARS coronavirus
+J Korean Med Sci	31997618	2006-05-04	PMC6995816	f0dq94j1	The Fight against the 2019-nCoV Outbreak: an Arduous March Has Just Begun
+Clinical Immunology	27288312	2006-05-31	PMC5145788	4s71mh8j	Neutrophils and viral-induced neurologic disease
+R Soc Open Sci	31032015	2006-04-25	PMC6458372	x7wg7e9s	Emerging infectious diseases and biological invasions: a call for a One Health collaboration in science and management
+Sci Rep	32034188	2006-05-18	PMC7005879	s95pfsyp	Causes of fever in Gabonese children: a cross-sectional hospital-based study
+Current Opinion in Microbiology	21807555	2006-05-10	PMC3159852	utglk4af	Transferrin receptor 1 in the zoonosis and pathogenesis of New World hemorrhagic fever arenaviruses
+Am J Trop Med Hyg	30182916	2006-05-29	PMC6159564	gvfz6qio	Epidemiology and Transmission of Respiratory Infections in Thai Army Recruits: A Prospective Cohort Study
+Int J Surg Case Rep	28347926	2006-04-02	PMC5369860	3gd1w2kn	Neglected dorsolateral dislocation of the first metatarsophalangeal joint: A case report
+Infect Dis Poverty	25699183	2006-07-04	PMC4334593	9011s995	Human Ebola virus infection in West Africa: a review of available therapeutic agents that target different steps of the life cycle of Ebola virus
+PLoS One	28877267	2006-04-27	PMC5587294	icp9d998	A system dynamics approach to understanding the One Health concept
+Sci Rep	29844335	2006-05-23	PMC5974291	or4iew8u	Homodimerisation-independent cleavage of dsRNA by a pestiviral nicking endoribonuclease
+PLoS Negl Trop Dis	25232832	2006-04-07	PMC4169258	yykgq6gn	A New Approach for Monitoring Ebolavirus in Wild Great Apes
+J Virol	30867308	2006-05-04	PMC6532096	xne08vbd	Fecal Viral Diversity of Captive and Wild Tasmanian Devils Characterized Using Virion-Enriched Metagenomics and Metatranscriptomics
+Sci Adv	30101189	2006-03-31	PMC6082650	ltf82dh3	Chimeric camel/human heavy-chain antibodies protect against MERS-CoV infection
+Nucleic Acids Res	27317698	2006-07-25	PMC5001610	ygnbt4jb	Biochemical and genetic analysis of the role of the viral polymerase in enterovirus recombination
+Theranostics	31149046	2006-05-31	PMC6531299	9r62ffew	Human LAP(+)GARP(+)FOXP3(+) regulatory T cells attenuate xenogeneic graft versus host disease
+Emerg Infect Dis	25272273	2006-04-28	PMC4193173	xz7rzjqv	"Evidence of Recombinant Strains of Porcine Epidemic Diarrhea Virus, United States, 2013"
+Cancer Letters	23743354	2006-07-28	PMC3728473	d3cko4j2	Emmprin and KSHV: New partners in viral cancer pathogenesis
+PLoS One	23110173	2006-05-31	PMC3480482	f0prnpsu	"SEED Servers: High-Performance Access to the SEED Genomes, Annotations, and Metabolic Models"
+Int J Mol Sci	30934842	2006-06-13	PMC6480131	jg7u6913	The Eukaryotic Translation Initiation Factor 4F Complex Restricts Rotavirus Infection via Regulating the Expression of IRF1 and IRF7
+Clin Infect Dis	29408951	2006-02-08	PMC5982794	lqnjqpdj	Malaria Coinfections in Febrile Pediatric Inpatients: A Hospital-Based Study From Ghana
+Journal of Molecular Biology	19500591	2006-08-08	PMC2940942	2g4m0dy7	Solution Characterization of the Extracellular Region of CD147 and Its Interaction with Its Enzyme Ligand Cyclophilin A
+Viruses	31906044	2006-07-12	PMC7019641	951wyr0h	Discovery and Prevalence of Divergent RNA Viruses in European Field Voles and Rabbits
+Antiviral Research	21338626	2006-07-08	PMC3085190	ik25nf14	"Inhibition of severe acute respiratory syndrome coronavirus replication in a lethal SARS-CoV BALB/c mouse model by stinging nettle lectin, Urtica dioica agglutinin"
+Trop Med Infect Dis	30823573	2006-06-13	PMC6473618	1e2kkhht	Endemic Melioidosis in Southern China: Past and Present
+ACS Omega	31788628	2006-05-10	PMC6882106	w5fxen70	Applying a Linear Amplification Strategy to Recombinase Polymerase Amplification for Uniform DNA Library Amplification
+Veterinary Clinics of North America: Food Animal Practice	20619189	2006-07-01	PMC4094360	uzzuoy9v	Bovine Respiratory Coronavirus
+Genomics Proteomics Bioinformatics	15629032	2006-06-23	PMC5172353	exm1rv1w	The Epitope Study on the SARS-CoV Nucleocapsid Protein
+Sci Rep	28533548	2006-07-26	PMC5440382	sztzrx1l	Lack of inflammatory gene expression in bats: a unique role for a transcription repressor
+Oncotarget	29383162	2006-07-06	PMC5777774	ub9dtgup	"Gemcitabine, a broad-spectrum antiviral drug, suppresses enterovirus infections through innate immunity induced by the inhibition of pyrimidine biosynthesis and nucleotide depletion"
+Molecules	24352016	2006-07-11	PMC6269914	p5rtp31m	In Vitro Evaluation of Novel Inhibitors against the NS2B-NS3 Protease of Dengue Fever Virus Type 4
+Experimental Cell Research	23220213	2003-06-30	PMC3577976	28wrp74k	Cyclophilin 40 alters UVA-induced apoptosis and mitochondrial ROS generation in keratinocytes
+mBio	26350969	2004-03-03	PMC4600111	8f0pn321	Origin and Possible Genetic Recombination of the Middle East Respiratory Syndrome Coronavirus from the First Imported Case in China: Phylogenetics and Coalescence Analysis
+PLoS Pathog	24453974	2005-08-03	PMC3894220	xavtxl4m	Gammaherpesviral Gene Expression and Virion Composition Are Broadly Controlled by Accelerated mRNA Degradation
+Virol J	26537007	2005-11-24	PMC4634723	0z95orkh	Detection of a novel astrovirus from a black-naped monarch (Hypothymis azurea) in Cambodia
+Bioinformatics	21852304	2005-11-22	PMC3187650	1jpwtd4t	Improved quality control processing of peptide-centric LC-MS proteomics data
+Trends in Biochemical Sciences	26541461	2006-02-01	PMC5056427	zv0t3d0m	Redefining the BH3 Death Domain as a ‘Short Linear Motif’
+R Soc Open Sci	29410876	2006-04-04	PMC5792953	5rfgyiit	Experimental evidence of a pathogen invasion threshold
+NPJ Vaccines	31016033	2006-04-12	PMC6465360	ki9f6ssk	Rabies-based vaccine induces potent immune responses against Nipah virus
+Emerg Infect Dis	24960574	2006-05-18	PMC4073873	bpnfupzv	"MERS–Related Betacoronavirus in Vespertilio superans Bats, China"
+Respir Med Case Rep	30596008	2006-06-29	PMC6308371	mxrq99vo	Crazy paving pattern as a rare radiological manifestation of peripheral T-cell lymphoma (PTCL) with lung involvement: A case report
+Emerg Infect Dis	25153521	2006-09-01	PMC4178395	j3p1u80n	"Porcine Coronavirus HKU15 Detected in 9 US States, 2014"
+R Soc Open Sci	28484626	2006-08-04	PMC5414263	qctdrbn3	Classification of self-assembling protein nanoparticle architectures for applications in vaccine design
+Sci Rep	31186476	2006-08-18	PMC6560178	m8cb1hc4	Single organelle analysis to characterize mitochondrial function and crosstalk during viral infection
+Cell Rep	26565900	2006-08-07	PMC4916766	37qoupvk	A Role for IFITM Proteins in Restriction of Mycobacterium tuberculosis Infection
+Nucleic Acids Res	29529302	2006-06-25	PMC5887285	m9xu4zyr	Translational profiling of B cells infected with the Epstein-Barr virus reveals 5′ leader ribosome recruitment through upstream open reading frames
+Front Immunol	30886617	2006-05-18	PMC6409353	5eqdrd52	Local Antigen Encounter Is Essential for Establishing Persistent CD8(+) T-Cell Memory in the CNS
+PLoS One	30640944	2006-08-09	PMC6331095	wrhr237o	Metagenomic analysis of viruses in toilet waste from long distance flights—A new procedure for global infectious disease surveillance
+Cytokine & Growth Factor Reviews	26987613	2006-08-14	PMC4899229	v09jj3a2	Microbial pathogenesis and type III interferons
+Gene Ther	28905886	2006-08-14	PMC5658673	c5gl9p3a	Time-series oligonucleotide count to assign antiviral siRNAs with long utility fit in the big data era
+Trends Microbiol	28377208	2006-08-11	PMC5405858	sc1yzzsn	Short-Sighted Virus Evolution and a Germline Hypothesis for Chronic Viral Infections
+Acta Neuropathol	30027450	2006-08-16	PMC6096730	il35gs97	Microglia control the spread of neurotropic virus infection via P2Y12 signalling and recruit monocytes through P2Y12-independent mechanisms
+PLoS Comput Biol	30883545	2006-08-16	PMC6438571	90qq0xsw	Endemicity and prevalence of multipartite viruses under heterogeneous between-host transmission
+Life Sci Alliance	31732693	2006-09-12	PMC6858607	j35w1vsw	Pseudomonas aeruginosa lectin LecB impairs keratinocyte fitness by abrogating growth factor signalling
+Bacteriophage	23050222	2006-09-12	PMC3442825	zmyxksbq	"Murphy's law—if anything can go wrong, it will: Problems in phage electron microscopy"
+Viruses	30567349	2006-09-12	PMC6315852	24fkaqlz	The Amino-Terminal Region of Hepatitis E Virus ORF1 Containing a Methyltransferase (Met) and a Papain-Like Cysteine Protease (PCP) Domain Counteracts Type I Interferon Response
+Virology	22609354	2006-09-01	PMC3377836	ekih7xfx	Characterization of a recombinant canine coronavirus with a distinct receptor-binding (S1) domain
+Viruses	30487438	2006-05-18	PMC6315912	124czudi	"Alston Virus, a Novel Paramyxovirus Isolated from Bats Causes Upper Respiratory Tract Infection in Experimentally Challenged Ferrets"
+Virology	22832120	2006-09-26	PMC3438407	y607uvg6	Coronavirus E protein forms ion channels with functionally and structurally-involved membrane lipids
+Seminars in Pediatric Surgery	23611609	2006-09-20	PMC3647029	1in7m56w	The role of the intestinal microbiota in the pathogenesis of necrotizing enterocolitis
+Virus Research	24956407	2006-08-10	PMC4252365	yagdt1a2	Progress and outlook in structural biology of large viral RNAs
+BMC Infect Dis	23231698	2004-11-01	PMC3538067	nhb4o6ty	"Household transmission of respiratory viruses – assessment of viral, individual and household characteristics in a population study of healthy Australian adults"
+Sci Rep	27103333	2004-11-01	PMC4840321	7hhwy6ir	The Vpu-interacting Protein SGTA Regulates Expression of a Non-glycosylated Tetherin Species
+Emerg Infect Dis	23735606	2006-10-02	PMC3713830	8plec8t4	Transmission Potential of Rift Valley Fever Virus over the Course of the 2010 Epidemic in South Africa
+Emerg Infect Dis	26814649	2006-10-06	PMC4734539	24qizp9k	"Microevolution of Outbreak-Associated Middle East Respiratory Syndrome Coronavirus, South Korea, 2015"
+Chest	25764372	2006-10-04	PMC4451704	apiz60hu	Ethical and Practical Considerations in Providing Critical Care to Patients With Ebola Virus Disease
+Virology	26828465	2006-08-18	PMC4769911	xgwbl8em	"3B11-N, a monoclonal antibody against MERS-CoV, reduces lung pathology in rhesus monkeys following intratracheal inoculation of MERS-CoV Jordan-n3/2012"
+Advanced Drug Delivery Reviews	28392305	2006-08-18	PMC6262758	69gftii4	Engineering self-assembled materials to study and direct immune function
+Virology	18456301	2006-08-25	PMC2574746	vefs1h6o	Virus growth and antibody responses following respiratory tract infection of ferrets and mice with WT and P/V mutants of the paramyxovirus Simian Virus 5
+PLoS Biol	16128623	2006-10-05	PMC1197287	31by8zse	Design of Wide-Spectrum Inhibitors Targeting Coronavirus Main Proteases
+One Health	30197925	2006-08-01	PMC6127845	8jbhoe7t	Establishing research priorities to improve the One Health efficacy of Australian general practitioners and veterinarians with regard to zoonoses: A modified Delphi survey
+Oncotarget	27029000	2006-10-12	PMC5041914	1ypgij14	XB130 deficiency enhances lipopolysaccharide-induced septic response and acute lung injury
+Cell	27453466	2006-10-13	PMC4967455	rsifxvtj	Structure and Function Analysis of an Antibody Recognizing All Influenza A Subtypes
+Emerg Infect Dis	27315454	2006-10-06	PMC4918144	nr8fwc8q	"Hepatitis E Virus Infection in Dromedaries, North and East Africa, United Arab Emirates, and Pakistan, 1983–2015"
+Sci Rep	29242618	2006-09-19	PMC5730575	1fu1blu0	A Simple Platform for the Rapid Development of Antimicrobials
+Journal of Traditional and Complementary Medicine	26151024	2005-09-30	PMC4488566	h1gxdkau	Some Chinese folk prescriptions for wind-cold type common cold
+Sci Rep	29654310	2006-10-18	PMC5899082	nmjtvpzl	APOBEC3-mediated restriction of RNA virus replication
+Viruses	31035625	2006-09-13	PMC6563200	at9jg710	Chapparvovirus DNA Found in 4% of Dogs with Diarrhea
+Sci Rep	26463011	2006-03-01	PMC4604457	1axxmq84	The Hepatitis E virus intraviral interactome
+Infect Dis Poverty	30134982	2006-10-31	PMC6103862	5hryh1ft	"Experiences and challenges in the health protection of medical teams in the Chinese Ebola treatment center, Liberia: a qualitative study"
+PLoS One	26042789	2006-09-29	PMC4456360	cxzlmfst	A Recombinant Fungal Lectin for Labeling Truncated Glycans on Human Cancer Cells
+PLoS One	28099518	2006-09-25	PMC5242460	0sg0hv9w	Evaluation of Methods for the Concentration and Extraction of Viruses from Sewage in the Context of Metagenomic Sequencing
+PLoS One	29373601	2006-09-29	PMC5786293	br2p09pg	Transcriptional changes detected in fecal RNA of neonatal dairy calves undergoing a mild diarrhea are associated with inflammatory biomarkers
+PLoS Negl Trop Dis	29149175	2006-09-29	PMC5693297	kt9pmfdr	"The introduction of dengue follows transportation infrastructure changes in the state of Acre, Brazil: A network-based analysis"
+Trends in Parasitology	26048486	2006-11-10	PMC4567474	zdk771mn	The context of host competence: a role for plasticity in host–parasite dynamics
+mBio	24595369	2006-11-16	PMC3958797	3ulketgy	Characterization of a Novel Influenza Virus in Cattle and Swine: Proposal for a New Genus in the Orthomyxoviridae Family
+Viruses	30602691	2006-11-22	PMC6356962	phkoh08y	Drivers of MERS-CoV Emergence in Qatar
+Genome Biol Evol	24558257	2006-12-08	PMC3971587	0nvyf9in	Shrinkage of Genome Size in a Plant RNA Virus upon Transfer of an Essential Viral Gene into the Host Genome
+Virology	20189623	2006-12-11	PMC2844484	ebzlt1rb	Delayed kinetics of poliovirus RNA synthesis in a human cell line with reduced levels of hnRNP C proteins
+PLoS One	28141848	2006-12-26	PMC5283653	bs3j3nss	Structural aspects of nucleotide ligand binding by a bacterial 2H phosphoesterase
+Journal of Structural Biology	21130884	2006-10-05	PMC4486061	e112i8p3	A structural analysis of M protein in coronavirus assembly and morphology
+Nucleic Acids Res	20864443	2006-11-29	PMC2995084	6qpsxmgi	"Hybridization properties of long nucleic acid probes for detection of variable target sequences, and development of a hybridization prediction algorithm"
+Viruses	24784571	2006-12-20	PMC4036540	odzrco6q	Hantavirus Reservoirs: Current Status with an Emphasis on Data from Brazil
+Poult Sci	31399745	2006-12-20	PMC6870560	rr2wwvue	Vaccine or field strains: the jigsaw pattern of infectious bronchitis virus molecular epidemiology in Poland
+Redox Biol	31707353	2006-12-20	PMC6854078	itu39mln	Impaired inflammasome activation and bacterial clearance in G6PD deficiency due to defective NOX/p38 MAPK/AP-1 redox signaling
+Emerg Infect Dis	26692185	2006-12-20	PMC4696714	1n0rg5vd	"Risk Factors for Primary Middle East Respiratory Syndrome Coronavirus Illness in Humans, Saudi Arabia, 2014"
+Part Fibre Toxicol	25890286	2006-12-27	PMC4395934	5qwtvm9x	Cationic nanoparticles directly bind angiotensin-converting enzyme 2 and induce acute lung injury in mice
+Vaccine	31623915	2006-12-14	PMC6899432	69wfx3s0	"Meeting report: Global vaccine and immunization research forum, 2018"
+Int J Environ Res Public Health	28273867	2007-01-03	PMC5369099	nzh87aux	"Comparative Epidemiology of Human Fatal Infections with Novel, High (H5N6 and H5N1) and Low (H7N9 and H9N2) Pathogenicity Avian Influenza A Viruses"
+BMJ Open	30772864	2006-12-18	PMC6398679	3xq5jwof	"VaccHemInf project: protocol for a prospective cohort study of efficacy, safety and characterisation of immune functional response to vaccinations in haematopoietic stem cell transplant recipients"
+"Annals of Allergy, Asthma & Immunology"	27052815	2006-12-28	PMC4860073	meej5l9t	Clinical characteristics of asthmatic patients with influenza-like illness and risk of severe exacerbations in Mexico
+PLoS One	19956722	2007-01-04	PMC2776508	ehnqhled	Taipei's Use of a Multi-Channel Mass Risk Communication Program to Rapidly Reverse an Epidemic of Highly Communicable Disease
+PLoS One	17206278	2007-01-12	PMC1764036	mqnqjn0c	The Waiting Time for Inter-Country Spread of Pandemic Influenza
+Osong Public Health Res Perspect	24298444	2007-01-16	PMC3845460	sbixelq5	Public Health Crisis Preparedness and Response in Korea
+PeerJ	29379686	2006-12-28	PMC5786891	t0dg7y73	Genomic signal processing for DNA sequence clustering
+BMC Bioinformatics	30991939	2007-01-19	PMC6469119	1y5nej0m	Effect of stochasticity on coinfection dynamics of respiratory viruses
+Advances in Parasitology	16647974	2007-01-23	PMC3145127	xrtkgo0b	Global Transport Networks and Infectious Disease Spread
+PLoS One	17534439	2006-12-07	PMC1876795	pbhvz1k0	Global Surveillance of Emerging Influenza Virus Genotypes by Mass Spectrometry
+Front Cell Infect Microbiol	32039053	2004-04-23	PMC6989534	lntn11a9	Hepatitis E Virus Cysteine Protease Has Papain Like Properties Validated by in silico Modeling and Cell-Free Inhibition Assays
+Osong Public Health and Research Perspectives	26473095	2006-03-01	PMC4588443	llabjn8x	"Middle East Respiratory Syndrome Coronavirus Outbreak in the Republic of Korea, 2015"
+Int J Infect Dis	29410366	2006-05-01	PMC5890091	pmpa95l9	Performance of the TB-LAMP diagnostic assay in reference laboratories: Results from a multicentre study
+Emerg Infect Dis	26583829	2003-03-01	PMC4672454	rb34ulwm	"Kinetics of Serologic Responses to MERS Coronavirus Infection in Humans, South Korea"
+Analytical Biochemistry	26299645	2003-07-01	PMC4733849	pgr2uz16	Detecting respiratory viral RNA using expanded genetic alphabets and self-avoiding DNA
+mBio	21673192	2001-06-01	PMC3111606	if6f58ii	An Insect Nidovirus Emerging from a Primary Tropical Rainforest
+BMC Infect Dis	24916787	2007-01-23	PMC4067073	51khqqwx	Difference in immune response in vaccinated and unvaccinated Swedish individuals after the 2009 influenza pandemic
+J Biol Chem	28882889	2007-02-14	PMC5663871	tbgqulpu	The Rho ADP-ribosylating C3 exoenzyme binds cells via an Arg–Gly–Asp motif
+mBio	24667706	2006-11-16	PMC3977350	ps3mnpzq	A Mouse Model for Betacoronavirus Subgroup 2c Using a Bat Coronavirus Strain HKU5 Variant
+Proc Natl Acad Sci U S A	31548390	2007-01-31	PMC6789926	xpx3orvs	Structural and functional analyses reveal promiscuous and species specific use of ephrin receptors by Cedar virus
+Emerg Infect Dis	26689765	2007-01-25	PMC4696716	u1y1bznk	"Objective Determination of End of MERS Outbreak, South Korea, 2015"
+Nature	23334420	2007-02-16	PMC4931921	hzl6wafm	Structural basis for viral 5′-PPP-RNA recognition by human IFIT proteins
+One Health	28616497	2007-02-08	PMC5454172	a602au5b	MERS-coronavirus: From discovery to intervention
+PLoS One	28095455	2006-12-07	PMC5241010	n3ouk7wa	Novel Porcine Epidemic Diarrhea Virus (PEDV) Variants with Large Deletions in the Spike (S) Gene Coexist with PEDV Strains Possessing an Intact S Gene in Domestic Pigs in Japan: A New Disease Situation
+Journal of Virological Methods	20399809	2007-01-03	PMC2916077	m56agj4z	Host-encoded reporters for the detection and purification of multiple enveloped viruses
+Nucleic Acids Res	30407573	2003-01-01	PMC6323928	pla013m7	IMG/VR v.2.0: an integrated data management and analysis system for cultivated and environmental viral genomes
+Journal of Dairy Science	29778481	2004-03-01	PMC6526946	x0a3nqah	Health benefits of orally administered anti-IL-10 antibody in milk-fed dairy calves
+Experimental Gerontology	24440389	2004-04-01	PMC4096164	7ixpqd5n	Mechanisms shaping the naïve T cell repertoire in the elderly — Thymic involution or peripheral homeostatic proliferation?
+Sci Rep	27026381	2004-04-01	PMC4824449	s31mbs7a	VIP: an integrated pipeline for metagenomics of virus identification and discovery
+Infect Immun	30297526	2004-06-08	PMC6300621	h187gn9d	Atg5 Supports Rickettsia australis Infection in Macrophages In Vitro and In Vivo
+BMC Bioinformatics	31164077	2004-06-10	PMC6549370	ska85bts	TAR-VIR: a pipeline for TARgeted VIRal strain reconstruction from metagenomic data
+One Health	31011617	2004-06-15	PMC6462540	4cpiemq5	"Qatar experience on One Health approach for middle-east respiratory syndrome coronavirus, 2012–2017: A viewpoint"
+Sci Rep	29472575	2005-01-01	PMC5823904	skphks30	Glial cell type-specific changes in spinal dipeptidyl peptidase 4 expression and effects of its inhibitors in inflammatory and neuropatic pain
+Int J Environ Res Public Health	31952364	2005-09-01	PMC7013517	n2zhxvzz	Increased Detection of Viruses in Children with Respiratory Tract Infection Using PCR
+Gastroenterology	30268787	2007-02-27	PMC6347571	6hret3xy	"Insights From Deep Sequencing of the HBV Genome—Unique, Tiny, and Misunderstood"
+Emerg Infect Dis	19193267	2007-02-26	PMC2662657	sophqqne	Face Mask Use and Control of Respiratory Virus Transmission in Households
+Emerg Infect Dis	26689738	2004-12-31	PMC4696687	d53ntyb5	"Porcine Epidemic Diarrhea Virus and Discovery of a Recombinant Swine Enteric Coronavirus, Italy"
+PLoS One	20016835	2004-03-31	PMC2790605	kdorhgm6	Rhodopsin Molecular Evolution in Mammals Inhabiting Low Light Environments
+PLoS One	30444898	2007-01-13	PMC6239303	irpm5g7g	"Detection of central nervous system viral infections in adults in Manado, North Sulawesi, Indonesia"
+Kidney Res Clin Pract	28680819	2007-03-07	PMC5491158	o76qvk49	Middle East respiratory syndrome clinical practice guideline for hemodialysis facilities
+Int J Biol Sci	31592229	2007-04-04	PMC6775298	x2zq0lnt	Circular RNA CircEZH2 Suppresses Transmissible Gastroenteritis Coronavirus-induced Opening of Mitochondrial Permeability Transition Pore via Targeting MiR-22 in IPEC-J2
+Emerg Infect Dis	24274823	2003-06-30	PMC3840891	8gp5m2m6	"Distinct Lineage of Vesiculovirus from Big Brown Bats, United States"
+The Journal of Allergy and Clinical Immunology: In Practice	25213046	2003-09-30	PMC4190166	4jn4mocv	"Wheezing Exacerbations in Early Childhood: Evaluation, Treatment, and Recent Advances Relevant to the Genesis of Asthma"
+J Biol Chem	20507992	2007-02-26	PMC2906266	tmzzowky	Elastase-mediated Activation of the Severe Acute Respiratory Syndrome Coronavirus Spike Protein at Discrete Sites within the S2 Domain
+Nucleic Acids Res	26837574	2007-03-13	PMC4856979	hf3nytb2	G-quadruplex-interacting compounds alter latent DNA replication and episomal persistence of KSHV
+The Lancet Infectious Diseases	19393959	2007-03-15	PMC4327893	p529ylc1	Incubation periods of acute respiratory viral infections: a systematic review
+Virol J	26916286	2007-03-12	PMC4766700	y6mp3rk9	"Molecular epidemiology and evolutionary histories of human coronavirus OC43 and HKU1 among patients with upper respiratory tract infections in Kuala Lumpur, Malaysia"
+Vaccine	17227689	2007-03-15	PMC1847333	n2r4pzan	Utility of the aged BALB/c mouse model to demonstrate prevention and control strategies for Severe Acute Respiratory Syndrome coronavirus (SARS-CoV)
+Social Science & Medicine	26653137	2007-03-21	PMC6858863	vfhlph80	Taking the bull by the horns: Ethical considerations in the design and implementation of an Ebola virus therapy trial
+Biochim Biophys Acta Gen Subj	31121217	2006-10-01	PMC6686077	byp2eqhd	Exploitation of glycosylation in enveloped virus pathobiology
+Immunity	19523849	2007-03-19	PMC2711215	gmznmdgh	Promyelocytic Leukemia Zinc Finger Protein Regulates Interferon-Mediated Innate Immunity
+Acta Pharm Sin B	30505666	2007-04-18	PMC6251810	s4y6uxsb	The enzymatic biosynthesis of acylated steroidal glycosides and their cytotoxic activity
+Nature	21085181	2007-03-27	PMC3058805	zf8jbhdl	2′-O methylation of the viral mRNA cap evades host restriction by IFIT family members
+J Vet Med Sci	30541984	2007-03-30	PMC6395206	yd6odwke	Schmallenberg virus induces apoptosis in Vero cell line via extrinsic and intrinsic pathways in a time and dose dependent manner
+PLoS One	29529088	2007-04-05	PMC5846794	exnqnvgg	Combined use of protein biomarkers and network analysis unveils deregulated regulatory circuits in Duchenne muscular dystrophy
+PLoS Comput Biol	29084216	2007-03-14	PMC5679647	bkfkmtld	A mechanistic spatio-temporal framework for modelling individual-to-individual transmission—With an application to the 2014-2015 West Africa Ebola outbreak
+Virus Research	25093995	2007-05-09	PMC4261026	mbgl204c	Coronavirus virulence genes with main focus on SARS-CoV envelope gene
+Clinical Microbiology and Infection	25636385	2007-02-01	PMC4332877	9zmyojbu	New digital technologies for the surveillance of infectious diseases at mass gathering events
+Urologic Clinics of North America	28716328	2007-05-04	PMC5647782	ojyxs3cp	New Frontiers of Basic Science Research in Neurogenic Lower Urinary Tract Dysfunction
+Trends in Ecology & Evolution	24726345	2007-05-23	PMC4007595	dlmx12vt	Assembling evidence for identifying reservoirs of infection
+Biosensors and Bioelectronics	26319169	2007-02-07	PMC4601610	98qxf6xo	Towards detection and diagnosis of Ebola virus disease at point-of-care
+Virology	25791336	2007-03-16	PMC4793273	sy5oa6kv	Development of animal models against emerging coronaviruses: From SARS to MERS coronavirus
+BMC Med	25091477	2007-05-30	PMC4243192	63bos83o	A clinical prediction rule for diagnosing human infections with avian influenza A(H7N9) in a hospital emergency department setting
+Sci Rep	26091504	2007-06-06	PMC4473683	hqc7u9w3	In Silico Prediction and Experimental Confirmation of HA Residues Conferring Enhanced Human Receptor Specificity of H5N1 Influenza A Viruses
+Sci Rep	28446746	2007-05-29	PMC5430856	wcm3a6ro	Peripheral blood AKAP7 expression as an early marker for lymphocyte-mediated post-stroke blood brain barrier disruption
+Molecules	31698778	2007-05-03	PMC6891762	d2jbuhct	Novel Isoxazolidine and γ-Lactam Analogues of Homonucleosides
+Viruses	31963517	2007-04-24	PMC7020022	ivscb6yx	Population- and Variant-Based Genome Analyses of Viruses from Vaccine-Derived Rabies Cases Demonstrate Product Specific Clusters and Unique Patterns
+BMJ Open	29439082	2007-05-29	PMC5829903	44ug53nb	Association of common comorbidities with osteonecrosis: a nationwide population-based case–control study in Denmark
+Mol Biol Cell	29718762	2007-05-29	PMC6080657	x489eoc4	In wound repair vimentin mediates the transition of mesenchymal leader cells to a myofibroblast phenotype
+The Journal of Pediatrics	26787374	2007-05-09	PMC4808614	f7etlk5i	"Clinical Features, Virus Identification, and Sinusitis as a Complication of Upper Respiratory Tract Illness in Children Ages 4-7 Years"
+Advanced Drug Delivery Reviews	25446140	2007-05-07	PMC4429008	blhltvns	"Inhaled anti-infective chemotherapy for respiratory tract infections: Successes, challenges and the road ahead"
+PLoS Pathog	16617377	2007-05-11	PMC1435987	5u0i6kue	Prions Adhere to Soil Minerals and Remain Infectious
+Sci Rep	28051158	2007-06-13	PMC5209731	be2ith3z	Universal and reusable virus deactivation system for respiratory protection
+Cancers (Basel)	31731581	2007-06-04	PMC6896023	evyniq0v	Emodin Inhibits EBV Reactivation and Represses NPC Tumorigenesis
+Nucleic Acids Res	27651462	2007-06-07	PMC5175359	grk3pq19	A small stem-loop structure of the Ebola virus trailer is essential for replication and interacts with heat-shock protein A8
+PLoS Pathog	28542609	2007-05-29	PMC5451084	wgxt36jv	Potent and selective inhibition of pathogenic viruses by engineered ubiquitin variants
+Pediatr Qual Saf	32010868	2007-05-29	PMC6946222	ou3wj4rz	Focusing on Families and Visitors Reduces Healthcare Associated Respiratory Viral Infections in a Neonatal Intensive Care Unit
+Current Opinion in Virology	24762977	2007-06-01	PMC4072739	hveuq2x9	Membrane ectopeptidases targeted by human coronaviruses
+PLoS One	20957227	2007-06-06	PMC2949385	ld9eieik	Generation of Human Antigen-Specific Monoclonal IgM Antibodies Using Vaccinated “Human Immune System” Mice
+Bioorganic & Medicinal Chemistry Letters	18796354	2007-06-11	PMC2745596	jy364gv4	"Design, synthesis and antiviral efficacy of a series of potent chloropyridyl ester-derived SARS-CoV 3CLpro inhibitors"
+The American Journal of Pathology	16565481	2007-07-11	PMC1606546	qbldmef1	Systemic Viral Infections and Collateral Damage in the Liver
+Molecules	25849802	2007-06-13	PMC6272500	i9arl3oi	"Synthesis, Characterization, Crystal Structure and Antimicrobial Activity of Copper(II) Complexes with the Schiff Base Derived from 2-Hydroxy-4-Methoxybenzaldehyde"
+PLoS One	26986479	2007-07-25	PMC4795770	ue8yn570	A Next-Generation Sequencing Data Analysis Pipeline for Detecting Unknown Pathogens from Mixed Clinical Samples and Revealing Their Genetic Diversity
+Molecules	29267237	2007-06-01	PMC5943967	z5klydpi	Recyclable Keggin Heteropolyacids as an Environmentally Benign Catalyst for the Synthesis of New 2-Benzoylamino-N-phenyl-benzamide Derivatives under Microwave Irradiations at Solvent-Free Conditions and the Evaluation of Biological Activity
+Journal of Traditional and Complementary Medicine	26151022	2007-07-25	PMC4488564	lz37rh82	Creosote bush lignans for human disease treatment and prevention: Perspectives on combination therapy
+PeerJ	29340239	2007-06-27	PMC5768174	n9sih438	FastViromeExplorer: a pipeline for virus and phage identification and abundance profiling in metagenomics data
+Virology	19157478	2007-05-28	PMC2663363	p5vizh8g	The Polyomaviridae: Contributions of virus structure to our understanding of virus receptors and infectious entry
+mBio	21151776	2007-05-08	PMC2999940	ueyaw8pd	Rotavirus Disrupts Calcium Homeostasis by NSP4 Viroporin Activity
+Genomics Proteomics Bioinformatics	15629031	2007-05-03	PMC5172413	cjcvm3x7	The C-Terminal Portion of the Nucleocapsid Protein Demonstrates SARS-CoV Antigenicity
+BMC Microbiol	15850481	2007-07-17	PMC1127111	zgv4kd6j	The Microbial Rosetta Stone Database: A compilation of global and emerging infectious microorganisms and bioterrorist threat agents
+PLoS Genet	19300481	2007-06-18	PMC2650261	08gqn86z	Ciliary Beating Recovery in Deficient Human Airway Epithelial Cells after Lentivirus Ex Vivo Gene Therapy
+PLoS Pathog	28178344	2007-07-13	PMC5319820	j0bazhy2	Comparative analysis estimates the relative frequencies of co-divergence and cross-species transmission within viral families
+Nat Commun	28534504	2007-07-24	PMC5529671	2ks9iimj	Crystal structure of the receptor binding domain of the spike glycoprotein of human betacoronavirus HKU1
+J Vet Intern Med	30882953	2007-06-24	PMC6524086	1pr9q0ww	"Efficacy of an orally administered anti‐diarrheal probiotic paste (Pro‐Kolin Advanced) in dogs with acute diarrhea: A randomized, placebo‐controlled, double‐blinded clinical study"
+The American Journal of Pathology	16723697	2007-08-10	PMC1606622	1n69h3i3	Loss of Angiotensin-Converting Enzyme-2 Leads to the Late Development of Angiotensin II-Dependent Glomerulosclerosis
+Sci Rep	26976147	2007-08-10	PMC4791558	20los4eg	"Dissection and integration of the autophagy signaling network initiated by bluetongue virus infection: crucial candidates ERK1/2, Akt and AMPK"
+BMC Med	18031574	2007-08-14	PMC2213648	b12v3c8c	Predictability and epidemic pathways in global outbreaks of infectious diseases: the SARS case study
+Sci Rep	26310922	2007-08-22	PMC4550849	ap5n6ijl	Identification of agents effective against multiple toxins and viruses by host-oriented cell targeting
+Signal Transduction and Targeted Therapy	32133159	2007-06-28	PMC7035340	yfn8sy1m	Potential benefits of precise corticosteroids therapy for severe 2019-nCoV pneumonia
+J Virol	26311877	2007-08-24	PMC4621119	b8lesr2g	Remote Activation of Host Cell DNA Synthesis in Uninfected Cells Signaled by Infected Cells in Advance of Virus Transmission
+Protein Cell	27430948	2006-05-23	PMC5003786	cbl00d50	Subcellular redistribution and sequential recruitment of macromolecular components during SGIV assembly
+Current Opinion in Immunology	22651901	2007-09-19	PMC3477860	dh9n3j23	Inborn errors of human STAT1: allelic heterogeneity governs the diversity of immunological and infectious phenotypes
+J Epidemiol	29607886	2007-09-19	PMC6111106	p5ff5u4l	Estimating the Asymptomatic Ratio of Norovirus Infection During Foodborne Outbreaks With Laboratory Testing in Japan
+Oncotarget	27577074	2007-07-25	PMC5362420	9zm4per4	IκB-Kinase-epsilon (IKKε) over-expression promotes the growth of prostate cancer through the C/EBP-β dependent activation of IL-6 gene expression
+Sci Rep	28839157	2007-08-01	PMC5571090	zr28uujh	"Acute respiratory infections in hospitalized children in Vientiane, Lao PDR – the importance of Respiratory Syncytial Virus"
+Molecules	26287132	2007-09-26	PMC6332339	noscodew	"Synthesis, Characterization, and Anti-Cancer Activity of Some New N′-(2-Oxoindolin-3-ylidene)-2-propylpentane hydrazide-hydrazones Derivatives"
+Life Sci Alliance	31826928	2005-10-20	PMC6907390	yzmt1e0l	Bat IFITM3 restriction depends on S-palmitoylation and a polymorphic site within the CD225 domain
+Nucleic Acids Res	30085309	2007-10-03	PMC6144811	i3w7beuj	Small synthetic molecule-stabilized RNA pseudoknot as an activator for –1 ribosomal frameshifting
+Biomolecules	28300792	2007-01-26	PMC5372741	vnn4135b	Chemical and Conformational Diversity of Modified Nucleosides Affects tRNA Structure and Function
+Sci Rep	28801623	2007-05-18	PMC5554254	gyzbzx53	Social contact patterns relevant to the spread of respiratory infectious diseases in Hong Kong
+Journal of Molecular Biology	19853613	2007-08-17	PMC2794126	hyg2ufsf	Identification of a New Region of SARS-CoV S Protein Critical for Viral Entry
+PLoS Comput Biol	25010676	2007-08-17	PMC4091706	icj261ls	On the Use of Human Mobility Proxies for Modeling Epidemics
+Epidemiol Health	28774162	2007-10-24	PMC5675987	l92nlegt	The direction of restructuring of a Korea field epidemiology training program through questionnaire survey among communicable disease response staff in Korea
+Epidemiol Health	31801320	2007-08-15	PMC7005456	mcsdem7y	Ebola virus disease outbreak in Korea: use of a mathematical model and stochastic simulation to estimate risk
+Viruses	30939777	2007-08-14	PMC6521135	nada82w4	A Reverse Genetics System for Cypovirus Based on a Bacmid Expressing T7 RNA Polymerase
+BMC Infect Dis	23237512	2007-11-20	PMC3538156	sabz03c0	Viral etiologies of lower respiratory tract infections among Egyptian children under five years of age
+Sci Rep	27633136	2007-12-01	PMC5025888	38kg24nv	Biochemical and structural characterization of the interface mediating interaction between the influenza A virus non-structural protein-1 and a monoclonal antibody
+Sci Rep	29234140	2007-11-21	PMC5727058	z2u5frvq	Altered Gut Microbiota Profiles in Sows and Neonatal Piglets Associated with Porcine Epidemic Diarrhea Virus Infection
+Sci Rep	28338097	2007-10-22	PMC5364415	6lezilfv	The cellular protein hnRNP A2/B1 enhances HIV-1 transcription by unfolding LTR promoter G-quadruplexes
+Viruses	31847269	2007-10-18	PMC6950461	88g7iqg3	Antigenic and Pathogenic Characteristics of QX-Type Avian Infectious Bronchitis Virus Strains Isolated in Southwestern China
+Emerg Infect Dis	24565026	2007-10-29	PMC3944863	7gk8uzo0	"Influenza A(H1N1)pdm09 Virus Infection in Giant Pandas, China"
+Journal of Molecular Biology	24076421	2006-05-15	PMC4121887	u4qhk802	IFITMs Restrict the Replication of Multiple Pathogenic Viruses
+Korean J Radiol	32056397	2007-11-29	PMC7039714	8813y8h5	Novel Coronavirus Pneumonia Outbreak in 2019: Computed Tomographic Findings in Two Cases
+Emerg Infect Dis	24856611	2007-10-15	PMC4036782	y2nhss9u	"New Hepatitis E Virus Genotype in Camels, the Middle East"
+PLoS One	28362850	2007-10-10	PMC5376323	v5glur2c	Chemical property based sequence characterization of PpcA and its homolog proteins PpcB-E: A mathematical approach
+Sci Rep	29348569	2007-12-21	PMC5773709	ffn59sgf	GenomeLandscaper: Landscape analysis of genome-fingerprints maps assessing chromosome architecture
+Nucleic Acids Res	20935056	2007-01-25	PMC3035469	u2rmzho7	The activity of the HIV-1 IRES is stimulated by oxidative stress and controlled by a negative regulatory element
+Emerg Infect Dis	31423971	2007-11-15	PMC6759265	czoul5o8	"Transmissibility of MERS-CoV Infection in Closed Setting, Riyadh, Saudi Arabia, 2015"
+Infectious Disease Clinics of North America	23398872	2007-03-14	PMC3572787	16tii0ha	What is the Role of Respiratory Viruses in Community-Acquired Pneumonia? What is the Best Therapy for Influenza and Other Viral Causes of Community-Acquired Pneumonia?
+PLoS One	26658006	2008-01-15	PMC4682845	odnpx3ib	Critical Assessment of the Important Residues Involved in the Dimerization and Catalysis of MERS Coronavirus Main Protease
+PLoS Pathog	32069326	2006-02-28	PMC7048315	ktzcwd52	Structure of the host cell recognition and penetration machinery of a Staphylococcus aureus bacteriophage
+Proc Natl Acad Sci U S A	30674674	2001-03-31	PMC6369741	7haq0e38	Small molecule ISRIB suppresses the integrated stress response within a defined window of activation
+Cell Host & Microbe	26764599	2007-10-05	PMC4714357	m72a3b8y	Autophagy Genes Enhance Murine Gammaherpesvirus 68 Reactivation from Latency by Preventing Virus-Induced Systemic Inflammation
+Nucleic Acids Res	25326320	2007-11-13	PMC4227792	fl6wlhjs	Archaeal DnaG contains a conserved N-terminal RNA-binding domain and enables tailing of rRNA by the exosome
+Sci Rep	27279080	2007-11-08	PMC4899729	74d2mb70	"Genetic diversity, seasonality and transmission network of human metapneumovirus: identification of a unique sub-lineage of the fusion and attachment genes"
+Nucleic Acids Res	20211840	2008-01-30	PMC2860123	kixzxs68	Cloning whole bacterial genomes in yeast
+BMC Evol Biol	19604368	2008-01-30	PMC2723090	gstpi4mw	Rooting human parechovirus evolution in time
+Sci Rep	30135435	2007-03-22	PMC6105681	gaemgm0t	Isolation and characterization of novel bat paramyxovirus B16-40 potentially belonging to the proposed genus Shaanvirus
+Cell Discovery	32133152	2007-03-16	PMC7039910	kfwbqp4p	"Phase-adjusted estimation of the number of Coronavirus Disease 2019 cases in Wuhan, China"
+Anal Chem	25019330	2007-04-30	PMC4144724	umso5uv0	A Versatile PDMS/Paper Hybrid Microfluidic Platform for Sensitive Infectious Disease Diagnosis
+Emerg Infect Dis	31002068	2007-08-24	PMC6478233	mzn448zk	"Risk Factors for MERS-CoV Seropositivity among Animal Market and Slaughterhouse Workers, Abu Dhabi, United Arab Emirates, 2014–2017"
+Infect Dis Poverty	27580946	2007-07-01	PMC5007809	fipljdyy	"Economic burden and its associated factors of hospitalized patients infected with A (H7N9) virus: a retrospective study in Eastern China, 2013–2014"
+Sci Rep	28079137	2007-09-01	PMC5228125	8qd1a997	X-ray Structure and Enzymatic Activity Profile of a Core Papain-like Protease of MERS Coronavirus with utility for structure-based drug design
+Emerg Infect Dis	27191483	2004-11-15	PMC4982148	menw48x2	Use of Unamplified RNA/cDNA–Hybrid Nanopore Sequencing for Rapid Detection and Characterization of RNA Viruses
+Oncotarget	29050302	2005-02-21	PMC5642577	rlabxfss	2L-PCA: a two-level principal component analyzer for quantitative drug design and its applications
+Pathogens	30544850	2005-08-01	PMC6313517	55gi6gyx	Host-Driven Phosphorylation Appears to Regulate the Budding Activity of the Lassa Virus Matrix Protein
+Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease	17644322	2005-03-21	PMC2094211	rqjeacow	Differential activation of polymorphisms of the formyl peptide receptor by formyl peptides
+Pharmacological Research	20951211	2007-11-21	PMC3031662	8fbwiqqj	Tetracycline compounds with non-antimicrobial organ protective properties: Possible mechanisms of action
+Nucleic Acids Res	24319147	2007-12-03	PMC3936753	tp3qt9pb	A cypovirus VP5 displays the RNA chaperone-like activity that destabilizes RNA helices and accelerates strand annealing
+Infect Dis Poverty	28472981	2006-03-25	PMC5415955	qf2zwbjg	"InfectiousDiseases ofPoverty, the first five years"
+Front Immunol	30505304	2006-03-25	PMC6250824	r8a6n9c4	Respiratory Viral Infection-Induced Microbiome Alterations and Secondary Bacterial Pneumonia
+J R Soc Interface	31480919	2008-02-20	PMC6769301	bk601l5a	Hepatitis C virus modelled as an indirectly transmitted infection highlights the centrality of injection drug equipment in disease dynamics
+Nucleic Acids Res	20123730	2007-12-19	PMC2853144	pb1e2w7s	DotKnot: pseudoknot prediction using the probability dot plot under a refined energy model
+Sci Rep	24667241	2007-12-11	PMC3966050	b0oiig7g	Highly dynamic animal contact network and implications on disease transmission
+PLoS Pathog	29518153	2008-02-12	PMC5843284	3t4vv50z	Species-specific vulnerability of RanBP2 shaped the evolution of SIV as it transmitted in African apes
+Mediators Inflamm	27867263	2007-11-03	PMC5102744	vb3laqs0	Interferon-Stimulated Gene 15 Conjugation Stimulates Hepatitis B Virus Production Independent of Type I Interferon Signaling Pathway In Vitro
+Viruses	31683628	2007-10-02	PMC6893733	8cixsjrf	"The Rescue and Characterization of Recombinant, Microcephaly-Associated Zika Viruses as Single-Round Infectious Particles"
+Immunology and Allergy Clinics of North America	18572106	2007-11-04	PMC2504766	ujhgb3b0	The Impact of Respiratory Viral Infection on Wheezing Illnesses and Asthma Exacerbations
+PLoS One	17712406	2006-01-01	PMC1950082	0kkm0tgj	Estimating Individual and Household Reproduction Numbers in an Emerging Epidemic
+Sci Rep	26626303	2006-03-07	PMC4667186	jj3wzojy	CD11c(hi) Dendritic Cells Regulate Ly-6C(hi) Monocyte Differentiation to Preserve Immune-privileged CNS in Lethal Neuroinflammation
+Nucleic Acids Res	26612863	2006-06-26	PMC4705660	arivkkj0	A general strategy to inhibiting viral −1 frameshifting based on upstream attenuation duplex formation
+Sci Rep	30374051	2008-01-07	PMC6206032	pply18om	"Selection and validation of suitable reference genes for qPCR gene expression analysis in goats and sheep under Peste des petits ruminants virus (PPRV), lineage IV infection"
+Emerg Microbes Infect	27729643	2008-01-22	PMC5117728	ml2luc1t	Evolution of codon usage in Zika virus genomes is host and vector specific
+PLoS One	28095472	2008-01-10	PMC5240953	mp4dydqd	Review of Participatory Epidemiology Practices in Animal Health (1980-2015) and Future Practice Directions
+Genomics Proteomics Bioinformatics	15629030	2007-12-13	PMC5172409	cpz8yb16	Complete Genome Sequences of the SARS-CoV: the BJ Group (Isolates BJ01-BJ04)
+Pathogens	26610576	2007-11-05	PMC4693166	xfzhn1n1	Full Genomic Characterization of a Saffold Virus Isolated in Peru
+Sci Rep	27666390	2008-01-18	PMC5035928	ipwm9uob	"Novel highly divergent reassortant bat rotaviruses in Cameroon, without evidence of zoonosis"
+Sci Rep	28374796	2008-01-30	PMC5379670	emnln2ix	Identification of Novel MAGE-G1-Interacting Partners in Retinoic Acid-Induced P19 Neuronal Differentiation Using SILAC-Based Proteomics
+Sci Rep	25649629	2008-02-19	PMC4316158	cg4p5da4	Exploration of diarrhoea seasonality and its drivers in China
+Sci Rep	26607834	2008-01-07	PMC4660426	5x982n76	Inferring the hosts of coronavirus using dual statistical models based on nucleotide composition
+Nat Commun	29066781	2008-01-30	PMC5654761	4i9fc0r7	Global hotspots and correlates of emerging zoonotic diseases
+PLoS Negl Trop Dis	30161131	2008-02-13	PMC6116922	9trzqzep	Direct nucleic acid analysis of mosquitoes for high fidelity species identification and detection of Wolbachia using a cellphone
+European Journal of Medicinal Chemistry	24177359	2008-02-13	PMC4358806	f0ahybvs	"Design, synthesis and biological evaluation of phosphorodiamidate prodrugs of antiviral and anticancer nucleosides"
+Sci Rep	28827629	2008-01-24	PMC5567165	uo1d8xka	Phellodendron chinense Schneid: A novel yellow-emitting luminescent material for white light-emitting diodes
+The Journal of Pediatrics	28041669	2008-03-19	PMC5328856	6njwigco	Viral Respiratory Infections in Preterm Infants during and after Hospitalization
+Emerg Infect Dis	25418532	2007-02-01	PMC4257804	x80cs5bc	"Equine Influenza A(H3N8) Virus Isolated from Bactrian Camel, Mongolia"
+Nucleic Acids Res	17012271	2007-12-01	PMC1636460	0dkttavx	Molecular dynamics simulations of human [Formula: see text]: the role of modified bases in mRNA recognition
+Emerg Infect Dis	28322710	2008-01-24	PMC5367404	v6jyplcn	"Surveillance and Testing for Middle East Respiratory Syndrome Coronavirus, Saudi Arabia, April 2015–February 2016"
+J Prev Med Public Health	26639747	2008-03-19	PMC4676640	hs3wfffs	Current Status of Infection Prevention and Control Programs for Emergency Medical Personnel in the Republic of Korea
+J Virol	26063423	2008-03-07	PMC4524249	uxknan3t	Characterization of Ribosomal Frameshifting in Theiler's Murine Encephalomyelitis Virus
+Epidemiol Health	26493652	2008-01-15	PMC4558561	8ci3sd43	“The Duty to Prevent” during an epidemic situation like 2015 Korean MERS outbreak
+J Biol Chem	28924037	2007-10-12	PMC5704491	5no746n6	Intrinsically disordered sequences enable modulation of protein phase separation through distributed tyrosine motifs
+BMC Genomics	31898474	2007-07-01	PMC6941262	rbqbesj5	Whole genome sequencing and phylogenetic analysis of human metapneumovirus strains from Kenya and Zambia
+Sci Rep	30718724	2008-04-02	PMC6362069	aw1g82bc	Real-time analysis of quantum dot labeled single porcine epidemic diarrhea virus moving along the microtubules using single particle tracking
+Angew Chem Int Ed Engl	28834009	2008-03-25	PMC5658968	fae3sczm	Chemical Synthesis of the Highly Hydrophobic Antiviral Membrane‐Associated Protein IFITM3 and Modified Variants
+Mil Med Res	32029004	2006-03-25	PMC7003341	jj0juopc	A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version)
+Molecular Therapy - Nucleic Acids	23344079	2008-02-12	PMC3390225	1c4m2fym	Peptide-mediated Cell and In Vivo Delivery of Antisense Oligonucleotides and siRNA
+PLoS One	29933369	2008-02-05	PMC6014660	xdxfi2yy	Meditation or exercise for preventing acute respiratory infection (MEPARI-2): A randomized controlled trial
+Experimental Neurology	27068622	2008-03-18	PMC5010953	crdp813c	Inherited and acquired disorders of myelin: The underlying myelin pathology
+Euro Surveill	31992388	2008-02-26	PMC6988272	1ldebnq8	"Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020"
+Clinics in Perinatology	23415266	2002-06-23	PMC3589666	397hp1yt	The Altered Gut Microbiome and Necrotizing Enterocolitis
+Virol J	27000806	2002-09-23	PMC4802622	zurd5d64	Evaluation of recombinase polymerase amplification for detection of begomoviruses by plant diagnostic clinics
+Nat Commun	25692415	2008-02-11	PMC4346637	lcqjbz5j	CEACAM1 induces B-cell survival and is essential for protective antiviral antibody production
+Trends in Microbiology	30201512	2008-04-18	PMC6319154	eflxldnr	A Balancing Act: MDA5 in Antiviral Immunity and Autoinflammation
+Mol Med Rep	30942403	2009-01-01	PMC6471772	laawgrxl	The role of lateral pterygoid muscle in the traumatic temporomandibular joint ankylosis: A gene chip based analysis
+Nat Chem Biol	30643282	2008-02-18	PMC6466627	navrmhqm	IFITM3 directly engages and shuttles incoming virus particles to lysosomes
+Biomaterials	23137394	2008-04-16	PMC4705352	zu2zujgz	Autoregulation of thromboinflammation on biomaterial surfaces by a multicomponent therapeutic coating
+The Journal of Pediatrics	22694859	2008-04-23	PMC3731035	zb6cv8ik	Unrecognized Viral Respiratory Tract Infections in Premature Infants during their Birth Hospitalization: A Prospective Surveillance Study in Two Neonatal Intensive Care Units
+Virology	18951604	2008-02-20	PMC2648827	yz2lku1i	"Roles for the recycling endosome, Rab8, and Rab11 in hantavirus release from epithelial cells"
+Nat Commun	30076287	2008-02-29	PMC6076265	5ns2t5i2	A Zika virus vaccine expressing premembrane-envelope-NS1 polyprotein
+Journal of Molecular Biology	24095897	2008-04-25	PMC3842434	7n75m669	Antiviral Mechanisms of Human Defensins
+Virology	23217617	2008-02-28	PMC3523278	sldw0en7	Barriers of hepatitis C virus interspecies transmission
+Epidemics	29853411	2008-03-27	PMC6227252	w6scpc65	Modelling the global spread of diseases: A review of current practice and capability
+Virology	20110095	2008-05-02	PMC2830353	gnnd0zmo	Immunization with an attenuated severe acute respiratory syndrome coronavirus deleted in E protein protects against lethal respiratory disease
+Mediators Inflamm	28348459	2008-03-20	PMC5350427	cc7eh1mf	Lysophosphatidic Acid Triggers Apoptosis in HeLa Cells through the Upregulation of Tumor Necrosis Factor Receptor Superfamily Member 21
+PLoS Med	18366252	1999-03-01	PMC2270306	735m0znd	Social Contacts and Mixing Patterns Relevant to the Spread of Infectious Diseases
+J Mol Model	21523547	2000-11-01	PMC3249548	5qiwui6u	Interference of H-bonding and substituent effects in nitro- and hydroxy-substituted salicylaldehydes
+Cell Discovery	32133153	2008-04-25	PMC7040011	6v0y6xsa	Comparative genetic analysis of the novel coronavirus (2019-nCoV/SARS-CoV-2) receptor ACE2 in different populations
+Nat Med	23455712	2006-12-16	PMC3618596	be2wpsa6	Differential innate immune response programs in neuronal subtypes determine susceptibility to infection in the brain by positive stranded RNA viruses
+Nature	26855426	2008-03-24	PMC5018210	40pa5g89	Cryo-electron microscopy structure of a coronavirus spike glycoprotein trimer
+Comput Math Methods Med	25784956	2007-07-28	PMC4345055	ycbyx6vu	A Bayesian Inferential Approach to Quantify the Transmission Intensity of Disease Outbreak
+Virology	26149721	2006-05-09	PMC4567502	4yxda0mf	A G-quadruplex-binding macrodomain within the “SARS-unique domain” is essential for the activity of the SARS-coronavirus replication–transcription complex
+Biochimica et Biophysica Acta (BBA) - General Subjects	21291960	2008-04-02	PMC3130828	w1sp0yyy	Viruses and asthma
+Sci Rep	29654248	2001-07-23	PMC5899083	gin2wrbg	Detection and characterisation of coronaviruses in migratory and non-migratory Australian wild birds
+One Health	30911597	2008-05-14	PMC6416407	33mqfj2t	Shiga toxin-producing Escherichia coli (STEC) isolated from fecal samples of African dromedary camels
+Virology	23099203	2008-05-07	PMC3804408	7jszm1nd	Murine hepatitis virus nsp4 N258T mutants are not temperature-sensitive
+J Gen Virol	18753230	2008-05-14	PMC2886951	543aq9dx	Investigating antibody neutralization of lyssaviruses using lentiviral pseudotypes: a cross-species comparison
+Epidemiology	31274572	2008-05-14	PMC6684224	nmmimc71	A Systematic Review of Social Contact Surveys to Inform Transmission Models of Close-contact Infections
+Current Opinion in Virology	24713352	2007-09-14	PMC4077717	01o15wd4	Interferon-stimulated genes: roles in viral pathogenesis
+Chest	25188530	2008-05-30	PMC4251621	rzzsmuoc	Anatomy and Neurophysiology of Cough CHEST Guideline and Expert Panel Report
+PLoS One	25856093	2006-03-28	PMC4391951	w2xuf15h	Real-Time Sequence-Validated Loop-Mediated Isothermal Amplification Assays for Detection of Middle East Respiratory Syndrome Coronavirus (MERS-CoV)
+BMC Public Health	31142311	2008-03-29	PMC6542035	0pt6dxb3	What can urban mobility data reveal about the spatial distribution of infection in a single city?
+PLoS One	28880958	2008-05-28	PMC5589226	ytolwx4i	"Think globally, act locally: Phylodynamic reconstruction of infectious bronchitis virus (IBV) QX genotype (GI-19 lineage) reveals different population dynamics and spreading patterns when evaluated on different epidemiological scales"
+PLoS One	25025332	2008-04-11	PMC4099126	8rrkf78o	"Dissecting Virus Entry: Replication-Independent Analysis of Virus Binding, Internalization, and Penetration Using Minimal Complementation of β-Galactosidase"
+BMC Infect Dis	26572220	2008-06-01	PMC4647599	fpiew1jy	Differential proteomic analysis of virus-enriched fractions obtained from plasma pools of patients with dengue fever or severe dengue
+Respir Res	29929556	2007-12-04	PMC6013893	vi1fgbug	"The human viral challenge model: accelerating the evaluation of respiratory antivirals, vaccines and novel diagnostics"
+PLoS One	30921418	2008-05-28	PMC6438514	iy4c7404	Synthetic sulfonated derivatives of poly(allylamine hydrochloride) as inhibitors of human metapneumovirus
+PLoS Pathog	31194843	2008-04-18	PMC6592578	ze511t38	Broadly resistant HIV-1 against CD4-binding site neutralizing antibodies
+Emerg Infect Dis	27479636	2008-06-06	PMC5038397	2flmvmdj	Viral RNA in Blood as Indicator of Severe Outcome in Middle East Respiratory Syndrome Coronavirus Infection
+Viruses	30999711	2008-04-11	PMC6521082	f7eqdxpv	Discovery and Characterization of Novel Bat Coronavirus Lineages from Kazakhstan
+Infect Chemother	29299900	2008-04-01	PMC5754344	4899cq99	Guidelines for the Antibiotic Use in Adults with Acute Upper Respiratory Tract Infections
+Emerg Infect Dis	22840964	2008-03-16	PMC3414035	ftlb5b95	"New Variants of Porcine Epidemic Diarrhea Virus, China, 2011"
+Biochimica et Biophysica Acta (BBA) - General Subjects	25445708	2007-03-25	PMC4491039	b5u5hp2r	The role of immunophilins in viral infection
+BMC Med Genet	26369942	2008-06-18	PMC4570703	0c5p8sjk	β(2)-Adrenergic receptor promoter haplotype influences the severity of acute viral respiratory tract infection during infancy: a prospective cohort study
+Trends in Microbiology	22405519	2008-05-14	PMC3322245	7vvj0vfs	Regulation of stress granules in virus systems
+Sci Rep	28428548	2008-06-11	PMC5430552	k2kcva43	Antiviral activities of Schizonepeta tenuifolia Briq. against enterovirus 71 in vitro and in vivo
+Afr J Emerg Med	30456077	2008-06-13	PMC6234170	3ib99gup	Developing metrics for emergency care research in low- and middle-income countries
+Pharmaceutics	31500241	2008-05-15	PMC6781302	j3ehiwn9	Comprehensive Analysis of the Safety Profile of a Single-Stranded RNA Nano-Structure Adjuvant
+PLoS Biol	31770368	2008-05-21	PMC6879112	p5uihiwt	Tissue tropism and transmission ecology predict virulence of human RNA viruses
+The Lancet	23200486	2008-06-02	PMC3712832	qjyooq68	Anatomy of a pandemic
+BMC Biotechnol	31959159	2008-06-18	PMC6971912	9bs1udnv	A self-aggregating peptide: implications for the development of thermostable vaccine candidates
+Virology	25463617	2008-06-03	PMC4304765	1eksm537	A simian hemorrhagic fever virus isolate from persistently infected baboons efficiently induces hemorrhagic fever disease in Japanese macaques
+Immunology and Allergy Clinics of North America	21029933	2008-05-01	PMC2967440	gy2b7of9	Viral Diversity in Asthma
+Virology	17222884	2007-09-23	PMC1925034	8o5vmqlg	Membrane topology of murine coronavirus replicase nonstructural protein 3
+Microbes and Infection	22051604	2008-02-06	PMC3264745	2c78dom8	Manipulation or capitulation: virus interactions with autophagy
+Mol Ther Nucleic Acids	27093169	2008-07-09	PMC5014526	h3qhwka0	Hemagglutinin-targeting Artificial MicroRNAs Expressed by Adenovirus Protect Mice From Different Clades of H5N1 Infection
+Clinics in Chest Medicine	17085257	2008-07-09	PMC2703471	lrtt9r1h	Genetic Epidemiology of Acute Respiratory Distress Syndrome: Implications for Future Prevention and Treatment
+PLoS One	23826222	2008-07-09	PMC3694918	umvrwgaw	A Simulation Optimization Approach to Epidemic Forecasting
+Front Immunol	31275324	2008-06-04	PMC6593111	fw6q4qpq	Identification of a Novel Non-desmoglein Autoantigen in Pemphigus Vulgaris
+Ophthalmol Ther	25502122	2008-07-16	PMC4470982	b8xb1f12	Use of the Fluocinolone Acetonide Intravitreal Implant for the Treatment of Noninfectious Posterior Uveitis: 3-Year Results of a Randomized Clinical Trial in a Predominantly Asian Population
+Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease	16842982	2008-06-23	PMC2075610	yh1lioyz	"Peptides derived from HIV-1, HIV-2, Ebola virus, SARS coronavirus and coronavirus 229E exhibit high affinity binding to the formyl peptide receptor"
+Antiviral Research	26192750	2008-07-08	PMC4561025	fkea2rp8	Animal models of Middle East respiratory syndrome coronavirus infection
+Bioorganic & Medicinal Chemistry Letters	28283242	2008-06-13	PMC5397994	548402bb	Exchange proteins directly activated by cAMP (EPACs): Emerging therapeutic targets
+Acta Pharm Sin B	27175332	2008-06-09	PMC4856955	ujbclp35	"Qingfei Xiaoyan Wan, a traditional Chinese medicine formula, ameliorates Pseudomonas aeruginosa–induced acute lung inflammation by regulation of PI3K/AKT and Ras/MAPK pathways"
+Osong Public Health Res Perspect	32149036	2008-07-16	PMC7045880	kamvao4b	Identification of Coronavirus Isolated from a Patient in Korea with COVID-19
+Mem Inst Oswaldo Cruz	28403327	2008-05-13	PMC5398160	qd2xg5tz	Internal control for real-time polymerase chain reaction based on MS2 bacteriophage for RNA viruses diagnostics
+Korean J Radiol	32056396	2008-07-23	PMC7039716	xkx56h0o	Pneumonia Associated with 2019 Novel Coronavirus: Can Computed Tomographic Findings Help Predict the Prognosis of the Disease?
+BMC Mol Biol	17288598	2008-05-27	PMC1802086	mcl9tt8a	Appropriate 'housekeeping' genes for use in expression profiling the effects of environmental estrogens in fish
+PLoS One	29990356	2008-07-23	PMC6039036	5blxgsfi	Prevalence of chronic comorbidities in dengue fever and West Nile virus: A systematic review and meta-analysis
+PLoS One	26383268	2008-05-06	PMC4575168	4z38v9rg	High-Throughput Ligand Discovery Reveals a Sitewise Gradient of Diversity in Broadly Evolved Hydrophilic Fibronectin Domains
+Sci Rep	27403722	2008-06-24	PMC4940736	5uze06rp	Novel Chemical Ligands to Ebola Virus and Marburg Virus Nucleoproteins Identified by Combining Affinity Mass Spectrometry and Metabolomics Approaches
+BMC Biotechnol	19698181	2008-08-01	PMC2746808	0g7h76bk	High quality protein microarray using in situ protein purification
+Antivir Chem Chemother	30759993	2008-07-11	PMC6376503	7gmtp6km	A medium-throughput screen for inhibitors of human metapneumovirus
+Open Virol J	22582106	2008-08-01	PMC3349948	ps6bu5b4	Genome Stability of Pandemic Influenza A (H1N1) 2009 Based on Analysis of Hemagglutinin and Neuraminidase Genes
+Clin Dev Immunol	23864878	2008-07-13	PMC3705805	es5t9kvt	Microglia Play a Major Role in Direct Viral-Induced Demyelination
+Oncotarget	26985768	2008-08-06	PMC4941248	niurdu7t	CCR5 knockout suppresses experimental autoimmune encephalomyelitis in C57BL/6 mice
+BMC Pulm Med	29228933	2008-08-13	PMC5725640	ueglfhux	Pulmonary exacerbations and clinical outcomes in a longitudinal cohort of infants and preschool children with cystic fibrosis
+Nucleic Acids Res	17012270	2008-05-21	PMC1636472	j3h80aui	A novel endonuclease IV post-PCR genotyping system
+Viruses	30445707	2008-05-17	PMC6266937	mt125e59	The In Ovo Delivery of CpG Oligonucleotides Protects against Infectious Bronchitis with the Recruitment of Immune Cells into the Respiratory Tract of Chickens
+PLoS One	21603574	2006-10-31	PMC3095640	v0vznri2	Potent Host-Directed Small-Molecule Inhibitors of Myxovirus RNA-Dependent RNA-Polymerases
+Sci Rep	25923474	2008-07-17	PMC4413879	zz7gjfqg	Influenza A virus-dependent remodeling of pulmonary clock function in a mouse model of COPD
+Viruses	26761027	2008-08-22	PMC4728576	w33k8pdu	Rhinoviruses and Respiratory Enteroviruses: Not as Simple as ABC
+Eurosurveillance	32046816	2008-05-12	PMC7014668	4kpkhz0o	Effectiveness of airport screening at detecting travellers infected with novel coronavirus (2019-nCoV)
+Nucleic Acids Res	17545195	2008-05-08	PMC1919510	mvpz1nv9	s-RT-MELT for rapid mutation scanning using enzymatic selection and real time DNA-melting: new potential for multiplex genetic analysis
+PLoS One	31881059	2008-07-23	PMC6934310	zi3p2k1b	Effect of thermal control of dry fomites on regulating the survival of human pathogenic bacteria responsible for nosocomial infections
+PLoS One	19841673	2008-04-26	PMC2742894	xsq6excp	Crystal Structure of the N-Acetylmannosamine Kinase Domain of GNE
+Infect Dis Poverty	27179509	2008-08-24	PMC4868018	2nko37oo	Surveillance and response systems for elimination of tropical diseases: summary of a thematic series in Infectious Diseases of Poverty
+Int J Mol Sci	28937583	2008-07-01	PMC5666712	wbgwbl4p	Infectious Bronchitis Virus Variants: Molecular Analysis and Pathogenicity Investigation
+Clinical Therapeutics	26452427	2008-09-08	PMC4661082	izhshxps	Personal Protective Equipment: Protecting Health Care Providers in an Ebola Outbreak
+Journal of Virological Methods	19027037	2008-07-31	PMC2671689	unce8thq	Human airway epithelial cell culture to identify new respiratory viruses: Coronavirus NL63 as a model
+Gene	26119090	2008-09-12	PMC4556420	qatiqnac	"Exchange protein directly activated by cAMP encoded by the mammalian rapgef3 gene: Structure, function and therapeutics"
+The Journal of Pediatrics	18571541	2008-07-16	PMC3174048	fpsyem7x	Utility of DNA Microarrays for Detection of Viruses in Acute Respiratory Tract Infections in Children
+Clinics in Chest Medicine	26593133	2008-09-11	PMC4660257	6bq0tps2	The Etiologic Role of Infectious Antigens in Sarcoidosis Pathogenesis
+Proc Natl Acad Sci U S A	29339515	2008-07-31	PMC5798318	rd0ra55x	MERS-CoV and H5N1 influenza virus antagonize antigen presentation by altering the epigenetic landscape
+Journal of Allergy and Clinical Immunology	28139316	2008-08-29	PMC5754331	hnu8gw6w	Role of TGF-β in anti-rhinovirus immune responses in asthmatic patients
+Current Opinion in Virology	28551476	2007-05-29	PMC5695700	kswby0it	Variability in viral pathogenesis: modeling the dynamic of acute and persistent infections
+Eurosurveillance	32046815	2008-08-12	PMC7029448	g3518bq2	"Laboratory readiness and response for novel coronavirus (2019-nCoV) in expert laboratories in 30 EU/EEA countries, January 2020"
+J Vet Intern Med	30632200	2008-08-09	PMC6430874	v8wd4f3r	Disease features of equine coronavirus and enteric salmonellosis are similar in horses
+Vaccine	29789241	2006-03-18	PMC6238075	7pklrmz5	"Vaccines, inspiring innovation in health()"
+Sci Rep	27173006	2008-08-21	PMC4865725	4uua0zgp	SARS coronavirus papain-like protease induces Egr-1-dependent up-regulation of TGF-β1 via ROS/p38 MAPK/STAT3 pathway
+Immunology and Allergy Clinics of North America	21094924	2008-09-26	PMC3339561	vm90vn6h	Stressor-Induced Alterations of Adaptive Immunity to Vaccination and Viral Pathogens
+Cancers (Basel)	31769433	2008-09-16	PMC6966622	c7v0nstn	A Circulating miRNA Signature for Stratification of Breast Lesions among Women with Abnormal Screening Mammograms
+Transplant Direct	30255130	2008-09-04	PMC6092179	210dwhgj	Viral Respiratory Tract Infection During the First Postoperative Year Is a Risk Factor for Chronic Rejection After Lung Transplantation
+PLoS One	26066058	2008-06-10	PMC4466570	vtpwke7v	High Pulmonary Levels of IL-6 and IL-1β in Children with Chronic Suppurative Lung Disease Are Associated with Low Systemic IFN-γ Production in Response to Non-Typeable Haemophilus influenzae
+Nucleic Acids Res	26304538	2008-09-02	PMC4787807	zbxiaofl	Discovery of an essential nucleotidylating activity associated with a newly delineated conserved domain in the RNA polymerase-containing protein of all nidoviruses
+BMJ Open	28790042	2008-08-06	PMC5724199	6rl7kzgs	Multicentre randomised controlled trial to investigate the usefulness of continuous pneumatic regulation of tracheal cuff pressure for reducing ventilator-associated pneumonia in mechanically ventilated severe trauma patients: the AGATE study protocol
+Vet Microbiol	25818578	2008-07-31	PMC4401448	nj19fiqr	Complete genome sequence of canine astrovirus with molecular and epidemiological characterisation of UK strains
+Sensors (Basel)	26791304	2008-09-15	PMC4732129	17qoax09	Use of Piezoelectric Immunosensors for Detection of Interferon-Gamma Interaction with Specific Antibodies in the Presence of Released-Active Forms of Antibodies to Interferon-Gamma
+Rev Bras Ter Intensiva	30328986	2008-10-01	PMC6180471	sjcanw19	"Characterization of patients transported with extracorporeal respiratory and/or cardiovascular support in the State of São Paulo, Brazil"
+Infect Dis Poverty	25699182	2008-10-10	PMC4333876	aqau2n7q	Acquired immunity and asymptomatic reservoir impact on frontline and airport ebola outbreak syndromic surveillance and response
+Sci Rep	27658638	2008-09-10	PMC5034274	zt6i3o86	The Healthy Infant Nasal Transcriptome: A Benchmark Study
+PLoS One	30943236	2008-09-15	PMC6447186	8xe7cg8q	"Using GPS collars to investigate the frequency and behavioural outcomes of intraspecific interactions among carnivores: A case study of male cheetahs in the Maasai Mara, Kenya"
+Journal of Chromatography B	18258500	2008-10-15	PMC2678934	ywb9krdp	Sequential affinity purification of peroxidase tagged bispecific anti-SARS-CoV antibodies on phenylboronic acid agarose
+Ecol Modell	30210182	2008-10-24	PMC6039859	104sqoxz	The intrinsic vulnerability of networks to epidemics
+Respir Med	28610670	2007-12-10	PMC5480773	h8upyzb1	Lung ultrasound as a diagnostic tool for radiographically-confirmed pneumonia in low resource settings
+Croat Med J	23630140	2008-10-20	PMC3641872	pzbh8dd3	Viral etiology of hospitalized acute lower respiratory infections in children under 5 years of age – a systematic review and meta-analysis
+PLoS One	29149199	2008-09-25	PMC5693464	3dgjv0x1	"Epidemiology and clinical profile of pathogens responsible for the hospitalization of children in Sousse area, Tunisia"
+Journal of Molecular Biology	19121325	2008-08-18	PMC2750892	55r01n0x	Functional Analysis of the Transmembrane Domain in Paramyxovirus F Protein-Mediated Membrane Fusion
+mBio	29970463	2008-09-27	PMC6030562	prsvv6l9	Viral Entry Properties Required for Fitness in Humans Are Lost through Rapid Genomic Change during Viral Isolation
+Virology	21324503	2008-09-18	PMC3057228	4ov0j2u3	Arenavirus reverse genetics: New approaches for the investigation of arenavirus biology and development of antiviral strategies
+Front Immunol	29167674	2008-10-29	PMC5682309	p56v8wi1	A New Immunosuppressive Molecule Emodin Induces both CD4(+)FoxP3(+) and CD8(+)CD122(+) Regulatory T Cells and Suppresses Murine Allograft Rejection

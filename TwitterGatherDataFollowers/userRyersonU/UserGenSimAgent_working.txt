@@ -1,0 +1,659 @@
+package TwitterGatherDataFollowers.userRyersonU;
+ 
+
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.RandomAccessFile;
+import java.io.FileInputStream;
+import java.io.BufferedInputStream;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.Iterator;
+import java.util.Scanner;
+import java.util.Map;
+import java.util.LinkedHashMap;
+import java.util.Set;
+import java.util.TreeSet;
+import java.text.ParseException;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import twitter4j.IDs;
+import twitter4j.Paging;
+import twitter4j.RateLimitStatus;
+import twitter4j.Status;
+import twitter4j.Twitter;
+import twitter4j.TwitterException;
+import twitter4j.TwitterFactory;
+import twitter4j.User;
+import twitter4j.conf.ConfigurationBuilder;
+
+import jade.core.AID;
+import jade.core.Agent;
+import jade.core.behaviours.*;
+import jade.domain.AMSService;
+import jade.domain.DFService;
+import jade.domain.FIPAException;
+import jade.domain.FIPAAgentManagement.AMSAgentDescription;
+import jade.domain.FIPAAgentManagement.DFAgentDescription;
+import jade.domain.FIPAAgentManagement.SearchConstraints;
+import jade.domain.FIPAAgentManagement.ServiceDescription;
+import jade.lang.acl.ACLMessage;
+import jade.lang.acl.UnreadableException;
+
+public class UserGenSimAgent extends Agent 
+{
+	private static final long serialVersionUID = 1L;
+
+	private Agent thisAgent = this;
+
+	//My Own Variables 
+	String[] stopWordsArray = {"a","able","about","above","abst","accordance","according","accordingly","across","act",
+			"actually","added","adj","affected","affecting","affects","after","afterwards","again","against",
+			"ah","all","almost","alone","along","already","also","although","always","am",
+			"among","amongst","an","and","announce","another","any","anybody","anyhow","anymore",
+			"anyone","anything","anyway","anyways","anywhere","apparently","approximately","are","aren","arent",
+			"arise","around","as","aside","ask","asking","at","auth","available","away",
+			"awfully","b","back","be","became","because","become","becomes","becoming","been",
+			"before","beforehand","begin","beginning","beginnings","begins","behind","being","believe","below",
+			"beside","besides","between","beyond","biol","both","brief","briefly","but","by",
+			"c","ca","came","can","cannot","cant","cause","causes","certain","certainly",
+			"co","com","come","comes","contain","containing","contains","could","couldnt","d",
+			"da","date","did","didnt","different","do","does","doesnt","doing","done",
+			"dont","down","downwards","due","during","e","each","ed","edu","effect",
+			"eg","eight","eighty","either","else","elsewhere","end","ending","enough","especially",
+			"et","et-al","etc","even","ever","every","everybody","everyone","everything","everywhere",
+			"ex","except","f","far","few","ff","fifth","first","five","fix",
+			"followed","following","follows","for","former","formerly","forth","found","four","from",
+			"further","furthermore","g","gave","get","gets","getting","give","given","gives",
+			"giving","go","goes","gone","got","gotten","h","had","happens","hardly",
+			"has","hasnt","have","havent","having","he","hed","hence","her","here",
+			"hereafter","hereby","herein","heres","hereupon","hers","herself","hes","hi","hid",
+			"him","himself","his","hither","home","how","howbeit","however","hundred","i",
+			"id","idk","ie","if","ill","im","immediate","immediately","importance","important","in",
+			"inc","indeed","index","information","instead","into","invention","inward","is","isnt",
+			"it","itd","itll","its","itself","ive","j","just","k","keep",
+			"keeps","kept","kg","km","know","known","knows","l","largely","last",
+			"lately","later","latter","latterly","least","less","lest","let","lets","like",
+			"liked","likely","line","little","ll","look","looking","looks","ltd","m",
+			"made","mainly","make","makes","many","may","maybe","me","mean","means",
+			"meantime","meanwhile","merely","mg","might","million","miss","ml","more","moreover",
+			"most","mostly","mr","mrs","much","mug","must","my","myself","n",
+			"na","name","namely","nay","nd","near","nearly","necessarily","necessary","need",
+			"needs","neither","never","nevertheless","next","new","nine","ninety","no","nobody",
+			"non","none","nonetheless","noone","nor","normally","nos","not","noted","nothing",
+			"now","nowhere","o","obtain","obtained","obviously","of","off","often","oh",
+			"ok","okay","old","omitted","on","once","one","ones","only","onto",
+			"or","ord","other","others","otherwise","ought","our","ours","ourselves","out",
+			"outside","over","overall","owing","own","p","page","pages","part","particular",
+			"particularly","past","per","perhaps","placed","please","plus","poorly","possible","possibly",
+			"potentially","pp","predominantly","present","previously","primarily","probably","promptly","proud","provides",
+			"put","q","que","quickly","quite","qv","r","ran","rather","rd",
+			"re","readily","really","recent","recently","ref","refs","regarding","regardless","regards",
+			"related","relatively","research","respectively","resulted","resulting","results","right","rt","run","s",
+			"said","same","saw","say","saying","says","sec","section","see","seeing",
+			"seem","seemed","seeming","seems","seen","self","selves","sent","seven","several",
+			"shall","she","shed","shell","shes","should","shouldnt","show","showed","shown",
+			"showns","shows","significant","significantly","similar","similarly","since","six","slightly","so",
+			"some","somebody","somehow","someone","somethan","something","sometime","sometimes","somewhat","somewhere",
+			"soon","sorry","specifically","specified","specify","specifying","still","stop","strongly","sub",
+			"substantially","successfully","such","sufficiently","suggest","sup","sure","t","take","taken",
+			"taking","tell","tends","th","than","thank","thanks","thanx","that","thatll",
+			"thats","thatve","the","their","theirs","them","themselves","then","thence","there",
+			"thereafter","thereby","thered","therefore","therein","therell","thereof","therere","theres","thereto",
+			"thereupon","thereve","these","they","theyd","theyll","theyre","theyve","think","this",
+			"those","thou","though","thoughh","thousand","throug","through","throughout","thru","thus",
+			"til","tip","to","together","too","took","toward","towards","tried","tries",
+			"truly","try","trying","ts","twice","two","ty","u","ull","ull",
+			"un","under","unfortunately","unless","unlike","unlikely","until","unto","up","upon",
+			"ups","ur","us","use","used","useful","usefully","usefulness","uses","using",
+			"usually","v","value","various","ve","very","via","viz","vol","vols",
+			"vs","w","want","wants","was","wasnt","way","we","wed","welcome",
+			"well","went","were","werent","weve","what","whatever","whatll","whats","when",
+			"whence","whenever","where","whereafter","whereas","whereby","wherein","wheres","whereupon","wherever",
+			"whether","which","while","whim","whither","who","whod","whoever","whole","wholl",
+			"whom","whomever","whos","whose","why","widely","willing","wish","with","within",
+			"without","wont","words","world","would","wouldnt","www","x","y","yes",
+			"yet","yo","you","youd","youll","your","youre","yours","yourself","yourselves","youve",
+			"z","zero"};
+	
+	private InMemoryDb localDb; //Stores all tweets from corpusGenFile
+	
+	private int numArtificialTweets;
+	private int totalTweetsToGenerate;
+	private File corpusGenFile;
+	
+	transient protected ControllerAgentGui myGui;
+	
+	Map<String,List<Long>> followeeCorpusTweetIds;
+	Map<Long,String> tweetIdFolloweeName; //Map a tweet id to its followee
+
+	protected void setup() 
+	{
+		Object[] args = getArguments();
+		
+		numArtificialTweets = (Integer) args[0]; 	
+		corpusGenFile = (File) args[1];
+		myGui = (ControllerAgentGui) args[2];
+		
+		localDb = new InMemoryDb();
+
+
+		try {
+			DFAgentDescription dfd = new DFAgentDescription();
+			dfd.setName(getAID());
+			ServiceDescription sd = new ServiceDescription();
+			sd.setName("Distributed Recommender System");
+			sd.setType("User Generation Simulation Agent");
+			dfd.addServices(sd);
+			DFService.register(this, dfd);
+			System.out.println(getLocalName()+" REGISTERED WITH THE DF");
+		} catch (FIPAException e) {
+			e.printStackTrace();
+		}		
+
+		System.out.println("Hello! I am " + getAID().getName()+ " and is setup properly.");
+
+		UserGenSimBehaviour userGenSimBehaviour = new UserGenSimBehaviour(this);
+		
+		addBehaviour(userGenSimBehaviour);
+		
+		setQueueSize(0);
+	}
+
+	private class UserGenSimBehaviour extends OneShotBehaviour {		
+		private static final long serialVersionUID = 1L;
+
+		public UserGenSimBehaviour(Agent a) {
+			super(a);
+		}
+
+		public void action() {
+			ACLMessage msg = this.myAgent.receive();
+			
+			//read textfile from corpusGenFile;
+			readFromTextFile();
+			
+			List<Tweet> allTweetsInOriginalCorpus = localDb.getTweets();
+			List<Tweet> processedTweetsCorpus = new ArrayList<Tweet>();
+			List<Long> tweetIdsToRemove = new ArrayList<Long>();
+						
+			//Process all the tweets
+			myGui.appendUserGenTweetsResult("Processing original tweets corpus...");
+			
+			for (Tweet currentTweet : allTweetsInOriginalCorpus)
+			{
+				String currentText = currentTweet.getTweetText();
+
+				//pad out spaces before and after word for parsing 
+				currentText = String.format(" %s ",currentText);
+
+				//System.out.println("Original text: "+currentText);
+
+				//Remove Photo: tweets
+				if (currentText.contains("Photo:"))
+					currentText = currentText.substring(0,currentText.indexOf("Photo:"));
+
+				//Remove Photoset: tweets
+				if (currentText.contains("Photoset:"))
+					currentText = currentText.substring(0,currentText.indexOf("Photoset:"));
+
+				//Remove all retweets if flagged
+				Matcher matcher; //a matcher
+				if (currentText.contains("RT @"))
+					currentText="";
+				else
+				{
+					//Remove RT @, conserve the text from retweets
+					Pattern retweet = Pattern.compile("RT @");
+
+					matcher = retweet.matcher(currentText);
+					currentText = matcher.replaceAll("RT ");
+				}
+				//System.out.println("After RT @: " + currentText);
+
+				//Remove punctuations
+				Pattern punctuations = Pattern.compile("[\\p{P}]");
+				matcher = punctuations.matcher(currentText);
+				currentText = matcher.replaceAll("");
+
+				//System.out.println("After punctuations: "+ currentText);
+
+				//Remove url links
+				Pattern links = Pattern.compile("http[a-zA-Z0-9]*|bitly[a-zA-Z0-9]*|www[a-zA-Z0-9]*");
+				matcher = links.matcher(currentText);
+				currentText = matcher.replaceAll(" ");
+
+				//System.out.println("After url links: "+ currentText);
+
+				//Remove special characters including hash tags if flagged
+
+				Pattern specialCharacters = Pattern.compile("[^a-zA-Z\\p{Z}]");
+				matcher = specialCharacters.matcher(currentText);
+				currentText = matcher.replaceAll(" ");
+
+				//System.out.println("After special characters: " + currentText);
+
+				//Remove stop words if flagged
+				for (String stopWord : stopWordsArray){	
+					if (currentText.toLowerCase().contains(" "+stopWord+" "))
+						//System.out.println("FOUND STOPWORD: "+stopWord);
+						currentText = currentText.toLowerCase().replaceAll(" "+stopWord+" "," ");
+				}
+				
+				//Change all text to lowercase
+				currentText=currentText.toLowerCase();
+
+				//Trim leading and ending white space
+				currentText=currentText.trim();
+				//Remove any non-alphabetical characters
+				currentText=currentText.replaceAll("[^a-zA-Z ]","");
+				//Shorten any spaces to just 1 single space
+				currentText=currentText.replaceAll(" +", " ");
+				//currentText=currentText.trim().replaceAll(" +", " ");
+
+				//System.out.println(getLocalName()+" Removed junk: "+currentText);
+				
+				int wordCount = 0;
+				wordCount = currentText.split("\\s+").length;
+
+				long currTweetId = currentTweet.getTweetId();
+				
+				//System.out.println("currentText: "+ currentText);
+				//If processed text is a blank line with 1 single space or less than 3 words
+				if (wordCount < 3)
+				{
+					//System.out.println("DO NOT ADD");
+					tweetIdsToRemove.add(currTweetId);
+				}
+				else
+				{
+					String[] processedText = currentText.split("\\s+");
+					String neatProcessedText = "";
+					for (int i = 0; i < processedText.length; i++)
+					{
+						neatProcessedText += processedText[i]+" ";
+					}
+					// System.out.println("neatProcessedText: "+neatProcessedText);
+					Tweet processedTweet = new Tweet(neatProcessedText,currentTweet.getTweetId(),currentTweet.getDate(),currentTweet.getUser());
+					processedTweetsCorpus.add(processedTweet);
+				}
+			}
+					
+			//Remove tweets that did not meet criteria after processing from followee tweet id lists
+			myGui.appendUserGenTweetsResult("Removing tweets that did not meet processing criteria...");
+			
+			for (Long tweetIdToRemove : tweetIdsToRemove)
+			{
+				for (String referenceUser : followeeCorpusTweetIds.keySet())
+				{
+					List<Long> referenceUserTweetIds = followeeCorpusTweetIds.get(referenceUser);
+					if (referenceUserTweetIds.contains(tweetIdToRemove))
+					{
+						referenceUserTweetIds.remove(tweetIdToRemove);
+						followeeCorpusTweetIds.put(referenceUser,referenceUserTweetIds);
+					}
+				}
+				
+				if (tweetIdFolloweeName.containsKey(tweetIdToRemove))
+					tweetIdFolloweeName.remove(tweetIdToRemove);
+			}
+			
+			System.out.println("original corpus size: "+allTweetsInOriginalCorpus.size());
+			System.out.println("tweets to remove: "+tweetIdsToRemove.size());
+			System.out.println("final size: "+(allTweetsInOriginalCorpus.size()-tweetIdsToRemove.size()));
+			System.out.println("processedTweetsCorpus size: "+processedTweetsCorpus.size());
+			
+			int countRemainingIds = 0;
+			for (String referenceUser : followeeCorpusTweetIds.keySet())
+			{
+				List<Long> referenceUserTweetIds = followeeCorpusTweetIds.get(referenceUser);
+				countRemainingIds+=referenceUserTweetIds.size();
+			}
+			
+			System.out.println("followeeCorpusTweetIds total size: "+countRemainingIds);
+			System.out.println("tweetIdFolloweeName total size: "+tweetIdFolloweeName.keySet().size());
+			
+			
+			//Aggregate user tweets into a single document and keep list of followers for each followee (includes itself as follower)
+			Map<String,List<String>> followeeFollowerNames = new LinkedHashMap<String,List<String>>();
+			Map<String,Tweet> aggregatedTweetsCorpus = new LinkedHashMap<String,Tweet>();
+			
+			myGui.appendUserGenTweetsResult("Aggregating user tweets into a single document...");
+			
+			for (Tweet currTweet : processedTweetsCorpus)
+			{
+				long processedTweetId = currTweet.getTweetId();
+				String currProcessedTweetUserName = currTweet.getUser();
+				String currReferenceUser = tweetIdFolloweeName.get(processedTweetId);
+				List<String> currFollowerNames;
+				Tweet currAggregatedTweet;
+				
+				//Fill in followee and follower names
+				if (followeeFollowerNames.containsKey(currReferenceUser))
+				{
+					currFollowerNames = followeeFollowerNames.get(currReferenceUser);
+				}
+				else
+				{
+					currFollowerNames = new ArrayList<String>();
+				}
+				
+				//Only add user to follower names if not present in list already
+				if (!currFollowerNames.contains(currProcessedTweetUserName))
+				{
+					currFollowerNames.add(currProcessedTweetUserName);
+					followeeFollowerNames.put(currReferenceUser,currFollowerNames);
+				}
+					
+				//Create tweet to hold aggregated tweet if not already made
+				if (aggregatedTweetsCorpus.containsKey(currProcessedTweetUserName))
+				{
+					currAggregatedTweet = aggregatedTweetsCorpus.get(currProcessedTweetUserName);
+				}
+				else
+				{
+					currAggregatedTweet = new Tweet("",currTweet.getTweetId(),currTweet.getDate(),currTweet.getUser());
+				}
+				
+				currAggregatedTweet.setTweetText(currAggregatedTweet.getTweetText()+currTweet.getTweetText());
+				aggregatedTweetsCorpus.put(currProcessedTweetUserName,currAggregatedTweet);
+			}
+			
+			
+			// FileWriter writer;
+			// try {
+				// writer = new FileWriter("processedTweetCorpus.txt", true); //append
+				// BufferedWriter bufferedWriter = new BufferedWriter(writer);
+				// for (String user : aggregatedTweetsCorpus.keySet())
+				// {
+					// String tweetText = aggregatedTweetsCorpus.get(user).getTweetText();
+					// bufferedWriter.write("UserX: "+user);
+					// bufferedWriter.newLine();
+					// bufferedWriter.write("TweetX: "+tweetText);
+					// bufferedWriter.newLine();
+				// }
+				
+				// bufferedWriter.close();
+			// } catch (IOException e) {
+				//TODO Auto-generated catch block
+				// e.printStackTrace();
+			// }
+			
+			
+			System.out.println("aggregatedTweetsCorpus keysize: "+aggregatedTweetsCorpus.keySet().size());
+			for (String followee : followeeFollowerNames.keySet())
+			{
+				List<String> tempFollowerNames = followeeFollowerNames.get(followee);
+				System.out.print("Followee: "+followee+" Followers: ");
+				for (String follower : tempFollowerNames)
+				{
+					System.out.print(follower + " ");
+				}
+				System.out.println();
+			}
+				
+			//Put aggregated tweets into corresponding followee corpus
+			Map<String,List<Tweet>> followeeCorpusAggregatedTweets = new LinkedHashMap<String,List<Tweet>>();
+			
+			myGui.appendUserGenTweetsResult("Putting aggregated tweets into corresponding followee corpus...");
+			
+			for (String followeeName : followeeFollowerNames.keySet())
+			{
+				List<Tweet> followerAggregatedTweets = new ArrayList<Tweet>();
+				
+				for (String followerName: followeeFollowerNames.get(followeeName))
+				{
+					followerAggregatedTweets.add(aggregatedTweetsCorpus.get(followerName));
+				}
+				
+				followeeCorpusAggregatedTweets.put(followeeName,followerAggregatedTweets);
+			}
+			
+			//Find unique words of each followee Corpus
+			
+			// Map<String,Set<String>> followeeUniqueTerms = new LinkedHashMap<String,Set<String>>();
+			// for (String followeeName : followeeCorpusAggregatedTweets.keySet())
+			// {
+				// Set<String> uniqueTerms = new TreeSet<String>();
+				// List<Tweet> followerTweets = followeeCorpusAggregatedTweets.get(followeeName);
+				
+				// for (Tweet currFollowerTweets : followerTweets)
+				// {
+					// String[] termsInTweet = currFollowerTweets.getTweetText().split("\\s+");
+					
+					// for (String term : termsInTweet)
+					// {
+						// uniqueTerms.add(term);
+					// }
+				// }
+				
+				// followeeUniqueTerms.put(followeeName,uniqueTerms);
+			// }
+			
+			myGui.appendUserGenTweetsResult("Finding unique terms for each followee corpus...");
+			
+			Map<String,Set<String>> followeeUniqueTerms = findUniqueWordsFolloweeCorpus(followeeCorpusAggregatedTweets);
+			
+			//Calculate the word vectors for each followee corpus separately
+			//Create blank term vectors for each followee corpus
+			Map<String,Map<String,Double>> followeeTermVectors = new LinkedHashMap<String,Map<String,Double>>();
+						
+			for (String followeeName: followeeUniqueTerms.keySet())
+			{
+				followeeTermVectors.put(followeeName,createBlankTermVectors(followeeUniqueTerms.get(followeeName)));
+			}
+			
+			// for (String followeeName: followeeTermVectors.keySet())
+			// {
+				// System.out.println("Term Vector Followee: "+followeeName);
+				// for (String term: followeeTermVectors.get(followeeName).keySet())
+				// {
+					// System.out.print(term+":"+followeeTermVectors.get(followeeName).get(term)+",");
+				// }
+				// System.out.println();
+			// }
+			
+			//Calculate the term frequency of each user
+			Map<String,Map<String,Double>> allUserTermVectors = new LinkedHashMap<String,Map<String,Double>>();
+			
+			myGui.appendUserGenTweetsResult("Calculating term frequency of user documents...");
+			
+			for (String followeeName: followeeCorpusAggregatedTweets.keySet())
+			{
+				List<Tweet> followerTweets = followeeCorpusAggregatedTweets.get(followeeName);
+				for (Tweet currFollowerTweet : followerTweets)
+				{
+					String currFollowerName = currFollowerTweet.getUser();
+					Map<String,Double> userTermVector = calculateTermFrequency(currFollowerTweet,followeeUniqueTerms.get(followeeName));
+					allUserTermVectors.put(currFollowerName,userTermVector);
+				}
+			}
+			
+			for (String user : allUserTermVectors.keySet())
+			{
+				System.out.println("User: "+user);
+				for (String term : allUserTermVectors.get(user).keySet())
+				{
+					System.out.print(term+":"+allUserTermVectors.get(user).get(term)+",");
+				}
+				System.out.println();
+			}
+			
+			//Calculate document frequency of terms
+			Map<String,Map<String,Double>> followeeDocumentFreqVectors = new LinkedHashMap<String,Map<String,Double>>();
+			
+			
+			myGui.appendUserGenTweetsResult("FINISHED USER GENERATED SIMULATION");
+			
+			myGui.enableUserGenSimButtons();
+			myGui.showMessageBox("finished user generated simulation");
+			
+			System.out.println(getLocalName()+" Finished User Generated Simulation");
+			
+			doDelete();	
+				
+		}
+	}	
+
+	public Map<String,Double> createBlankTermVectors(Set<String> uniqueTerms)
+	{
+		Map<String,Double> blankTermVector = new LinkedHashMap<String,Double>();
+		for (String term: uniqueTerms)
+		{
+			blankTermVector.put(term,0.0);
+		}
+		return blankTermVector;
+	}
+	
+	public Map<String,Double> calculateTermFrequency(Tweet document,Set<String> uniqueTerms)
+	{
+		Map<String,Double> termVector = new LinkedHashMap<String,Double>();
+		String[] terms = document.getTweetText().split("\\s+");
+		
+		for (String term : uniqueTerms)
+		{
+			double termFreq = 0.0;
+			termVector.put(term,termFreq);
+		}
+			
+		for (String term : terms)
+		{
+			double termFreq = termVector.get(term);
+			termFreq++;
+			termVector.put(term,termFreq);
+		}
+		
+		return termVector;
+	}
+	
+	public Map<String,Set<String>> findUniqueWordsFolloweeCorpus(Map<String,List<Tweet>> followeeCorpusAggregatedTweets)
+	{
+		Map<String,Set<String>> followeeUniqueTerms = new LinkedHashMap<String,Set<String>>();
+		for (String followeeName : followeeCorpusAggregatedTweets.keySet())
+		{
+			Set<String> uniqueTerms = new TreeSet<String>();
+			List<Tweet> followerTweets = followeeCorpusAggregatedTweets.get(followeeName);
+			
+			for (Tweet currFollowerTweets : followerTweets)
+			{
+				String[] termsInTweet = currFollowerTweets.getTweetText().split("\\s+");
+				
+				for (String term : termsInTweet)
+				{
+					uniqueTerms.add(term);
+				}
+			}
+			
+			followeeUniqueTerms.put(followeeName,uniqueTerms);
+		}
+		return followeeUniqueTerms;
+	}
+	
+
+	//Read text file of tweets and store into InMemoryDb
+	public void readFromTextFile()
+	{
+		try {
+			final char END_OF_TWEET = '\r';
+			int character;
+			StringBuffer lineBuffer = new StringBuffer(1024);
+			FileInputStream fileInput = new FileInputStream(corpusGenFile);
+			BufferedInputStream bufferedInput = new BufferedInputStream(fileInput);
+			
+
+			Long tweetId;
+			String tweetDate;
+			String currentUserName;
+			String tweetText;
+			String referenceUser;
+			boolean dateRangeValid;
+			Tweet currentTweet;
+			
+			
+			int tweetsReadCount = 0;
+			followeeCorpusTweetIds = new LinkedHashMap<String,List<Long>>();
+			tweetIdFolloweeName = new LinkedHashMap<Long,String>();
+			List<Long> currentFolloweeTweetIds;
+			
+			while((character=bufferedInput.read())!=-1) {
+
+				if (character==END_OF_TWEET) {
+					character = bufferedInput.read();
+					if (character!=-1 && character !='\n')
+					{
+						lineBuffer.append((char)character);
+					}
+					else if (character!=-1 && character == '\n')
+					{
+
+						String info[] = lineBuffer.toString().split("\t",6);
+						lineBuffer.setLength(0);
+
+						referenceUser = info[0];
+						tweetId = Long.valueOf(info[1]);
+						tweetDate = info[2];
+						currentUserName = info[4];
+						tweetText = info[5];
+						
+						currentTweet = new Tweet(tweetText,tweetId,tweetDate,currentUserName);
+						
+						if (followeeCorpusTweetIds.keySet().contains(referenceUser))
+						{
+							currentFolloweeTweetIds = followeeCorpusTweetIds.get(referenceUser);
+						}
+						else
+						{
+							currentFolloweeTweetIds = new ArrayList<Long>();
+						}
+						
+						currentFolloweeTweetIds.add(tweetId);
+						followeeCorpusTweetIds.put(referenceUser,currentFolloweeTweetIds);
+						
+						tweetIdFolloweeName.put(tweetId,referenceUser);
+						
+						tweetsReadCount++;
+						
+						localDb.addTweet(currentTweet);
+
+					}
+				} else {
+					lineBuffer.append((char) character);
+				}
+			}
+
+			bufferedInput.close();
+			fileInput.close();
+
+			System.out.println(getLocalName()+" finished reading textfile lines: "+ tweetsReadCount);
+			
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		
+	}
+	
+	protected void takeDown() {
+		try {
+			DFService.deregister(this);
+			System.out.println(getLocalName()+" DEREGISTERED WITH THE DF");
+			//doDelete();
+		} catch (FIPAException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+
+}

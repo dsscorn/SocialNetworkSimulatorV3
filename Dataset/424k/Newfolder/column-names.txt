@@ -1,0 +1,65 @@
+journal      pubmed_id       publish_time       pmcid     cord_uid    abstract
+
+
+columns' names for success dataset 
+
+journal    sha    publish_time    pmcid   pubmed_id      abstract
+ 
+
+columns' names for success dataset with replacing abstarcts with titles
+journal	   sha/pubmed_id  	publish_time   	pmcid   	pubmed_id/cord_uid   	title
+
+
+Columns' names for 43,233 dataset instances 
+
+
+journal	pubmed_id	publish_time	pmcid		title
+
+
+
+
+================== Recommendations for 6v0y6xsa ==================
+
+Comparative genetic analysis of the novel coronavirus (2019-nCoV/SARS-CoV-2) receptor ACE2 in different populations
+=======================================================================================================================
+Recommendation 1: f7eqdxpv 
+Discovery and Characterization of Novel Bat Coronavirus Lineages from Kazakhstan
+Recommendation 2: a602au5b   MERS-coronavirus: From discovery to intervention
+Recommendation 3: mvpz1nv
+
+
+cluster 4238 19828086
+
+cluster 1677  19216738
+
+20226093   3428 
+
+17359545  5573
+
+
+source_x	pubmed_id	publish_time	uniqueID	journalName    	abstract
+
+
+=======================================================================================	
+
+String tweetText;   // ControllerAgent.java
+tweetText.setLength(1000);   // added by Sepide    line 2380    ControllerAgent.java
+
+
+// DataCrawler.java line 483
+
+//UserGenSimAgent.java line 1790 
+
+// FixTweetLines.java line 188
+
+//DataCrawlerAgent.java line 702
+
+//CleanText.java line 162
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															
+
+
+
+
+
+
+

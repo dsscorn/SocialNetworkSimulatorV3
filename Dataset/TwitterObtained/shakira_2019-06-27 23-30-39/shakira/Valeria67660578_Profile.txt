@@ -1,0 +1,14 @@
+"screen_name": "Valeria67660578"
+"id": 1144446984146882560
+"created_at": "2019-06-27 23:26:38"
+"lang": "null"
+"location": ""
+"time_zone": "null"
+"url": "null"
+"favourites_count": 2
+"followers_count": 0
+"followerIDs": ["friends_count": 10
+"friendIDs": [18236230, 1086340632, 1117786405, 253755500, 236699098, 150003563, 289077372, 181300983, 44409004, 3250323787]
+"statuses_count": 1
+"date_followed": "2019-06-26"
+"obtained_tweets": 1

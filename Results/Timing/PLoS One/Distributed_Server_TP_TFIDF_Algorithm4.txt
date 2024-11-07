@@ -1,0 +1,12 @@
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	228	1541586400	89352800	9433248200	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent2	227	1561122100	61915000	9839799100	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent3	227	1389940500	61696300	10016745100	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent4	227	1392903300	85322200	10925910800	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	228	664834900	25589200	9463149100	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent3	227	676875200	34596800	10060740900	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent4	227	672991400	41253400	11048319000	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent2	227	710992100	35110500	11189878700	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent1	228	993359000	72548200	10471516000	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent4	227	1139941000	72229400	10340671800	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent2	227	1104120900	67021600	10841208100	
+K-means=TP+TFIDF+K-means	Recommender-ServiceAgent3	227	1085457400	37863500	11219146700	

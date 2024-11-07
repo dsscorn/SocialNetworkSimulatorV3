@@ -1,0 +1,15 @@
+"screen_name": "rehshma1"
+"id": 1069480320120967168
+"created_at": "2018-12-03 01:35:53"
+"lang": "null"
+"location": ""
+"time_zone": "null"
+"url": "null"
+"favourites_count": 348
+"followers_count": 2
+"followerIDs": [3001839437, 1109708403952095233 ]
+"friends_count": 13
+"friendIDs": [95938864, 903312426325614592, 172352150, 763024688700358656, 289280528, 319259180, 18776647, 836309335986868224, 150678439, 348427175, 1878450026, 1409798257, 335141638]
+"statuses_count": 747
+"date_followed": "2020-02-13"
+"obtained_tweets": 724

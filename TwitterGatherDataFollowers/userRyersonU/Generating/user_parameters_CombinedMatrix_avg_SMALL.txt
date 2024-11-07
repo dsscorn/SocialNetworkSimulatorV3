@@ -1,0 +1,12 @@
+TorontoStar	5.01E-05	0.20249
+only1nabil	1.04E-05	0.15899
+AcadieSon	6.34E-06	0.15491
+AndreasKalo	3.24E-06	0.16084
+RyersonU	0.00327	0.38916
+sageryerson	2.03E-08	0.30089
+TetraRyerson	2.41E-08	0.27528
+mathryerson	7.55E-06	0.14915
+CatsRuleNews	4.46E-07	0.16022
+TheCatTweeting	3.77E-06	0.15432
+sweetiepiecat	0.00486	0.4424
+ElDiabloZoe	3.48E-08	0.2405

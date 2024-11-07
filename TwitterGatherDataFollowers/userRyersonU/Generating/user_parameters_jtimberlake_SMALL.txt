@@ -1,0 +1,4 @@
+jtimberlake	0.00279	0.69725
+rbruch2010	2.39E-07	0.16842
+vintagedrakgon	9.43E-08	0.1891
+ProwrestlingNe5	4.06E-08	0.22879

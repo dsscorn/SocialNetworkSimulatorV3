@@ -1,0 +1,454 @@
+JohnathanFields: 100.0	RhondaCollins: 90.8492386341095	MariaSmith: 89.6759033203125	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+AmyBrown: 100.0	DavidWright: 98.2572078704834	KarenColeman: 98.10230135917664	
+Wal-Mart: 100.0	Loblaws: 1.1670554341405288	Metro: 0.03353467484435046	Sobeys: 6.75728422087679E-8	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 33.33333333333333	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+JohnathanFields: 100.0	StephenMcintyre: 91.25027552250332	MariaSmith: 90.87890873895988	
+JohnathanFields: 100.0	RhondaCollins: 98.48974636135975	JohnRiggs: 49.26214213741673	BrandonConner: 49.20692141097315	
+JohnathanFields: 100.0	SamanthaGomez: 49.85175134076911	PatrickMorales: 49.848325564116934	MichealGaines: 24.91882518659605	BriannaEvans: 24.918241061129475	TiffanySmith: 24.91595522320671	KatieWinters: 24.915941812162835	
+JohnathanFields: 100.0	AmyWilliams: 74.79646914617109	KathyPhillips: 49.84065071460676	DonnaStewart: 37.36792710268823	ConnieSmith: 24.911503125212946	JosephHale: 12.460472622790666	
+Wal-Mart: 100.0	Metro: 0.5303991272840536	Loblaws: 0.04955394821294437	Sobeys: 1.6010420809770126E-7	
+Wal-Mart: 100.0	Loblaws: 16.43874812140166	Metro: 4.612314133706522	Sobeys: 0.09864440408320682	
+Wal-Mart: 100.0	Metro: 33.28712856653625	Loblaws: 9.69322370036514	Sobeys: 1.6000320712330076	
+Wal-Mart: 100.0	Loblaws: 91.05844861076537	Metro: 36.98703100564383	Sobeys: 11.549079392171462	
+JohnathanFields: 100.0	RhondaCollins: 92.12278127670288	StephenMcintyre: 90.1991069316864	
+AmyBrown: 100.0	DavidWright: 97.98220992088318	JamieBranch: 97.79871702194214	
+KarenColeman: 100.0	RyanDiaz: 99.17549500757515	TeresaSmith: 99.07048355692821	
+KyleThompson: 100.0	LaurenMcintosh: 98.41470737281949	DavidWright: 96.56903188597776	
+ZacharyFarmer: 100.0	JacquelineKrause: 93.84549929553279	LaurieHenderson: 88.53500026047226	
+JulieLawson: 100.0	JeremyMitchell: 92.08168983459473	AlisonHill: 92.06463098526001	
+CrystalReynolds: 100.0	GregoryPowers: 88.21433782577515	EdwardWhite: 86.84195280075073	
+EdwardWhite: 100.0	ThomasPark: 96.45062685012817	AnneRobinson: 94.14023756980896	
+JeremyHill: 100.0	BryanOrtega: 95.29356360435486	AutumnLewis: 95.28741240501404	
+FrankWarren: 100.0	CoreyWhite: 91.87773320872782	EricaTaylor: 91.67389124761067	
+AmyWilliams: 100.0	ToddHughes: 71.44180536270142	RonaldBerger: 66.70339107513428	
+KathleenSmith: 100.0	PatriciaCooper: 95.43684179343678	RichardRivera: 95.20066437713332	
+GinaCarson: 100.0	KathrynFord: 93.81358623504639	MichealGaines: 93.7041163444519	
+TammyCampbell: 100.0	JessicaGarrett: 97.2440722889814	BobbyMcbride: 96.36415286491479	
+BrandonWiley: 100.0	ShannonCarrillo: 98.4264612197876	KarenColeman: 98.36263656616211	
+MistyGonzales: 100.0	RachelPittman: 66.4579609905458	MatthewHolland: 65.80831204702329	
+SusanWoodard: 100.0	StephenMcintyre: 94.71442699432373	PatriciaAnderson: 93.06302070617676	
+AnthonyRyan: 100.0	ToddHughes: 70.047519201336	JacobThompson: 65.59620909736049	
+ScottSantiago: 100.0	ChristineBaker: 92.59889810098433	KathrynFord: 89.63738207371449	
+JenniferWright: 100.0	GinaCarson: 92.77352690696716	ErinKing: 92.17725992202759	
+DianaPena: 100.0	RhondaCollins: 87.26319074630737	MaryCohen: 86.927330493927	
+MarissaCollins: 100.0	BrookeGreen: 90.9524917602539	ClaudiaSweeney: 88.46971392631531	
+ShannonSanchez: 100.0	SusanValdez: 93.14738512039185	EricNoble: 92.60918498039246	
+BrianRogers: 100.0	RobinRubio: 88.54653835296631	AlexBowman: 85.95582246780396	
+JacobNavarro: 100.0	PeterColeman: 83.95159840583801	MelindaPatrick: 82.62220621109009	
+JulieBauer: 100.0	KristyAbbott: 65.42728933258589	CarolFlores: 58.75679008703173	
+GregoryPowers: 100.0	MariaSmith: 89.32371075890725	JoByrd: 88.29271127538152	
+DonnaStewart: 100.0	JimmyJenkins: 82.78727140578373	ErinKing: 82.3049804800772	
+AliciaStrong: 100.0	MichelleWilson: 99.04653429985046	CynthiaOlson: 99.02510643005371	
+ConnieSmith: 100.0	BrandonConner: 83.42506885528564	JenniferWright: 82.35805034637451	
+JosephHale: 100.0	RhondaFreeman: 84.50760245323181	JohnRiggs: 81.7713737487793	
+BrittanyThomas: 100.0	GregoryMorgan: 85.82072854042053	SusanValdez: 78.5178542137146	
+AlisonHill: 100.0	DylanArmstrong: 95.3894853591919	JulieLawson: 94.58909630775452	
+AnthonyWright: 100.0	SusanMatthews: 98.39204549789429	JamieBranch: 98.2842743396759	
+MalloryWong: 100.0	PatriciaCooper: 97.28862047195435	GeorgeDawson: 97.23944067955017	
+MariaSmith: 100.0	JohnathanFields: 94.55887079238892	JohnRiggs: 93.95290017127991	
+JosephRobinson: 100.0	CynthiaOlson: 96.63054347038269	MichelleWilson: 96.4708149433136	
+KurtSalazar: 100.0	MariaBuckley: 94.61593595838164	DavidManning: 93.55256519034893	
+AlanMartin: 100.0	CarlaValdez: 81.5031398238623	JamieCox: 80.11813045252147	
+CoreyEllis: 100.0	ReginaDavis: 98.32045435905457	DennisWoods: 97.56836295127869	
+JoshuaRivera: 100.0	MichaelWebster: 92.85673499107361	DianeKaiser: 92.07708239555359	
+ThomasPowell: 100.0	JeremyMitchell: 97.71809577941895	DakotaBender: 96.87429070472717	
+KaylaSmith: 100.0	PatriciaCooper: 93.6962183532845	BobbyMcbride: 93.69575343702753	
+MarieKerr: 100.0	AndreaHolmes: 98.57177734375	MarkWeaver: 98.41710925102234	
+JacobMartin: 100.0	RhondaCollins: 80.41669130325317	CarolynWeiss: 79.56087589263916	
+RobertaIbarra: 100.0	SonyaFuller: 98.90238059730761	TeresaSmith: 98.87122525319752	
+AndrewKaiser: 100.0	GaryRogers: 93.02548170089722	MichealGaines: 90.70172309875488	
+JessicaWilson: 100.0	EricNoble: 96.48262858390808	ReginaDavis: 96.18179202079773	
+StevenLynch: 100.0	EricaTaylor: 95.9776759147644	CoreyWhite: 95.82248330116272	
+StephenVasquez: 100.0	StevenLynch: 92.26758480072021	LaurieHenderson: 89.99826312065125	
+ChristopherGarrett: 100.0	FrankWarren: 82.08301663398743	EricaTaylor: 81.88832998275757	
+JoByrd: 100.0	JohnRiggs: 90.777121874943	EdwardWhite: 90.3264212997462	
+CoreyWhite: 100.0	StevenLynch: 94.36166219254282	EricaTaylor: 92.62673170885226	
+PatrickMorales: 100.0	DakotaBender: 87.83811926841736	AmyBrown: 87.46089935302734	
+RobertMorales: 100.0	JacobThompson: 93.25005412101746	SuzanneWillis: 93.00229549407959	
+TeresaCurtis: 100.0	AnthonyMorgan: 96.60312573872498	MaryCohen: 96.34492440880246	
+RichardHancock: 100.0	SusanMatthews: 98.00044286253707	AmyDavis: 97.6657687226396	
+SamanthaGomez: 100.0	RhondaCollins: 93.57355833053589	MaryCohen: 92.10253357887268	
+ErinKing: 100.0	BrandonConner: 91.83698296546936	MichealGaines: 91.43120646476746	
+DanielCarrillo: 100.0	EdwardWhite: 82.36819715878997	CrystalReynolds: 81.97666025439975	
+MaryCohen: 100.0	TeresaCurtis: 95.0465202331543	BrandonConner: 94.65905427932739	
+CynthiaBarrett: 100.0	MichelleTaylor: 94.15530562400818	BrandonWiley: 92.32072234153748	
+ToddHughes: 100.0	JohnathanFields: 89.05239636018254	RhondaCollins: 88.80387477897851	
+BrandonConner: 100.0	TeresaCurtis: 93.76636147499084	MaryCohen: 93.7017023563385	
+PaulaJones: 100.0	SydneyByrd: 88.66236209869385	SusanWoodard: 85.78766584396362	
+MariaBuckley: 100.0	RichardHancock: 96.04036808013916	AprilBlankenship: 95.01196146011353	
+JimmyJenkins: 100.0	ErinKing: 91.92952013855933	MichealGaines: 90.78797807836794	
+AndrewSchmidt: 100.0	RaymondGonzalez: 92.90103273993925	AutumnLewis: 92.67506555766258	
+ErnestHoffman: 100.0	EbonyCollins: 80.04686117451556	AshleyWilliams: 78.18689812343706	
+PatrickRios: 100.0	EdwardWhite: 97.51318097114563	SaraBurke: 97.15421795845032	
+RhondaCollins: 100.0	EdwardWhite: 95.10174364457986	StephenMcintyre: 95.05072802607583	
+StephenMcintyre: 100.0	RhondaCollins: 96.66352868080139	MichaelWeaver: 95.8266019821167	
+AndrewStewart: 100.0	ChristopherGarrett: 81.71820262453525	JenniferWallace: 79.33796294475044	
+CarolynWeiss: 100.0	RhondaCollins: 91.04294287646498	JacobThompson: 89.16567097119439	
+JenniferWallace: 100.0	JacquelineKrause: 86.6899446618623	ZacharyFarmer: 83.32786758805901	
+DylanArmstrong: 100.0	LaurenMcintosh: 94.5649266242981	AlisonHill: 93.79653334617615	
+TanyaSantiago: 100.0	AnthonyTran: 85.01710295677185	FrankGonzalez: 84.13606882095337	
+JessicaGarrett: 100.0	BobbyMcbride: 97.85656332969666	DavidManning: 97.02321290969849	
+NancyDavid: 100.0	KatieWinters: 73.58361797528052	SaraBurke: 71.33899076712241	
+KristyAbbott: 100.0	MarissaCollins: 83.63717794418335	ChristineBaker: 83.41528177261353	
+TiffanySmith: 100.0	KathrynFord: 90.36297316992604	JessicaGarrett: 90.32251950233943	
+MichealGaines: 100.0	ErinKing: 95.21939215428922	BrandonConner: 94.21169230798576	
+JoseSpencer: 100.0	DavidManning: 97.46235013008118	HannahPerry: 97.14013934135437	
+SaraBurke: 100.0	KathrynOrr: 97.88865447044373	SamanthaPatel: 97.56821990013123	
+KathrynOrr: 100.0	AprilBlankenship: 98.3379601441598	SamanthaPatel: 98.2440232183947	
+JosephStephens: 100.0	BradGreene: 99.10472046080584	AndreaHolmes: 98.65925328025182	
+CarlaValdez: 100.0	JamieCox: 82.1194052696228	AlanMartin: 77.3398756980896	
+DanielMay: 100.0	MichaelWebster: 89.66949458950694	DianeKaiser: 87.6185283206139	
+BryanOrtega: 100.0	AnneRobinson: 97.71819737932714	AprilBlankenship: 96.77636065764897	
+AndreaHolmes: 100.0	TeresaSmith: 99.21758770942688	CherylRodriguez: 99.20902252197266	
+CraigTran: 100.0	CynthiaBarrett: 79.371539279406	SuzanneKing: 75.74141928451292	
+JenniferMadden: 100.0	MichelleTaylor: 94.64621448151132	CoreyEllis: 93.17928430663662	
+MichelleMay: 100.0	EricaTaylor: 78.34611276937875	FrankWarren: 75.67202754879327	
+JamieCox: 100.0	CarlaValdez: 85.41168148378354	ChristineBaker: 83.9822371027187	
+SheriLopez: 100.0	CathyBradford: 97.1409438336458	RachelPittman: 96.90122585899984	
+RachelPittman: 100.0	SheriLopez: 96.63352370262146	MatthewEvans: 96.01832032203674	
+EbonyCollins: 100.0	AshleyWilliams: 96.00104689598083	SydneyByrd: 95.7962691783905	
+KatieWinters: 100.0	PaulaJones: 83.71810219991816	KathleenSmith: 82.42058053139331	
+JeffreyRosales: 100.0	RandallWilliams: 87.83201575279236	VictoriaGarcia: 87.19101548194885	
+CynthiaCamacho: 100.0	TanyaSantiago: 66.12712740898132	JosephHale: 65.29615521430969	
+SonyaFuller: 100.0	AndreaHolmes: 99.0040422673175	RobertaIbarra: 98.88317002258658	
+AshleyWilliams: 100.0	StanleyRobinson: 97.24398255348206	AmyDavis: 96.28158807754517	
+BriannaEvans: 100.0	EricaTaylor: 85.64974069595337	StevenLynch: 85.25745272636414	
+KaylaGentry: 100.0	JeremyHill: 95.63024044036865	RichardRivera: 95.59183120727539	
+MelindaPatrick: 100.0	LaurenMcintosh: 96.81546092033386	KyleThompson: 95.04163265228271	
+TeresaSmith: 100.0	BradGreene: 99.55253601074219	CherylRodriguez: 99.45127964019775	
+BethKirby: 100.0	VickieCole: 64.70355812268757	LindsayVillanueva: 63.12932811625861	
+RonaldBerger: 100.0	TeresaCurtis: 94.25449234354313	MaryCohen: 93.35273941820607	
+JeremyMitchell: 100.0	AndreaHolmes: 98.03507924079895	DakotaBender: 97.91833758354187	
+VickieCole: 100.0	JoseSpencer: 91.76856279373169	DawnBennett: 90.94803929328918	
+DavidManning: 100.0	MichaelMooney: 98.09227585792542	MichelleValdez: 97.35122323036194	
+MatthewHolland: 100.0	TracyDaniels: 96.72656059265137	EricNoble: 95.20425796508789	
+AutumnLewis: 100.0	RichardHancock: 96.65984511375427	AliciaStrong: 96.50189876556396	
+JamesHamilton: 100.0	WalterMartinez: 86.66326999664307	DianeKaiser: 79.95299696922302	
+RhondaFreeman: 100.0	MaryCohen: 95.95112848864454	TeresaCurtis: 92.52352207618688	
+ChristopherJackson: 100.0	GinaCarson: 90.06546139717102	KathrynFord: 90.04831314086914	
+ChristineBaker: 100.0	JamieCox: 87.54954486494722	RandallWilliams: 87.12217365238982	
+RhondaSandoval: 100.0	CherylRodriguez: 98.66475462913513	TeresaSmith: 98.61508011817932	
+RobinRubio: 100.0	RichardHancock: 95.94314694404602	KaylaGentry: 95.2608585357666	
+JohnRiggs: 100.0	MariaSmith: 91.65491461753845	JillSimon: 91.09742045402527	
+GaryRogers: 100.0	TeresaCurtis: 91.74131105788416	ChristopherJackson: 91.59468958346186	
+LoriPeterson: 100.0	MichaelWebster: 95.59751152992249	SethOrtiz: 93.87242197990417	
+ShannonCarrillo: 100.0	TeresaSmith: 99.07815456390381	SusanMatthews: 98.99352788925171	
+SuzanneWillis: 100.0	RaymondGonzalez: 95.93541622161865	MalloryWong: 95.89322209358215	
+BradleyMarshall: 100.0	BobbyMcbride: 96.15175769904164	JessicaGarrett: 95.95170069316617	
+JillSimon: 100.0	KathrynLawson: 93.5021408197712	PatriciaAnderson: 93.03312980733755	
+ChadMitchell: 100.0	DebraWillis: 96.23776651845971	BrandonMiller: 92.77277545766684	
+AnthonyTran: 100.0	FrankGonzalez: 93.19394826889038	MalloryWong: 91.82114601135254	
+DianeKaiser: 100.0	MichaelWebster: 95.38318487305551	JoshuaRivera: 92.81481461613265	
+MatthewEvans: 100.0	CathyBradford: 97.28157504091114	SheriLopez: 97.25108726329131	
+BrandonMiller: 100.0	ChadMitchell: 91.55420660972595	DebraWillis: 88.2145345211029	
+DebraWillis: 100.0	ChadMitchell: 94.29358839988708	BrandonMiller: 91.21566414833069	
+CodyLong: 100.0	TracyDaniels: 98.47794193292356	KaitlynHill: 97.32673796096589	
+ArianaMiller: 100.0	DerekMartinez: 98.35721273932305	MichelleValdez: 98.34188242651433	
+MalikDiaz: 100.0	DianeKaiser: 92.02011823654175	LoriPeterson: 91.34432673454285	
+WalterMartinez: 100.0	JamesHamilton: 87.6132607460022	DianeKaiser: 87.44295239448547	
+TracyDaniels: 100.0	RandallWilliams: 98.57527605147816	CodyLong: 98.36307158250042	
+KathyPhillips: 100.0	KristyAbbott: 80.19598722457886	ClaudiaSweeney: 72.64654636383057	
+ClaudiaSweeney: 100.0	BrookeGreen: 89.61890812145569	DebraWillis: 87.483148274797	
+DakotaBender: 100.0	CherylRodriguez: 99.41705472266021	TeresaSmith: 99.28566821984431	
+TraceyClements: 100.0	DawnBennett: 98.33678026952978	AliciaStrong: 98.20318243465633	
+RandallWilliams: 100.0	CodyLong: 95.94438720412407	SheriLopez: 95.86422492692174	
+LindsayVillanueva: 100.0	BrianGarrison: 92.04611873076931	MichaelMooney: 91.62917832980413	
+DerekMartinez: 100.0	AliciaStrong: 98.837149143219	MichelleWilson: 98.76137971878052	
+ChristineGarcia: 100.0	CherylRodriguez: 98.4235761670561	TeresaSmith: 98.39850645047503	
+LaurenMcintosh: 100.0	DavidWright: 98.05791974067688	KyleThompson: 97.67565131187439	
+JackJackson: 100.0	KurtSalazar: 93.91347838479538	SuzanneKing: 93.59880762114435	
+MichelleWilson: 100.0	CynthiaOlson: 99.22776222229004	CherylRodriguez: 99.18527007102966	
+PatriciaCooper: 100.0	JessicaGarrett: 97.28373272918061	SydneyByrd: 97.2740112110383	
+RyanDiaz: 100.0	DakotaBender: 99.2720365524292	KarenColeman: 99.24122095108032	
+FrankGonzalez: 100.0	ArianaMiller: 97.30082750320435	SamanthaPatel: 97.20578193664551	
+BrianGarrison: 100.0	AndreaHolmes: 97.84623384475708	AliciaStrong: 97.62091040611267	
+CathyBradford: 100.0	SheriLopez: 97.1967336173932	CodyLong: 95.42974775192114	
+DebraSellers: 100.0	GeorgeDawson: 90.65529704093933	TinaJordan: 90.20286202430725	
+BobbyMcbride: 100.0	PatriciaCooper: 97.7066817633293	MatthewMathews: 96.85613550470644	
+MarkWeaver: 100.0	JosephStephens: 99.01761424331495	KaitlynHill: 98.92603171753505	
+RaymondGonzalez: 100.0	AnneRobinson: 97.71733311208092	AprilBlankenship: 97.54875927582273	
+SydneyByrd: 100.0	PatriciaCooper: 95.45863324896892	VictoriaGarcia: 95.13651786607291	
+ElizabethKane: 100.0	GinaCarson: 91.87006901920253	TeresaCurtis: 89.36886724048063	
+BrookeGreen: 100.0	RandallWilliams: 95.17907471532074	CodyLong: 94.3424877132468	
+AlexBowman: 100.0	SusanMatthews: 94.42379474639893	AnthonyWright: 93.97456049919128	
+LoriMahoney: 100.0	GinaCarson: 87.05182671546936	ChristopherJackson: 85.87393164634705	
+ReginaDavis: 100.0	DennisWoods: 99.28237208338116	CoreyEllis: 98.90139712078606	
+AnthonyMorgan: 100.0	TeresaCurtis: 97.43382319413561	StephenMcintyre: 95.65430853690556	
+BradGreene: 100.0	TeresaSmith: 99.56815843961733	CherylRodriguez: 99.44862729923399	
+EricaTaylor: 100.0	StevenLynch: 96.06044292449951	FrankWarren: 92.80198812484741	
+KevinFreeman: 100.0	RyanLopez: 96.84205651283264	AmyBrown: 96.18367552757263	
+DennisWoods: 100.0	TeresaSmith: 99.47031733216747	ReginaDavis: 99.38362833163907	
+TonyGonzalez: 100.0	BrandonWiley: 98.37285299624764	DennisWoods: 98.30844422478148	
+JohnKing: 100.0	RandallWilliams: 96.28040790557861	CodyLong: 96.13662362098694	
+MichelleFord: 100.0	AnthonyMorgan: 95.63462112156279	MalloryWong: 94.76695029538573	
+DawnBennett: 100.0	MichelleValdez: 98.85018481610003	AliciaStrong: 98.84856953041917	
+DavidWright: 100.0	DennisWoods: 98.76734033020253	KarenColeman: 98.70202556824378	
+PeterColeman: 100.0	TamaraKerr: 91.65616631507874	RichardRivera: 91.18041396141052	
+MichaelMooney: 100.0	AprilBlankenship: 98.54697585105896	RichardRivera: 97.90502786636353	
+MichelleTaylor: 100.0	JenniferMadden: 95.86855818408034	CynthiaBarrett: 94.0722412976931	
+SusanValdez: 100.0	EricNoble: 93.02108842260172	ShannonSanchez: 92.79866771690057	
+AmyDavis: 100.0	MichelleValdez: 98.81816506385803	AliciaStrong: 98.7858235836029	
+VictoriaGarcia: 100.0	RichardRivera: 96.66450023651123	PatriciaCooper: 96.64672613143921	
+StanleyRobinson: 100.0	SonyaFuller: 96.49349409264256	AshleyWilliams: 96.46946745746939	
+MichelleValdez: 100.0	SonyaFuller: 98.83030049981478	AmyDavis: 98.76763217256261	
+JacquelineKrause: 100.0	LaurieHenderson: 93.24057617671205	ZacharyFarmer: 92.57128746167271	
+KathrynFord: 100.0	GinaCarson: 93.26843619346619	ChristopherJackson: 91.96598529815674	
+JamieBranch: 100.0	DennisWoods: 98.9514946937561	AndrewMiller: 98.68128895759583	
+MonicaLeon: 100.0	AnthonyWright: 98.26249480247498	TeresaSmith: 97.94155955314636	
+MichaelWebster: 100.0	DianeKaiser: 95.5170750617981	LoriPeterson: 93.94491910934448	
+TinaJordan: 100.0	CynthiaOlson: 98.45235934569594	MichelleValdez: 98.24894060188177	
+StacyFreeman: 100.0	KathrynOrr: 97.41088151931763	SonyaFuller: 97.00872898101807	
+GregoryFoster: 100.0	SusanMatthews: 98.73379484012187	MichelleWilson: 98.73126760348467	
+RichardRivera: 100.0	MichaelMooney: 97.92159795761108	KathrynOrr: 97.82768487930298	
+SamanthaPatel: 100.0	AprilBlankenship: 98.17758224277708	ArianaMiller: 98.1243731827291	
+AnneRobinson: 100.0	BryanOrtega: 98.29638600349426	AprilBlankenship: 97.93597459793091	
+PatriciaAnderson: 100.0	KathrynLawson: 96.0750162601471	AnneRobinson: 96.0426926612854	
+CarolFlores: 100.0	AshleyWilliams: 96.76825365641757	MatthewEvans: 96.24728515711845	
+JacobThompson: 100.0	MalloryWong: 95.02692222595215	SuzanneWillis: 93.64886283874512	
+KathrynLawson: 100.0	RichardRivera: 96.41533536728198	PatriciaAnderson: 95.32144721490774	
+CherylRodriguez: 100.0	TeresaSmith: 99.66999892354025	RyanDiaz: 99.52673917690048	
+SethOrtiz: 100.0	AshleyWilliams: 96.52556160244713	AmyDavis: 96.17373324476083	
+VictoriaWade: 100.0	KaitlynHill: 98.29471090968977	MarkWeaver: 97.37281767997953	
+HannahPerry: 100.0	AliciaStrong: 97.79249429702759	TraceyClements: 97.76855707168579	
+TamaraKerr: 100.0	DavidManning: 97.05110192298889	JessicaGarrett: 96.77461385726929	
+SamuelPaul: 100.0	SaraBurke: 95.8396315574646	JosephRobinson: 95.7456648349762	
+MatthewMathews: 100.0	DawnBennett: 98.12039732933044	MichelleWilson: 98.0392336845398	
+RyanLopez: 100.0	SaraBurke: 96.01123929023743	ChristineGarcia: 95.85334062576294	
+ThomasPark: 100.0	MichaelWeaver: 96.93227410316467	AprilBlankenship: 96.81119322776794	
+MichaelWeaver: 100.0	JacobThompson: 95.15385627746582	MaryCohen: 95.11849880218506	
+AprilBlankenship: 100.0	SaraBurke: 97.91663276652292	AnneRobinson: 97.86816822696734	
+SuzanneKing: 100.0	KurtSalazar: 92.37469525638875	JackJackson: 90.04836201091265	
+SusanMatthews: 100.0	AliciaStrong: 98.87856841087341	TeresaSanchez: 98.56123924255371	
+EricNoble: 100.0	JessicaWilson: 96.92940711975098	ReginaDavis: 95.47796845436096	
+TeresaSanchez: 100.0	AndreaHolmes: 98.59146475791931	AmyDavis: 98.447185754776	
+GregoryMorgan: 100.0	BrittanyThomas: 89.36140537261963	FrankWarren: 86.50469183921814	
+LaurieHenderson: 100.0	JacquelineKrause: 92.80008163451176	StephenVasquez: 92.36736388595534	
+CynthiaOlson: 100.0	MichelleWilson: 99.03413653373718	GregoryFoster: 98.84606599807739	
+GeorgeDawson: 100.0	AprilBlankenship: 97.47297748762234	KathrynOrr: 97.11451513257713	
+CassandraLawson: 100.0	AndreaHolmes: 98.88071431151458	BradGreene: 98.7986625672981	
+AndrewMiller: 100.0	DennisWoods: 99.33360815048218	ReginaDavis: 99.06274676322937	
+KaitlynHill: 100.0	DennisWoods: 99.01409739339933	ReginaDavis: 98.72067563060973	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Metro: 100.0	Loblaws: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Metro: 100.0	Loblaws: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Metro: 100.0	Loblaws: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Metro: 100.0	Loblaws: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Metro: 100.0	Loblaws: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Loblaws: 100.0	Metro: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Metro: 100.0	Loblaws: 0.0	Sobeys: 0.0	Wal-Mart: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
+Wal-Mart: 100.0	Loblaws: 0.0	Metro: 0.0	Sobeys: 0.0	
