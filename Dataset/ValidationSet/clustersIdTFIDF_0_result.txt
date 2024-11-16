@@ -1,0 +1,22 @@
+[Cluster: 0]
+[Centroid:  active baseball basketball field hockey ice soccer sports]
+[Points: 3
+userName: sportlover3, hockey ice sports
+userName: sportlover2, baseball field sports
+userName: SportsGuy, sports active soccer basketball
+]
+[Cluster: 0]
+[Centroid:  dogs fluffy leash love park pet treats walk]
+[Points: 3
+userName: Doggos, pet love dogs treats
+userName: doglover1, dogs pet walk leash
+userName: doglover2, pet dogs park fluffy
+]
+
+[Cluster: 0]
+[Centroid:  dogs fluffy leash love park pet treats walk]
+[Points: 3
+userName: doglover1, dogs pet walk leash
+userName: Doggos, pet love dogs treats
+userName: doglover2, pet dogs park fluffy
+]

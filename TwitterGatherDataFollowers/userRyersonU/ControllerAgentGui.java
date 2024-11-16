@@ -195,7 +195,7 @@ public class ControllerAgentGui extends JFrame implements ActionListener {
 	private long currentMessagePassingCost;
 
 	public ControllerAgentGui(ControllerAgent controller) {
-		super("Multi-Agent System Simulator for Distributed Social Network");
+		super("Multi-Agent System Simulator for Distributed Recommender System");
 
 		try {
 			for (LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
@@ -983,7 +983,7 @@ public class ControllerAgentGui extends JFrame implements ActionListener {
 		chooseDatasetTitle.setTitleJustification(TitledBorder.CENTER);
 		chooseDatasetTitle.setTitleFont(new Font("Arial",Font.BOLD,20));
 		chooseDatasetTitle.setTitleColor(Color.WHITE);
-		initializationTitle = BorderFactory.createTitledBorder(empty,"Performance Measurement of Social Network Simulator");
+		initializationTitle = BorderFactory.createTitledBorder(empty,"Performance Measurement of Simulated Recommender System");
 		initializationTitle.setTitleJustification(TitledBorder.CENTER);
 		initializationTitle.setTitleFont(new Font("Arial",Font.BOLD,20));
 		initializationTitle.setTitleColor(Color.WHITE);

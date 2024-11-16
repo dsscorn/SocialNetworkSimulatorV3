@@ -697,25 +697,3 @@ Nounnno: 100.0	styleofthesix: 73.07109276844422	tanya_babbar: 72.86138425973975	
 Nounnno: 100.0	styleofthesix: 72.96064737790996	tanya_babbar: 72.68793380070323	JosephWitkowsk5: 48.74378006960928	
 Nounnno: 100.0	styleofthesix: 73.70432576096543	tanya_babbar: 72.74233658227826	JosephWitkowsk5: 48.7145833479551	
 Nounnno: 100.0	styleofthesix: 73.30149283391323	tanya_babbar: 73.14660273234811	JosephWitkowsk5: 48.60770867971078	
-Nounnno: 100.0	styleofthesix: 92.54319667816162	tanya_babbar: 89.10968899726868	
-Nounnno: 100.0	styleofthesix: 93.69538426399231	JosephWitkowsk5: 84.83749032020569	
-Nounnno: 100.0	styleofthesix: 94.43140692336478	tanya_babbar: 83.91987277032462	
-Nounnno: 100.0	styleofthesix: 96.96714263958589	JosephWitkowsk5: 48.97547656151512	tanya_babbar: 48.13383508526296	
-Nounnno: 100.0	styleofthesix: 92.61329130013533	tanya_babbar: 89.81943069812243	
-Nounnno: 100.0	styleofthesix: 93.4408076476088	tanya_babbar: 87.38972098949898	
-Nounnno: 100.0	styleofthesix: 94.05390691114582	tanya_babbar: 83.94537163431983	
-Nounnno: 100.0	styleofthesix: 94.85200643539429	tanya_babbar: 90.8538818359375	
-Nounnno: 100.0	styleofthesix: 93.68088841438293	tanya_babbar: 88.58007788658142	
-Nounnno: 100.0	styleofthesix: 89.2092764377594	tanya_babbar: 84.82946753501892	
-Nounnno: 100.0	styleofthesix: 93.06856989860535	tanya_babbar: 84.24185514450073	
-Nounnno: 100.0	styleofthesix: 95.93284130096436	tanya_babbar: 90.09774327278137	
-Nounnno: 100.0	styleofthesix: 90.917492995561	tanya_babbar: 88.26797148371082	
-Nounnno: 100.0	styleofthesix: 88.19369532986823	tanya_babbar: 83.31727186647319	
-Nounnno: 100.0	styleofthesix: 88.8651192188263	tanya_babbar: 88.14868330955505	
-Nounnno: 100.0	tanya_babbar: 97.51130037043394	JosephWitkowsk5: 48.12681222339905	styleofthesix: 48.004309773573574	
-Nounnno: 100.0	JosephWitkowsk5: 93.9673486967475	styleofthesix: 48.86588759029581	tanya_babbar: 48.40060482021541	
-Nounnno: 100.0	styleofthesix: 73.78129895496676	tanya_babbar: 72.8413412414782	JosephWitkowsk5: 48.91948113565315	
-Nounnno: 100.0	styleofthesix: 93.00335133035763	tanya_babbar: 85.375370338515	
-Nounnno: 100.0	tanya_babbar: 96.37211870038156	styleofthesix: 48.52046821950471	JosephWitkowsk5: 48.22620605748278	
-Nounnno: 100.0	tanya_babbar: 73.19874774225069	styleofthesix: 73.18713079767639	JosephWitkowsk5: 48.82307804685366	
-Nounnno	K_Means: 1 Server(s)	MattSkiing: 100.0	AHKru: 42.0830021460446	SallySan_x: 26.81975642869882	Simon_Pella: 16.15295644511037	shawnaoh_: 11.643756744083221	RowanMMolloy: 7.145264819497737	ATMXO_: 0.0	JosephWitkowsk5: 0.0	MacSweeneyG: 0.0	RyersonU: 0.0	dreamakerrealty: 0.0	styleofthesix: 0.0	tanya_babbar: 0.0	

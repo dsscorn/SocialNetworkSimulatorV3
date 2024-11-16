@@ -1,0 +1,21 @@
+[Cluster: 2]
+[Centroid:  cinema comedy family fun hereditary horror incredible love movie night theatre]
+[Points: 3
+userName: MoviesGuy, love fun movie cinema theatre
+userName: movielover2, family comedy movie incredible
+userName: movielover1, horror hereditary night movie
+]
+[Cluster: 2]
+[Centroid:  active baseball basketball field hockey ice soccer sports]
+[Points: 3
+userName: sportlover2, baseball field sports
+userName: SportsGuy, sports active soccer basketball
+userName: sportlover3, hockey ice sports
+]
+[Cluster: 2]
+[Centroid:  active baseball basketball field hockey ice soccer sports]
+[Points: 3
+userName: sportlover2, hockey ice sports
+userName: sportlover1, baseball field sports
+userName: SportsGuy, sports active soccer basketball
+]

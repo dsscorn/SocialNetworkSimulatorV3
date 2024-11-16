@@ -1,0 +1,4 @@
+Doggos| doglover1: 100.0, doglover2: 100.0, MoviesGuy: 0.0, SportsGuy: 0.0, movielover1: 0.0, movielover2: 0.0, sportlover2: 0.0, sportlover3: 0.0,
+Doggos| doglover1: 100.0, doglover2: 88.73755315341928, MoviesGuy: 0.0, SportsGuy: 0.0, movielover1: 0.0, movielover2: 0.0, sportlover2: 0.0, sportlover3: 0.0,
+Doggos| doglover1: 100.0, doglover2: 88.73755315341928, MoviesGuy: 0.0, SportsGuy: 0.0, movielover1: 0.0, movielover2: 0.0, sportlover2: 0.0, sportlover3: 0.0,
+Doggos| doglover1: 100.0, doglover2: 88.73755315341928, MoviesGuy: 0.0, SportsGuy: 0.0, movielover1: 0.0, movielover2: 0.0, sportlover1: 0.0, sportlover2: 0.0,

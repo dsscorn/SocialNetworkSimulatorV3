@@ -1782,7 +1782,7 @@ public class RecommenderAgent extends Agent
 				 if (algorithmRec == SVM || algorithmRec == MLP )
 				{
 					
-					//S System.out.println("Test Sepide to see if the arff file is created");
+					System.out.println("Test Sepide to see if the arff file is created");
 					String arffDirName = "Dataset/Arff_files/";
 					File arffDir = new File(arffDirName);
 					if (!arffDir.exists())
@@ -3056,7 +3056,7 @@ public class RecommenderAgent extends Agent
 					//	}
 					 */
 					//k-means on aggregated tweets as document vectors
-					int kClusters = 4; //number of k clusters
+					int kClusters = 3; //number of k clusters
 					boolean convergence = false; //documents remain in the same clusters
 					int maxIterations = 10;
 
@@ -3750,7 +3750,7 @@ public class RecommenderAgent extends Agent
 				else if (algorithmRec == K_MEANSEUCLIDEAN)
 				{
 					//k-means on aggregated tweets as document vectors
-					int kClusters = 4; //number of k clusters
+					int kClusters = 3; //number of k clusters
 					boolean convergence = false; //documents remain in the same clusters
 					int maxIterations = 10;
 
@@ -4708,12 +4708,6 @@ public class RecommenderAgent extends Agent
 						else if ((line != null) &&  line.contains("Similarity after MLP")){
 							System.out.println("Similarity after MLP : " + line);
 						}
-						else if ((line != null) &&  line.contains("Accuracy for LogisticRegression:")){
-							System.out.println("Accuracy for LogisticRegression: : " + line);
-						}
-						else if ((line != null) &&  line.contains("Similarity after LogisticRegression:")){
-							System.out.println("Similarity after LogisticRegression : " + line);
-						}
 						
 						/*if ((line != null) &&  line.contains("cores:")) {
 							System.out.println("I'm coming from python : " + line);
@@ -5323,7 +5317,9 @@ public class RecommenderAgent extends Agent
 					System.out.println(getLocalName()+" training MLP");
 					
 					startTimeTrain = System.nanoTime();
+					//System.out.println("The line before the training starts");
 					nodeMLP.learn(trainMLP);
+					//System.out.println(" This line is taking a lot of time");
 					
 					endTimeTrain = System.nanoTime();
 					
@@ -5377,8 +5373,8 @@ public class RecommenderAgent extends Agent
 							}
 						}
 						
-						//S double accuracy = (double) correctPredictions / testMLP.size() * 100.0;
-					    //S System.out.println("Accuracy: " + String.format("%.2f%%", accuracy));
+						double accuracy = (double) correctPredictions / testMLP.size() * 100.0;
+						//S System.out.println("Accuracy: " + String.format("%.2f%%", accuracy));
 
 						
 						// End of code for calculating the accuracyfor MLP Neuroph
@@ -5388,7 +5384,7 @@ public class RecommenderAgent extends Agent
 						
 						// Code for confusion Matrix Neuroph
 						
-						/* int numClasses = numFollowees;
+						int numClasses = numFollowees;
 						int[][] confusionMatrix = new int[numClasses][numClasses];
 						
 						try {
@@ -5415,7 +5411,7 @@ public class RecommenderAgent extends Agent
 						  catch (NullPointerException e) {
 						      e.printStackTrace();
 							  
-						  }  */
+						  }
 						  
 						// End of code for confusion Matrix Neuroph
 
@@ -5593,14 +5589,38 @@ public class RecommenderAgent extends Agent
 					{
 							nnDir.mkdirs();
 					}
-					
+					//System.out.println("test for line 5311");
 					// try {
 					String nodeMLPFileName = nnDirName+getLocalName()+"_MLP.nnet";
 					//S String nodeMLPFileName = nnDirName+getLocalName()+"_MLP.txt";
 					//May-1 2023 String nodeMLPFileName = nnDirName+getLocalName()+"_MLP.model";
 					//System.out.println("test for line 5316");
 					nodeMLP.save(nodeMLPFileName);
-					 					
+					
+					// Calculating the accuracy for MLP Neuroph
+					
+					NeuralNetwork neuralNet = NeuralNetwork.createFromFile(nnDirName+getLocalName()+"_MLP.nnet");
+						
+						int correctPredictions = 0;
+						
+						for(DataSetRow row : testMLP.getRows()) {
+							neuralNet.setInput(row.getInput());
+							neuralNet.calculate();
+							double[] networkOutput = neuralNet.getOutput();
+
+							// Here you would compare networkOutput with the expected output
+							// If the prediction is correct, increment correctPredictions
+							if(isCorrectPrediction(networkOutput, row.getDesiredOutput())) {
+								correctPredictions++;
+							}
+						}
+						
+						double accuracy = (double) correctPredictions / testMLP.size() * 100.0;
+						//S System.out.println("Accuracy: " + accuracy + "%");
+						//S myGui.appendResult("MLP Accuracy: " + String.format("%.2f%%", accuracy));
+					
+					// End of code for calculating the accuracy for MLP Neuroph
+                    					
 					//s FileReader datareader = new FileReader(dataSetFilePath);
                     // S Instances data = new Instances(datareader);
 					//S weka.core.SerializationHelper.write("mlp.model", mlpNode);
@@ -5793,30 +5813,6 @@ public class RecommenderAgent extends Agent
 				completionTimeTest = endTimeTest - startTimeTest;
 				recNeuralNetwork(averagedMLP,recMLP);
 				// recNeuralNetwork(averagedNN,recMLP);
-				
-				// Calculating the accuracy for MLP Neuroph
-					
-					//S NeuralNetwork neuralNet = NeuralNetwork.createFromFile(nnDirName+getLocalName()+"_MLP.nnet");
-						
-						int correctPredictions = 0;
-						
-						for(DataSetRow row : testMLP.getRows()) {
-							averagedMLP.setInput(row.getInput());
-							averagedMLP.calculate();
-							double[] networkOutput = averagedMLP.getOutput();
-
-							// Here you would compare networkOutput with the expected output
-							// If the prediction is correct, increment correctPredictions
-							if(isCorrectPrediction(networkOutput, row.getDesiredOutput())) {
-								correctPredictions++;
-							}
-						}
-						
-						//S double accuracy = (double) correctPredictions / testMLP.size() * 100.0;
-						//S System.out.println("Accuracy: " + accuracy + "%");
-						//S myGui.appendResult("MLP Accuracy: " + String.format("%.2f%%", accuracy));
-					
-					// End of code for calculating the accuracy for MLP Neuroph
 				
 				
 				/* averagedMLP.setLearningRate(LEARNING_RATE_MLP);
@@ -6032,14 +6028,14 @@ public class RecommenderAgent extends Agent
     }
 	
 	// Method added by Sepide
-	   /* private void printConfusionMatrix(int[][] matrix) {
+	    private void printConfusionMatrix(int[][] matrix) {
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
                 System.out.print(matrix[i][j] + "\t");
             }
             System.out.println();
         }
-    }  */
+    }
 	
 	// End of methods added by Sepide 
 		

@@ -495,7 +495,8 @@ else:
 #df = pd.DataFrame(X_tsne, index=doc_tags, columns=['x', 'y'])
 
 
-#implementation of Classifier 
+#implementation of MLP
+"""
 def get_vectors(model, input_docs):
     sents = input_docs
     targets, feature_vectors = zip(*[(doc.tags[0], model.infer_vector(doc.words)) for doc in sents])
@@ -504,26 +505,12 @@ def get_vectors(model, input_docs):
 y_train, X_train = get_vectors(model, train_tagged)
 y_test, X_test = get_vectors(model, test_tagged)
 
-# Train Logistic Regression classifier
-classifier = LogisticRegression(solver='saga',max_iter=100000)
-classifier.fit(X_train, y_train)
-
-# Predict labels for test data
-y_pred = classifier.predict(X_test)
-
-"""
 mlp = MLPClassifier(hidden_layer_sizes=(150,100,50), max_iter=1000,activation = 'relu',solver='adam',random_state=1)
 mlp.fit(X_train, y_train)
 y_pred = mlp.predict(X_test)
-"""
-
-# Calculate accuracy
-accuracy = accuracy_score(y_test, y_pred)
-print("Accuracy for LogisticRegression:", accuracy * 100)
 
 print("Sepide testing output of labels", y_pred[0])
 
-"""
 print('Testing accuracy for movie plots MLPClassifier%s.', accuracy_score(y_test, y_pred))
 print('Testing F1 score for movie plots MLPClassifier: {}',format(f1_score(y_test, y_pred, average='weighted')))
 
@@ -531,10 +518,6 @@ print('Testing F1 score for movie plots MLPClassifier: {}',format(f1_score(y_tes
 print('========Similarity after MLP===============')
 print("Similarity after MLP",model.dv.most_similar(positive=[y_pred[0]]))
 """
-
-print('========Similarity after Logistic Regression===============')
-print("Similarity after LogisticRegression",model.dv.most_similar(positive=[y_pred[0]]))
-
 
 
 

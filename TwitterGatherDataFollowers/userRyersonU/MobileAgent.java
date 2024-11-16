@@ -1746,87 +1746,6 @@ public class MobileAgent extends Agent {
 						       e.printStackTrace();
 					        }
 						}
-						else if (selectedFile.getName().equals("Retail.txt")) {
-							try { 
-							    BufferedReader readerSepi5 = new BufferedReader(new FileReader(importantStuffDirName + "name-number-retail.txt"));
-							    String line5 = readerSepi5.readLine();
-								
-								outer: while (line5 != null) {
-									wordsFile3 = line5.split(" ");
-									for(String str: usersRec) {
-										if (wordsFile3[0].equals(str)){
-											System.out.println("User's Number:" + wordsFile3[1]);
-											break outer;
-										}
-									}
-									line5 = readerSepi5.readLine();
-									
-								}
-								readerSepi5.close();
-								
-								readerSepi5 = new BufferedReader(new FileReader(importantStuffDirName + "name-number-retail.txt"));
-							    line5 = readerSepi5.readLine();
-								
-								outerR: while (line5 != null) {
-									wordsFile5 = line5.split(" ");
-								
-								if (wordsFile5[0].equals(someTest3)){
-											System.out.println("User's Followee Number:" + wordsFile5[1]);
-											userFolloweeNum = wordsFile5[1];
-											break outerR;
-										}
-									line5 = readerSepi5.readLine();
-									}
-								readerSepi5.close();
-							}
-							catch (IOException e) {
-						      // TODO Auto-generated catch block
-						       e.printStackTrace();
-					        }
-							
-							try {
-								int iterNum = myGui.simulationSelectionBox.getSelectedIndex();
-								BufferedReader readerSepi4 = new BufferedReader(new FileReader(importantStuffDirName + "name-number-retail.txt"));
-							    String line4 = readerSepi4.readLine();
-								System.out.println("iterNum:  " + iterNum);
-								outer2: while (line4 != null) {
-									wordsFile4 = line4.split(" ");
-										if (iterNum == 0 && wordsFile4[0].equals(someTest3)){
-											System.out.println("Followee's Number:" + wordsFile4[1]);
-											break outer2;
-										}
-										else if (iterNum == 1 && wordsFile4[0].equals(sepTest.get(0))){
-											System.out.println("Followee's Number:" + wordsFile4[1]);
-											break outer2;
-										}
-                                    
-									   else if (iterNum == 2 && wordsFile4[0].equals(sepTest.get(1))){
-											System.out.println("Followee's Number:" + wordsFile4[1]);
-											break outer2;
-										}
-                                 
-									   else if (iterNum == 3 && wordsFile4[0].equals(sepTest.get(2))){
-											System.out.println("Followee's Number:" + wordsFile4[1]);
-											break outer2;
-										}
-									   else if (iterNum == 4 && wordsFile4[0].equals(sepTest.get(3))){
-											System.out.println("Followee's Number:" + wordsFile4[1]);
-											break outer2;
-										}
-									   else if (iterNum == 5 && wordsFile4[0].equals(sepTest.get(4))){
-											System.out.println("Followee's Number:" + wordsFile4[1]);
-											break outer2;
-										}
-                                  else 
-									  line4 = readerSepi4.readLine();
-								  }
-								readerSepi4.close();  
-							}
-							catch (IOException e) {
-						      // TODO Auto-generated catch block
-						       e.printStackTrace();
-					        }
-						}
 						
 						try {
 							BufferedWriter writeredges = new BufferedWriter(new FileWriter(importantStuffDirName + "edges-numbers.txt",true));
@@ -1841,7 +1760,7 @@ public class MobileAgent extends Agent {
 							Process p1 = java.lang.Runtime.getRuntime().exec( "gcc " +  importantStuffDirName + "TXT2GMLv1.0/conversion.c" + " -o " + importantStuffDirName + "TXT2GMLv1.0/conversion", null, dir );
 							try 
                                  {
-                                      Thread.sleep(1000);
+                                      Thread.sleep(3000);
                                  } 
                               catch(InterruptedException e)
                                 {
