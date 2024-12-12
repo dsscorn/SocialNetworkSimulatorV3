@@ -1074,7 +1074,7 @@ public class MobileAgent extends Agent {
 										doc2vecLocDir.mkdirs();
 								}
 								//java.lang.ProcessBuilder pb = new ProcessBuilder("C:/Program Files/Python39/python.exe","D:/Simulator-S-15-May-2020/TwitterGatherDataFollowers/userRyersonU/probab.py",""+KeYs.get(0),""+KeYs.get(1),""+KeYs.get(2),""+vaLues.get(0),""+vaLues.get(1),""+vaLues.get(2)).inheritIO();
-                                java.lang.ProcessBuilder pb = new ProcessBuilder("C:/Program Files/Python39/python.exe",doc2vecDirLoc + "probab.py",""+KeYs,""+vaLues,""+myGui.algorithmSelectionBox.getSelectedIndex()).inheritIO();
+                                java.lang.ProcessBuilder pb = new ProcessBuilder("python",doc2vecDirLoc + "probab.py",""+KeYs,""+vaLues,""+myGui.algorithmSelectionBox.getSelectedIndex()).inheritIO();
 								Process p = pb.start();
 								
 								int exitCode = p.waitFor();
