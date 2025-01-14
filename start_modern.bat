@@ -26,29 +26,19 @@ if %jver% GTR 9 (
 
 echo Checking Python environment...
 
-:: Try python3 first, then python
-set "PYTHON_CMD=python3"
-%PYTHON_CMD% --version >nul 2>&1
-if %ERRORLEVEL% NEQ 0 (
-    set "PYTHON_CMD=python"
-    %PYTHON_CMD% --version >nul 2>&1
-    if %ERRORLEVEL% NEQ 0 (
-        echo Python 3 is not installed!
-        exit /b 1
-    )
-    :: windows hack to check python3 version
-    for /f "tokens=1,2 delims= " %%a in ('%PYTHON_CMD% --version') do (
-        if not "%%a"=="Python" (
-            echo Python 3 is not installed!
-            exit /b 1
-        )
-        if not "%%b:~0,1"=="3" (
-            echo Python 3 is not installed!
-            exit /b 1
-        )
-    )
+where /q python3 2>nul && (python3 -c "print('ok')" 2>nul | findstr "ok" >nul) 
+if %ERRORLEVEL% EQU 0 (
+    set "PYTHON_CMD=python3"
+    goto :python_found
 )
 
+where /q python 2>nul && (python -c "print('ok')" 2>nul | findstr "ok" >nul)
+if %ERRORLEVEL% EQU 0 (
+    set "PYTHON_CMD=python"
+    goto :python_found
+)
+
+:python_found
 echo Using Python command: %PYTHON_CMD%
 
 :: Check Python version using python modules
