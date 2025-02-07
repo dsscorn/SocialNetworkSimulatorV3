@@ -60,7 +60,32 @@ if %ERRORLEVEL% NEQ 0 (
     echo Installing numpy...
     %PYTHON_CMD% -m pip install numpy
 )
-
+%PYTHON_CMD% -c "import gensim" 2>nul
+if %ERRORLEVEL% NEQ 0 (
+    echo Installing gensim...
+    %PYTHON_CMD% -m pip install gensim
+)
+%PYTHON_CMD% -c "import sklearn" 2>nul
+if %ERRORLEVEL% NEQ 0 (
+    echo Installing sklearn...
+    %PYTHON_CMD% -m pip install scikit-learn
+)
+%PYTHON_CMD% -c "import nltk" 2>nul
+if %ERRORLEVEL% NEQ 0 (
+    echo Installing nltk...
+    %PYTHON_CMD% -m pip install nltk
+    %PYTHON_CMD% -c "import nltk;nltk.download('punkt');nltk.download('punkt_tab')"
+)
+%PYTHON_CMD% -c "import seaborn" 2>nul
+if %ERRORLEVEL% NEQ 0 (
+    echo Installing seaborn...
+    %PYTHON_CMD% -m pip install seaborn
+)
+%PYTHON_CMD% -c "import matplotlib" 2>nul
+if %ERRORLEVEL% NEQ 0 (
+    echo Installing matplotlib...
+    %PYTHON_CMD% -m pip install matplotlib
+)
 :: Compile Java code
 javac -nowarn -cp "lib/*" -d classes TwitterGatherDataFollowers/userRyersonU/*.java
 
