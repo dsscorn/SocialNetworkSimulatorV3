@@ -4658,7 +4658,7 @@ public class RecommenderAgent extends Agent
 					
 					//java.lang.ProcessBuilder pb = new ProcessBuilder("C:/Program Files/Python39/python.exe","D:/Simulator-S-15-May-2020/TwitterGatherDataFollowers/userRyersonU/doc2vec.py",""+usersRec.get(0).toString(),""+topn,""+myCSV).inheritIO();
 					//java.lang.ProcessBuilder pb = new ProcessBuilder("C:/Program Files/Python39/python.exe",doc2vecDirLoc + "doc2vec.py",""+usersRec.get(0).toString(),""+topn,""+out_file_pattern,""+nodeNumber).inheritIO();
-					java.lang.ProcessBuilder pb = new ProcessBuilder("C:/Program Files/Python39/python.exe",doc2vecDirLoc + "doc2vec.py",""+usersRec.get(0).toString(),""+topn,""+out_file_pattern,""+nodeNumber);
+					java.lang.ProcessBuilder pb = new ProcessBuilder("python",doc2vecDirLoc + "doc2vec.py",""+usersRec.get(0).toString(),""+topn,""+out_file_pattern,""+nodeNumber);
 					//java.lang.ProcessBuilder pb = new ProcessBuilder("C:/Program Files/Python39/python.exe","D:/Simulator-S-15-May-2020/TwitterGatherDataFollowers/userRyersonU/doc2vec3.py",""+usersRec.get(0).toString(),""+topn,""+myGui.fileChooser.getSelectedFile()).inheritIO();
                     
 					Process p = pb.start();

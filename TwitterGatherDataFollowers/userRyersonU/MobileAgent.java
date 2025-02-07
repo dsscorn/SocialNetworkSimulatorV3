@@ -1768,6 +1768,8 @@ public class MobileAgent extends Agent {
 //                                     }
 							  //Process p = java.lang.Runtime.getRuntime().exec( "D:/Jorge/Simulator-S-15-May-2020/important-stuff/TXT2GMLv1.0/conversion  D:/Jorge/Simulator-S-15-May-2020/important-stuff/edges-numbers");
 							  Process p = java.lang.Runtime.getRuntime().exec( "python "+ importantStuffDirName +"TXT2GMLv1.0/conversion.py" + "  " + importantStuffDirName +"edges-numbers");
+//							Process p = java.lang.Runtime.getRuntime().exec( importantStuffDirName +"TXT2GMLv1.0/conversion" + "  " + importantStuffDirName +"edges-numbers");
+
 						}
 						
 						catch (IOException e) {

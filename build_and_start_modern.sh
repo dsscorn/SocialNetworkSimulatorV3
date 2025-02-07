@@ -56,6 +56,32 @@ if ! $PYTHON_CMD -c "import numpy" &> /dev/null; then
     $PYTHON_CMD -m pip install numpy
 fi
 
+if ! $PYTHON_CMD -c "import gensim" &> /dev/null; then
+    echo "Installing gensim..."
+    $PYTHON_CMD -m pip install gensim
+fi
+
+if ! $PYTHON_CMD -c "import sklearn" &> /dev/null; then
+    echo "Installing sklearn..."
+    $PYTHON_CMD -m pip install scikit-learn
+fi
+
+if ! $PYTHON_CMD -c "import nltk" &> /dev/null; then
+    echo "Installing nltk..."
+    $PYTHON_CMD -m pip install nltk
+    $PYTHON_CMD -c "import nltk;nltk.download('punkt');nltk.download('punkt_tab')"
+fi
+
+if ! $PYTHON_CMD -c "import seaborn" &> /dev/null; then
+    echo "Installing seaborn..."
+    $PYTHON_CMD -m pip install seaborn
+fi
+
+if ! $PYTHON_CMD -c "import matplotlib" &> /dev/null; then
+    echo "Installing matplotlib..."
+    $PYTHON_CMD -m pip install matplotlib
+fi
+
 javac -nowarn -cp "lib/*" -d classes TwitterGatherDataFollowers/userRyersonU/*.java
 
 java $JAVA_OPTS -cp "lib/*:classes" jade.Boot $JADE_OPTS controller:TwitterGatherDataFollowers.userRyersonU.ControllerAgent
