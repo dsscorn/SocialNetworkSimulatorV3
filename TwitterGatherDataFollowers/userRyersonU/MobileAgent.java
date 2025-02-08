@@ -1074,7 +1074,7 @@ public class MobileAgent extends Agent {
 										doc2vecLocDir.mkdirs();
 								}
 								//java.lang.ProcessBuilder pb = new ProcessBuilder("C:/Program Files/Python39/python.exe","D:/Simulator-S-15-May-2020/TwitterGatherDataFollowers/userRyersonU/probab.py",""+KeYs.get(0),""+KeYs.get(1),""+KeYs.get(2),""+vaLues.get(0),""+vaLues.get(1),""+vaLues.get(2)).inheritIO();
-                                java.lang.ProcessBuilder pb = new ProcessBuilder("C:/Program Files/Python39/python.exe",doc2vecDirLoc + "probab.py",""+KeYs,""+vaLues,""+myGui.algorithmSelectionBox.getSelectedIndex()).inheritIO();
+                                java.lang.ProcessBuilder pb = new ProcessBuilder("python",doc2vecDirLoc + "probab.py",""+KeYs,""+vaLues,""+myGui.algorithmSelectionBox.getSelectedIndex()).inheritIO();
 								Process p = pb.start();
 								
 								int exitCode = p.waitFor();
@@ -1757,17 +1757,19 @@ public class MobileAgent extends Agent {
 							//java.lang.Runtime.getRuntime().exec("cmd /c start cmd.exe /K \"gcc C:\\Users\\s2baniha\\Desktop\\important-stuff\\TXT2GMLv1.0\\conversion.c");
 							//java.lang.Runtime.getRuntime().exec("cmd /c start cmd.exe /K \"C:\\Users\\s2baniha\\Desktop\\important-stuff\\TXT2GMLv1.0\\conversion C:\\Users\\s2baniha\\Desktop\\important-stuff\\edges-numbers");
 							File dir = new File(importantStuffDirName + "TXT2GMLv1.0");
-							Process p1 = java.lang.Runtime.getRuntime().exec( "gcc " +  importantStuffDirName + "TXT2GMLv1.0/conversion.c" + " -o " + importantStuffDirName + "TXT2GMLv1.0/conversion", null, dir );
-							try 
-                                 {
-                                      Thread.sleep(3000);
-                                 } 
-                              catch(InterruptedException e)
-                                {
-                                  e.printStackTrace();
-                                     }
+//							Process p1 = java.lang.Runtime.getRuntime().exec( "gcc " +  importantStuffDirName + "TXT2GMLv1.0/conversion.c" + " -o " + importantStuffDirName + "TXT2GMLv1.0/conversion", null, dir );
+//							try
+//                                 {
+//                                      Thread.sleep(3000);
+//                                 }
+//                              catch(InterruptedException e)
+//                                {
+//                                  e.printStackTrace();
+//                                     }
 							  //Process p = java.lang.Runtime.getRuntime().exec( "D:/Jorge/Simulator-S-15-May-2020/important-stuff/TXT2GMLv1.0/conversion  D:/Jorge/Simulator-S-15-May-2020/important-stuff/edges-numbers");
-							  Process p = java.lang.Runtime.getRuntime().exec( importantStuffDirName +"TXT2GMLv1.0/conversion" + "  " + importantStuffDirName +"edges-numbers");
+							  Process p = java.lang.Runtime.getRuntime().exec( "python "+ importantStuffDirName +"TXT2GMLv1.0/conversion.py" + "  " + importantStuffDirName +"edges-numbers");
+//							Process p = java.lang.Runtime.getRuntime().exec( importantStuffDirName +"TXT2GMLv1.0/conversion" + "  " + importantStuffDirName +"edges-numbers");
+
 						}
 						
 						catch (IOException e) {

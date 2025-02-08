@@ -64,7 +64,10 @@ import jade.lang.acl.UnreadableException;
 
 import java.awt.Desktop;  // added by Sepide
 import java.io.*;  // added by Sepide
-import org.gephi.statistics.plugin.Modularity;   // added by Sepide 
+
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.rendering.PDFRenderer;
+import org.gephi.statistics.plugin.Modularity;   // added by Sepide
 import org.gephi.statistics.plugin.builder.ModularityBuilder;  // added by Sepide 
 import org.gephi.io.importer.plugin.file.ImporterBuilderGML;   // added by Sepide
 import org.gephi.io.importer.spi.*;  // added by Sepide 
@@ -798,18 +801,30 @@ public class StarterAgent extends Agent
                                      }
 									 
 									 try {
-										 
-										PdfDocument pdf = new PdfDocument();
-									 pdf.loadFromFile(importantStuffDirName+"autolayout.pdf");
-									 
-									BufferedImage image;
+										 PDDocument document = PDDocument.load(new File(importantStuffDirName + "autolayout.pdf"));
+										 PDFRenderer pdfRenderer = new PDFRenderer(document);
 
-                                      for (int i = 0; i < pdf.getPages().getCount(); i++) {
-                                           image = pdf.saveAsImage(i);
-                                           File file = new File( String.format(importantStuffDirName+"layout.jpg", i));
-                                         ImageIO.write(image, "png", file);
-                                         }
-                                        pdf.close();
+										 try {
+											 for (int i = 0; i < document.getNumberOfPages(); i++) {
+												 BufferedImage image = pdfRenderer.renderImageWithDPI(i, 300); // 300 DPI, you can adjust this
+												 File file = new File(String.format(importantStuffDirName + "layout.jpg", i));
+												 ImageIO.write(image, "png", file);
+											 }
+										 } finally {
+											 document.close();
+										 }
+
+//										 PdfDocument pdf = new PdfDocument();
+//									 pdf.loadFromFile(importantStuffDirName+"autolayout.pdf");
+//
+//									BufferedImage image;
+//
+//                                      for (int i = 0; i < pdf.getPages().getCount(); i++) {
+//                                           image = pdf.saveAsImage(i);
+//                                           File file = new File( String.format(importantStuffDirName+"layout.jpg", i));
+//                                         ImageIO.write(image, "png", file);
+//                                         }
+//                                        pdf.close();
 									 }
 									 catch (Exception e) {
                                                    System.out.println("ERROR: " + e.getMessage());
